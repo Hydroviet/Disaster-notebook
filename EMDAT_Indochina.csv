@@ -1,400 +1,400 @@
-sep=,
-"Start date","End date",Country,ISO,Location,Latitude,Longitude,"Magnitude value","Magnitude scale","Disaster type","Disaster subtype","Associated disaster","Associated disaster2","Total deaths","Total affected","Total damage ('000 US$)",insured_losses,"Disaster name","Disaster No."
+sep=,,,,,,,,,,,,,,,,,,
+Start date,End date,Country,ISO,Location,Latitude,Longitude,Magnitude value,Magnitude scale,Disaster type,Disaster subtype,Associated disaster,Associated disaster2,Total deaths,Total affected,Total damage ('000 US$),insured_losses,Disaster name,Disaster No.
 //1987,//1987,Cambodia,KHM,,,,,Km2,Drought,Drought,--,--,0,0,0,0,,1987-9026
-22/08/1991,30/08/1991,Cambodia,KHM,"Kampong Cham, Prey Veng, Kampot, Kampong Spen, Takeo, Kandal Provinces",,,55860,Km2,Flood,"Riverine flood",--,--,100,900000,150000,0,,1991-0211
+22/08/1991,30/08/1991,Cambodia,KHM,"Kampong Cham, Prey Veng, Kampot, Kampong Spen, Takeo, Kandal Provinces",,,55860,Km2,Flood,Riverine flood,--,--,100,900000,150000,0,,1991-0211
 31/07/1994,31/07/1994,Cambodia,KHM,"Battambang, Takeo, Kompong Cham, Kandal, Kompong Speu, Phnom Penh",,,,Km2,Flood,--,--,--,506,29000,0,0,,1994-0064
 /06/1994,//1996,Cambodia,KHM,"Prey Veng, Kompong Speu, Kompong Chhnang, Takeo provinces",,,3000,Km2,Drought,Drought,Flood,Famine,0,5000000,100000,0,,1994-9223
-30/09/1996,03/11/1996,Cambodia,KHM,"Kratie, Phnom Penh, Tatanakiri, Stung Treng, Kampong Cham, Kandal, Prey Veng provinces",,,1306,Km2,Flood,"Riverine flood",--,--,59,1300000,1500,0,,1996-0221
-01/11/1997,04/11/1997,Cambodia,KHM,,,,,Kph,Storm,"Tropical cyclone",--,--,25,0,10,0,Linda,1997-0267
-02/08/1999,08/08/1999,Cambodia,KHM,"Kampot, Kratie, and Kompong Cham, Koh Kong, Sihanoukville Provinces",,,120,Km2,Flood,"Flash flood",--,--,7,535904,500,0,,1999-0259
-25/10/1999,09/11/1999,Cambodia,KHM,"Takeo, Kandal, Kampong Speu, Phnom Penh Municipality, Pursat",,,99,Km2,Flood,"Coastal flood",--,--,0,124475,0,0,,1999-0437
-11/07/2000,10/08/2000,Cambodia,KHM,"Stung Treng, Kratie, Koh Kong, Kampong Cham, Pursat, Kampong Thom, Takeo, Siem Reap, Otdar Meanchey, Kampot, Svay Rieng, Kandal, Phnom Penh, Prey Veng, Kampong Chhnang, Ratanak Kiri, Preah Vihear, Battambang, Banteay Meanchey, Kampong Speu provinces",,,638,Km2,Flood,"Riverine flood",--,--,347,3448053,160000,0,,2000-0438
-15/08/2001,19/11/2001,Cambodia,KHM,"Stung Treng, Kratie, Kampong Cham provinces",,,3000,Km2,Flood,"Riverine flood",--,--,56,1669182,15000,0,,2001-0485
+30/09/1996,03/11/1996,Cambodia,KHM,"Kratie, Phnom Penh, Tatanakiri, Stung Treng, Kampong Cham, Kandal, Prey Veng provinces",,,1306,Km2,Flood,Riverine flood,--,--,59,1300000,1500,0,,1996-0221
+01/11/1997,04/11/1997,Cambodia,KHM,,,,,Kph,Storm,Tropical cyclone,--,--,25,0,10,0,Linda,1997-0267
+02/08/1999,08/08/1999,Cambodia,KHM,"Kampot, Kratie, and Kompong Cham, Koh Kong, Sihanoukville Provinces",,,120,Km2,Flood,Flash flood,--,--,7,535904,500,0,,1999-0259
+25/10/1999,09/11/1999,Cambodia,KHM,"Takeo, Kandal, Kampong Speu, Phnom Penh Municipality, Pursat",,,99,Km2,Flood,Coastal flood,--,--,0,124475,0,0,,1999-0437
+11/07/2000,10/08/2000,Cambodia,KHM,"Stung Treng, Kratie, Koh Kong, Kampong Cham, Pursat, Kampong Thom, Takeo, Siem Reap, Otdar Meanchey, Kampot, Svay Rieng, Kandal, Phnom Penh, Prey Veng, Kampong Chhnang, Ratanak Kiri, Preah Vihear, Battambang, Banteay Meanchey, Kampong Speu provinces",,,638,Km2,Flood,Riverine flood,--,--,347,3448053,160000,0,,2000-0438
+15/08/2001,19/11/2001,Cambodia,KHM,"Stung Treng, Kratie, Kampong Cham provinces",,,3000,Km2,Flood,Riverine flood,--,--,56,1669182,15000,0,,2001-0485
 /09/2001,//2001,Cambodia,KHM,"Kampong Cham, Kampong Chhnang, Kampong Speu, Kampong Thom, Kampot, Kandal, Kep, Koh Kong, Kratie, Phnom Penh, Preah Sihanouk, Prey Veng, Pursat, Svay Rieng, Takeo provinces",,,,Km2,Drought,Drought,--,--,0,300000,0,0,,2001-9525
-18/08/2002,26/11/2002,Cambodia,KHM,"Kandal, Stung Treng, Prey Veng, Takeo, Kampong Chhnang, Banteay Meanchey, Svay Rieng, Kampong Speu, Kratie, Pursat, Kampot provinces",,,,Km2,Flood,"Riverine flood",--,--,29,1470000,100,0,,2002-0522
+18/08/2002,26/11/2002,Cambodia,KHM,"Kandal, Stung Treng, Prey Veng, Takeo, Kampong Chhnang, Banteay Meanchey, Svay Rieng, Kampong Speu, Kratie, Pursat, Kampot provinces",,,,Km2,Flood,Riverine flood,--,--,29,1470000,100,0,,2002-0522
 /01/2002,/07/2002,Cambodia,KHM,"Takeo, Kampot, Kampong Speu, Kampong Chhnang, Kandal, Prey Veng, Phnom Penh,Otdar Meanchey, Banteay Meanchey, Pursat, Battambang provinces",,,2000,Km2,Drought,Drought,--,--,0,650000,38000,0,,2002-9485
-24/08/2004,21/10/2004,Cambodia,KHM,"Kampong Cham, Kampong Chhnang, Kampong Speu, Kampong Thom, Kampot, Kandal, Kratie, Phnom Penh, Preah Vihear, Prey Veng, Stung Treng, Takeo provinces",,,,Km2,Flood,"Riverine flood",--,--,0,0,0,0,,2004-0735
-08/09/2005,29/09/2005,Cambodia,KHM,"Kratie, Kampong Cham, Kandal, Prey Veng, Siem Reap provinces",,,,Km2,Flood,"Riverine flood",--,--,16,0,0,0,,2005-0515
-/04/2005,/04/2005,Cambodia,KHM,"Kampong Speu province",,,,Km2,Drought,Drought,"Food shortage","Heat wave",0,600000,0,0,,2005-9206
-06/07/2006,07/07/2006,Cambodia,KHM,"Koh Kong province",11.43,103.53,11610,Km2,Flood,"Riverine flood",--,--,0,5000,0,0,,2006-0368
-10/08/2006,01/11/2006,Cambodia,KHM,"Kampong Seila district (Koh Kong province), Phnom Penh, Kampong Speu, Kampot, Ratanak Kiri, Mondul Kiri provinces",11.06,104.68,55860,Km2,Flood,"Riverine flood",Rain,--,5,33000,0,0,,2006-0451
-10/08/2007,24/08/2007,Cambodia,KHM,"Kampong Thom, Ratanak Kiri, Preah Vihear provinces",13.28,105.88,64580,Km2,Flood,"Riverine flood",--,--,2,19000,1000,0,,2007-0410
-29/09/2009,30/09/2009,Cambodia,KHM,"Kampong Thom, Kratie, Mondul Kiri, Preah Vihear, Ratanak Kiri, Stung Treng provinces",,,,Kph,Storm,"Tropical cyclone",--,--,17,178091,0,0,"Tropical storm ""Ondoy"" (Ketsana)",2009-0414
-02/11/2009,03/11/2009,Cambodia,KHM,"Kaoh Nheaek district (Mondul Kiri province)",,,,Kph,Storm,"Tropical cyclone",--,--,2,0,0,0,"Tropical storm ""Mirinae"" (Santi)",2009-0478
-20/10/2010,09/11/2010,Cambodia,KHM,"Banteay Meanchey, Battambang, Otdar Meanchey, Pailin, Preah Vihear, Pursat provinces",,,,Km2,Flood,"Riverine flood",--,--,8,0,70000,0,,2010-0552
-10/08/2011,01/11/2011,Cambodia,KHM,"Kandal, Kampong Thom, Prey Veng, Kampong Cham, Kratie, Battambang, Kampong Chhnang, Preah Vihear, Pursat provinces",12.004,105.5,13466,Km2,Flood,"Riverine flood",--,--,247,1640023,521000,0,,2011-0364
-17/09/2012,26/09/2012,Cambodia,KHM,"Banteay Meanchey province",,,,Km2,Flood,"Flash flood",--,--,14,71500,0,0,,2012-0504
-24/09/2013,14/10/2013,Cambodia,KHM,"Battambang, Banteay Meanchey, Kampong Cham, Prey Veng, Kandal, Siem Reap, Kratie, Kampong Thom, Otdar Meanchey, Stung Treng, Pursat, Kampong Chhnang, Ratanak Kiri, Preah Vihear, Svay Rieng, Phnom Penh, Takeo, Pailin, Kampot provinces",,105.08,52283,Km2,Flood,"Riverine flood",--,--,200,1500000,500000,0,,2013-0380
-30/07/2014,31/08/2014,Cambodia,KHM,"Kampong Cham, Kampong Chhnang, Kampong Speu, Kampong Thom, Kampot, Kandal, Kratie, Phnom Penh, Preah Vihear, Prey Veng, Stung Treng, Takeo provinces",,,,Km2,Flood,"Flash flood",--,--,45,530450,2000,0,,2014-0260
-/05/2016,/05/2016,Cambodia,KHM,"Banteay Meanchey, Battambang, Pursat, Kampong Speu provinces ",,,,Km2,Drought,Drought,"Water shortage",--,0,2500000,0,0,,2016-9225
-25/08/1966,25/08/1966,"Lao People's Democratic Republic (the)",LAO,,,,,Km2,Flood,"Riverine flood",--,--,300,72000,15300,0,,1966-0064
-05/09/1968,05/09/1968,"Lao People's Democratic Republic (the)",LAO,"South, along Mekong river",,,,Km2,Flood,--,--,--,2,9600,1280,0,,1968-0072
-15/08/1969,15/08/1969,"Lao People's Democratic Republic (the)",LAO,"Vientiane plains",,,,Km2,Flood,--,--,--,0,0,0,0,,1969-0086
-17/08/1971,17/08/1971,"Lao People's Democratic Republic (the)",LAO,Vientiane,,,,Km2,Flood,--,--,--,14,115000,200,0,,1971-0048
-//1977,//1977,"Lao People's Democratic Republic (the)",LAO,"Southern provinces",,,,Km2,Drought,Drought,--,--,0,3500000,0,0,,1977-9029
-/08/1978,/08/1978,"Lao People's Democratic Republic (the)",LAO,"Southern, Central",,,,Km2,Flood,--,--,--,31,459000,0,0,,1978-0107
-/07/1981,/07/1981,"Lao People's Democratic Republic (the)",LAO,,,,,Km2,Flood,--,--,--,0,0,0,0,,1981-0011
-/09/1984,/09/1984,"Lao People's Democratic Republic (the)",LAO,,,,,Km2,Flood,--,--,--,14,2000,0,0,,1984-0077
-//1987,//1987,"Lao People's Democratic Republic (the)",LAO,"Northern provinces",,,,Km2,Drought,Drought,--,--,0,0,0,0,,1987-9028
-/12/1988,//1988,"Lao People's Democratic Republic (the)",LAO,"Southern provinces",,,,Km2,Drought,Drought,--,--,0,730000,0,0,,1988-9522
-//1991,//1991,"Lao People's Democratic Republic (the)",LAO,"Whole country",,,,Kph,Storm,--,--,--,0,38315,150,0,,1991-0701
-/09/1991,/09/1991,"Lao People's Democratic Republic (the)",LAO,"Khammouane, Savannakhet, Champassak",,,,Km2,Flood,"Riverine flood",--,--,0,332000,0,0,,1991-0761
-/07/1991,//1993,"Lao People's Democratic Republic (the)",LAO,"Whole country",,,132,Km2,Drought,Drought,--,--,0,0,1000,0,,1991-9195
-10/07/1992,10/07/1992,"Lao People's Democratic Republic (the)",LAO,"Whole country",,,,Kph,Storm,"Tropical cyclone",--,--,22,268877,3650,0,"Zeke & Fred",1992-0470
-/08/1992,/08/1992,"Lao People's Democratic Republic (the)",LAO,"Whole country",,,,Km2,Flood,"Riverine flood",--,--,10,150,21828,0,,1992-0488
-/07/1993,/07/1993,"Lao People's Democratic Republic (the)",LAO,,,,93,Kph,Storm,--,--,--,8,120,302151,0,"Lewis & Winona",1993-0474
-/08/1994,/08/1994,"Lao People's Democratic Republic (the)",LAO,Central,,,200,Km2,Flood,--,--,--,0,190000,0,0,,1994-0760
-/09/1995,/09/1995,"Lao People's Democratic Republic (the)",LAO,"Bolikhamxay, Savannakhet, Champassak, Sekong, Attapeu provinces",,,625,Km2,Flood,"Riverine flood",--,--,0,391400,0,0,,1995-0229
-/07/1995,/07/1995,"Lao People's Democratic Republic (the)",LAO,,,,,Km2,Flood,--,--,--,0,200000,0,0,,1995-0463
-01/08/1995,01/08/1995,"Lao People's Democratic Republic (the)",LAO,,,,,Kph,Storm,"Tropical cyclone",--,--,26,1000000,0,0,,1995-0464
-15/08/1996,15/08/1996,"Lao People's Democratic Republic (the)",LAO,"Huaphanh, Phongsaly, Luanprabang, Luangnamtha, Borikhamsay, Savanhnakheat, Vientiane, Khammuoane provinces,  Vientiane municapilty",,,200,Km2,Flood,"Riverine flood",--,--,30,420000,0,0,,1996-0215
-/01/1999,//1999,"Lao People's Democratic Republic (the)",LAO,,,,,Km2,Drought,Drought,--,--,0,20000,0,0,,1999-9037
-/09/2000,/09/2000,"Lao People's Democratic Republic (the)",LAO,"Louang-Namtha, Bolikhamxai, Khammouan, Savannakhet, Champasak, Salavan, Vientiane, Vientiane capital province",,,1104,Km2,Flood,--,--,--,15,450000,1000,0,,2000-0583
-/08/2001,/08/2001,"Lao People's Democratic Republic (the)",LAO,"Khammouan, Savannakhet, Champasak, Attapu provinces",,,590,Km2,Flood,--,--,--,0,453000,0,0,,2001-0782
-/08/2002,/08/2002,"Lao People's Democratic Republic (the)",LAO,"Bolikhamxai, Savannakhet, Vientiane, Vientiane capital, Khammouan, Oudomxai, Louangphabang provinces",,,,Km2,Flood,"Riverine flood",--,--,2,150000,0,0,,2002-0614
-12/08/2008,18/08/2008,"Lao People's Democratic Republic (the)",LAO,"Louangphabang, Louang-Namtha, Bokeo, Khammouan, Vientiane, Vientiane capital, Bolikhamxai, Houaphan, Xaignabouli, Savannakhet, Champasak provinces",,,,Km2,Flood,"Riverine flood","Slide (land, mud, sn",--,6,204190,0,0,,2008-0452
-29/09/2009,01/10/2009,"Lao People's Democratic Republic (the)",LAO,"Attapu, Xekong, Savannakhet, Salavan provinces",,,,Kph,Storm,"Tropical cyclone",Flood,--,16,128887,100000,0,"Tropical storm ""Ondoy"" (Ketsana)",2009-0414
-10/08/2009,11/08/2009,"Lao People's Democratic Republic (the)",LAO,"Xebangfay, Nongbok, Mahaxay districts (Khammouan province)",17.83,104.79,24950,Km2,Flood,"Riverine flood",--,--,10,0,0,0,,2009-0612
-23/06/2011,29/06/2011,"Lao People's Democratic Republic (the)",LAO,"Xiangkhouang, Vientiane, Bolikhamxai, Khammouan, Xaignabouli provinces",19.3801,101.56,36797,Km2,Flood,"Riverine flood",--,--,14,37000,0,0,,2011-0218
-01/08/2011,13/10/2011,"Lao People's Democratic Republic (the)",LAO,"Savannakhet, Khammouan, Champasak provinces",,,,Km2,Flood,"Flash flood","Slide (land, mud, sn",--,34,430000,0,0,,2011-0324
-/06/2013,/08/2013,"Lao People's Democratic Republic (the)",LAO,"Xay, Beng districts (Oudomxai province), Khop, Xienghone, Ngeun, Xayabury districts (Xaignabouli province), Bolikhanh, Paksane, Pakkading, Thaphabath districts (Bolikhamxai province), Nakai, Mahaxay, Nongbok, Xebangfay, Hinboon districts (Khammuan province), Pek, Kham, Thathom districts (Xiangkhouang province), Kasy, Feuang, Mad, Hom districts (Vientiane province)",,,,Km2,Flood,"Riverine flood",--,--,20,350077,60000,0,,2013-0338
-16/09/2013,18/09/2013,"Lao People's Democratic Republic (the)",LAO,"Salavan, Champasak, Attapu, Savannakhet, Xekong provinces",,,,Km2,Flood,"Riverine flood",--,--,3,224176,61000,0,,2013-0417
-12/08/2014,18/08/2014,"Lao People's Democratic Republic (the)",LAO,"Khammouan, Salavan, Champasak, Savannakhet provinces",,,,Km2,Flood,"Riverine flood",--,--,0,750,0,0,,2014-0411
-01/08/2015,15/08/2015,"Lao People's Democratic Republic (the)",LAO,"Houaphan, Bolikhamxai, Khammouan, Louang-Namtha provinces",,,,Km2,Flood,--,--,--,0,47800,10000,0,,2015-0324
-07/09/2015,11/09/2015,"Lao People's Democratic Republic (the)",LAO,"Nan district (Louangphabang province)
+24/08/2004,21/10/2004,Cambodia,KHM,"Kampong Cham, Kampong Chhnang, Kampong Speu, Kampong Thom, Kampot, Kandal, Kratie, Phnom Penh, Preah Vihear, Prey Veng, Stung Treng, Takeo provinces",,,,Km2,Flood,Riverine flood,--,--,0,0,0,0,,2004-0735
+08/09/2005,29/09/2005,Cambodia,KHM,"Kratie, Kampong Cham, Kandal, Prey Veng, Siem Reap provinces",,,,Km2,Flood,Riverine flood,--,--,16,0,0,0,,2005-0515
+/04/2005,/04/2005,Cambodia,KHM,Kampong Speu province,,,,Km2,Drought,Drought,Food shortage,Heat wave,0,600000,0,0,,2005-9206
+06/07/2006,07/07/2006,Cambodia,KHM,Koh Kong province,11.43,103.53,11610,Km2,Flood,Riverine flood,--,--,0,5000,0,0,,2006-0368
+10/08/2006,01/11/2006,Cambodia,KHM,"Kampong Seila district (Koh Kong province), Phnom Penh, Kampong Speu, Kampot, Ratanak Kiri, Mondul Kiri provinces",11.06,104.68,55860,Km2,Flood,Riverine flood,Rain,--,5,33000,0,0,,2006-0451
+10/08/2007,24/08/2007,Cambodia,KHM,"Kampong Thom, Ratanak Kiri, Preah Vihear provinces",13.28,105.88,64580,Km2,Flood,Riverine flood,--,--,2,19000,1000,0,,2007-0410
+29/09/2009,30/09/2009,Cambodia,KHM,"Kampong Thom, Kratie, Mondul Kiri, Preah Vihear, Ratanak Kiri, Stung Treng provinces",,,,Kph,Storm,Tropical cyclone,--,--,17,178091,0,0,"Tropical storm ""Ondoy"" (Ketsana)",2009-0414
+02/11/2009,03/11/2009,Cambodia,KHM,Kaoh Nheaek district (Mondul Kiri province),,,,Kph,Storm,Tropical cyclone,--,--,2,0,0,0,"Tropical storm ""Mirinae"" (Santi)",2009-0478
+20/10/2010,09/11/2010,Cambodia,KHM,"Banteay Meanchey, Battambang, Otdar Meanchey, Pailin, Preah Vihear, Pursat provinces",,,,Km2,Flood,Riverine flood,--,--,8,0,70000,0,,2010-0552
+10/08/2011,01/11/2011,Cambodia,KHM,"Kandal, Kampong Thom, Prey Veng, Kampong Cham, Kratie, Battambang, Kampong Chhnang, Preah Vihear, Pursat provinces",12.004,105.5,13466,Km2,Flood,Riverine flood,--,--,247,1640023,521000,0,,2011-0364
+17/09/2012,26/09/2012,Cambodia,KHM,Banteay Meanchey province,,,,Km2,Flood,Flash flood,--,--,14,71500,0,0,,2012-0504
+24/09/2013,14/10/2013,Cambodia,KHM,"Battambang, Banteay Meanchey, Kampong Cham, Prey Veng, Kandal, Siem Reap, Kratie, Kampong Thom, Otdar Meanchey, Stung Treng, Pursat, Kampong Chhnang, Ratanak Kiri, Preah Vihear, Svay Rieng, Phnom Penh, Takeo, Pailin, Kampot provinces",,105.08,52283,Km2,Flood,Riverine flood,--,--,200,1500000,500000,0,,2013-0380
+30/07/2014,31/08/2014,Cambodia,KHM,"Kampong Cham, Kampong Chhnang, Kampong Speu, Kampong Thom, Kampot, Kandal, Kratie, Phnom Penh, Preah Vihear, Prey Veng, Stung Treng, Takeo provinces",,,,Km2,Flood,Flash flood,--,--,45,530450,2000,0,,2014-0260
+/05/2016,/05/2016,Cambodia,KHM,"Banteay Meanchey, Battambang, Pursat, Kampong Speu provinces ",,,,Km2,Drought,Drought,Water shortage,--,0,2500000,0,0,,2016-9225
+25/08/1966,25/08/1966,Lao People's Democratic Republic (the),LAO,,,,,Km2,Flood,Riverine flood,--,--,300,72000,15300,0,,1966-0064
+05/09/1968,05/09/1968,Lao People's Democratic Republic (the),LAO,"South, along Mekong river",,,,Km2,Flood,--,--,--,2,9600,1280,0,,1968-0072
+15/08/1969,15/08/1969,Lao People's Democratic Republic (the),LAO,Vientiane plains,,,,Km2,Flood,--,--,--,0,0,0,0,,1969-0086
+17/08/1971,17/08/1971,Lao People's Democratic Republic (the),LAO,Vientiane,,,,Km2,Flood,--,--,--,14,115000,200,0,,1971-0048
+//1977,//1977,Lao People's Democratic Republic (the),LAO,Southern provinces,,,,Km2,Drought,Drought,--,--,0,3500000,0,0,,1977-9029
+/08/1978,/08/1978,Lao People's Democratic Republic (the),LAO,"Southern, Central",,,,Km2,Flood,--,--,--,31,459000,0,0,,1978-0107
+/07/1981,/07/1981,Lao People's Democratic Republic (the),LAO,,,,,Km2,Flood,--,--,--,0,0,0,0,,1981-0011
+/09/1984,/09/1984,Lao People's Democratic Republic (the),LAO,,,,,Km2,Flood,--,--,--,14,2000,0,0,,1984-0077
+//1987,//1987,Lao People's Democratic Republic (the),LAO,Northern provinces,,,,Km2,Drought,Drought,--,--,0,0,0,0,,1987-9028
+/12/1988,//1988,Lao People's Democratic Republic (the),LAO,Southern provinces,,,,Km2,Drought,Drought,--,--,0,730000,0,0,,1988-9522
+//1991,//1991,Lao People's Democratic Republic (the),LAO,Whole country,,,,Kph,Storm,--,--,--,0,38315,150,0,,1991-0701
+/09/1991,/09/1991,Lao People's Democratic Republic (the),LAO,"Khammouane, Savannakhet, Champassak",,,,Km2,Flood,Riverine flood,--,--,0,332000,0,0,,1991-0761
+/07/1991,//1993,Lao People's Democratic Republic (the),LAO,Whole country,,,132,Km2,Drought,Drought,--,--,0,0,1000,0,,1991-9195
+10/07/1992,10/07/1992,Lao People's Democratic Republic (the),LAO,Whole country,,,,Kph,Storm,Tropical cyclone,--,--,22,268877,3650,0,Zeke & Fred,1992-0470
+/08/1992,/08/1992,Lao People's Democratic Republic (the),LAO,Whole country,,,,Km2,Flood,Riverine flood,--,--,10,150,21828,0,,1992-0488
+/07/1993,/07/1993,Lao People's Democratic Republic (the),LAO,,,,93,Kph,Storm,--,--,--,8,120,302151,0,Lewis & Winona,1993-0474
+/08/1994,/08/1994,Lao People's Democratic Republic (the),LAO,Central,,,200,Km2,Flood,--,--,--,0,190000,0,0,,1994-0760
+/09/1995,/09/1995,Lao People's Democratic Republic (the),LAO,"Bolikhamxay, Savannakhet, Champassak, Sekong, Attapeu provinces",,,625,Km2,Flood,Riverine flood,--,--,0,391400,0,0,,1995-0229
+/07/1995,/07/1995,Lao People's Democratic Republic (the),LAO,,,,,Km2,Flood,--,--,--,0,200000,0,0,,1995-0463
+01/08/1995,01/08/1995,Lao People's Democratic Republic (the),LAO,,,,,Kph,Storm,Tropical cyclone,--,--,26,1000000,0,0,,1995-0464
+15/08/1996,15/08/1996,Lao People's Democratic Republic (the),LAO,"Huaphanh, Phongsaly, Luanprabang, Luangnamtha, Borikhamsay, Savanhnakheat, Vientiane, Khammuoane provinces,  Vientiane municapilty",,,200,Km2,Flood,Riverine flood,--,--,30,420000,0,0,,1996-0215
+/01/1999,//1999,Lao People's Democratic Republic (the),LAO,,,,,Km2,Drought,Drought,--,--,0,20000,0,0,,1999-9037
+/09/2000,/09/2000,Lao People's Democratic Republic (the),LAO,"Louang-Namtha, Bolikhamxai, Khammouan, Savannakhet, Champasak, Salavan, Vientiane, Vientiane capital province",,,1104,Km2,Flood,--,--,--,15,450000,1000,0,,2000-0583
+/08/2001,/08/2001,Lao People's Democratic Republic (the),LAO,"Khammouan, Savannakhet, Champasak, Attapu provinces",,,590,Km2,Flood,--,--,--,0,453000,0,0,,2001-0782
+/08/2002,/08/2002,Lao People's Democratic Republic (the),LAO,"Bolikhamxai, Savannakhet, Vientiane, Vientiane capital, Khammouan, Oudomxai, Louangphabang provinces",,,,Km2,Flood,Riverine flood,--,--,2,150000,0,0,,2002-0614
+12/08/2008,18/08/2008,Lao People's Democratic Republic (the),LAO,"Louangphabang, Louang-Namtha, Bokeo, Khammouan, Vientiane, Vientiane capital, Bolikhamxai, Houaphan, Xaignabouli, Savannakhet, Champasak provinces",,,,Km2,Flood,Riverine flood,"Slide (land, mud, sn",--,6,204190,0,0,,2008-0452
+29/09/2009,01/10/2009,Lao People's Democratic Republic (the),LAO,"Attapu, Xekong, Savannakhet, Salavan provinces",,,,Kph,Storm,Tropical cyclone,Flood,--,16,128887,100000,0,"Tropical storm ""Ondoy"" (Ketsana)",2009-0414
+10/08/2009,11/08/2009,Lao People's Democratic Republic (the),LAO,"Xebangfay, Nongbok, Mahaxay districts (Khammouan province)",17.83,104.79,24950,Km2,Flood,Riverine flood,--,--,10,0,0,0,,2009-0612
+23/06/2011,29/06/2011,Lao People's Democratic Republic (the),LAO,"Xiangkhouang, Vientiane, Bolikhamxai, Khammouan, Xaignabouli provinces",19.3801,101.56,36797,Km2,Flood,Riverine flood,--,--,14,37000,0,0,,2011-0218
+01/08/2011,13/10/2011,Lao People's Democratic Republic (the),LAO,"Savannakhet, Khammouan, Champasak provinces",,,,Km2,Flood,Flash flood,"Slide (land, mud, sn",--,34,430000,0,0,,2011-0324
+/06/2013,/08/2013,Lao People's Democratic Republic (the),LAO,"Xay, Beng districts (Oudomxai province), Khop, Xienghone, Ngeun, Xayabury districts (Xaignabouli province), Bolikhanh, Paksane, Pakkading, Thaphabath districts (Bolikhamxai province), Nakai, Mahaxay, Nongbok, Xebangfay, Hinboon districts (Khammuan province), Pek, Kham, Thathom districts (Xiangkhouang province), Kasy, Feuang, Mad, Hom districts (Vientiane province)",,,,Km2,Flood,Riverine flood,--,--,20,350077,60000,0,,2013-0338
+16/09/2013,18/09/2013,Lao People's Democratic Republic (the),LAO,"Salavan, Champasak, Attapu, Savannakhet, Xekong provinces",,,,Km2,Flood,Riverine flood,--,--,3,224176,61000,0,,2013-0417
+12/08/2014,18/08/2014,Lao People's Democratic Republic (the),LAO,"Khammouan, Salavan, Champasak, Savannakhet provinces",,,,Km2,Flood,Riverine flood,--,--,0,750,0,0,,2014-0411
+01/08/2015,15/08/2015,Lao People's Democratic Republic (the),LAO,"Houaphan, Bolikhamxai, Khammouan, Louang-Namtha provinces",,,,Km2,Flood,--,--,--,0,47800,10000,0,,2015-0324
+07/09/2015,11/09/2015,Lao People's Democratic Republic (the),LAO,"Nan district (Louangphabang province)
 ",,,,Km2,Flood,--,"Slide (land, mud, sn",--,4,140,0,0,,2015-0460
-11/08/2016,20/08/2016,"Lao People's Democratic Republic (the)",LAO,"Luang Prabang city (Louangphrabang distrcit, Louangphabang province), Oudomxai, Salavan, Xaignabouli, Xiangkhouang, Houaphan, Bokeo provinces",,,,Km2,Flood,--,--,--,5,26328,50,0,,2016-0316
-17/07/2017,19/07/2017,"Lao People's Democratic Republic (the)",LAO,"Borikhamxay province (Thongsaen, Napae villages)",,,,Kph,Storm,"Tropical cyclone",--,--,0,0,0,0,"Tropical Storm Talas",2017-0281
-27/10/1962,27/10/1962,Thailand,THA,,,,,Kph,Storm,"Tropical cyclone",--,--,769,0,19000,0,Harriet,1962-0010
-/09/1966,/09/1966,Thailand,THA,"Chiengrai to Ubon",,,,Km2,Flood,"Riverine flood",--,--,6,205200,1000,0,,1966-0067
+11/08/2016,20/08/2016,Lao People's Democratic Republic (the),LAO,"Luang Prabang city (Louangphrabang distrcit, Louangphabang province), Oudomxai, Salavan, Xaignabouli, Xiangkhouang, Houaphan, Bokeo provinces",,,,Km2,Flood,--,--,--,5,26328,50,0,,2016-0316
+17/07/2017,19/07/2017,Lao People's Democratic Republic (the),LAO,"Borikhamxay province (Thongsaen, Napae villages)",,,,Kph,Storm,Tropical cyclone,--,--,0,0,0,0,Tropical Storm Talas,2017-0281
+27/10/1962,27/10/1962,Thailand,THA,,,,,Kph,Storm,Tropical cyclone,--,--,769,0,19000,0,Harriet,1962-0010
+/09/1966,/09/1966,Thailand,THA,Chiengrai to Ubon,,,,Km2,Flood,Riverine flood,--,--,6,205200,1000,0,,1966-0067
 03/01/1975,03/01/1975,Thailand,THA,South,,,,Km2,Flood,--,--,--,239,3000093,45000,0,,1975-0012
 /08/1978,/08/1978,Thailand,THA,"North, Central, North East provinces",,,,Km2,Flood,--,--,--,96,1628400,400000,0,,1978-0106
 /08/1978,/08/1978,Thailand,THA,"North, NorthEast",,,,Km2,Flood,--,--,--,0,400000,0,0,,1978-0187
 /05/1978,/05/1978,Thailand,THA,,,,,Kph,Storm,--,--,--,50,0,0,0,,1978-0260
 03/10/1980,03/10/1980,Thailand,THA,"Central, North East",,,,Km2,Flood,--,--,--,57,630000,59700,0,,1980-0280
-06/07/1981,06/07/1981,Thailand,THA,"Nan province",,,,Kph,Storm,"Tropical cyclone",--,--,0,43000,0,0,Kelly,1981-0064
+06/07/1981,06/07/1981,Thailand,THA,Nan province,,,,Kph,Storm,Tropical cyclone,--,--,0,43000,0,0,Kelly,1981-0064
 /12/1981,/12/1981,Thailand,THA,South,,,,Kph,Storm,--,--,--,55,0,13000,0,,1981-0104
 /08/1983,/08/1983,Thailand,THA,Bangkok,,,,Km2,Flood,--,--,--,50,1000000,0,0,,1983-0105
 /12/1984,/12/1984,Thailand,THA,"Southern, Eastearn",,,,Km2,Flood,--,--,--,17,34571,3000,0,,1984-0116
-19/01/1984,19/01/1984,Thailand,THA,"Bangkok area",,,225,Km2,Flood,--,--,--,0,751600,400000,0,,1984-0353
+19/01/1984,19/01/1984,Thailand,THA,Bangkok area,,,225,Km2,Flood,--,--,--,0,751600,400000,0,,1984-0353
 12/10/1985,12/10/1985,Thailand,THA,"Suan Phung, Damnoen Saduak districts (Ratchaburi province)",,,13910,Km2,Flood,--,--,--,18,7640,3600,0,,1985-0016
-08/05/1986,08/05/1986,Thailand,THA,"Bangkok, central, Eastern, Southern",,,,Km2,Flood,"Riverine flood",--,--,42,27801,2000,0,,1986-0059
+08/05/1986,08/05/1986,Thailand,THA,"Bangkok, central, Eastern, Southern",,,,Km2,Flood,Riverine flood,--,--,42,27801,2000,0,,1986-0059
 30/11/1987,30/11/1987,Thailand,THA,South,,,1370,Km2,Flood,--,--,--,24,0,7200,0,,1987-0219
-19/11/1988,27/11/1988,Thailand,THA,"Chumphon, Surat Thani, Nakhon Si Thammarat, Phatthalung, Krabi, Songkhla, Yala, Pattani, Ranong, Narathiwat, Satun, Phuket, Trang, Prachuap Khiri Khan provinces",,,,Km2,Flood,"Riverine flood",--,--,664,1114819,169146,0,,1988-0512
-03/11/1989,05/11/1989,Thailand,THA,"Chumphon, Nakkhon Si Thammarat, Phetchaburi, Prachuap Khiri Khan, Ranong, Songkhla, Surat Thani provinces",,,120,Kph,Storm,"Tropical cyclone",--,--,458,199000,452000,0,Gay,1989-0131
-08/10/1990,26/10/1990,Thailand,THA,"Central and northeastern Provinces",,,,Kph,Storm,"Tropical cyclone",--,--,36,0,50000,0,Ira,1990-0409
-/08/1991,/08/1991,Thailand,THA,"Mae Salui and surrounding areas (North)",,,,Km2,Flood,"Riverine flood",--,--,16,2000,0,0,,1991-0530
-26/10/1991,26/10/1991,Thailand,THA,"Southern coast",,,70,Km2,Flood,--,--,--,1,14574,1478,0,,1991-0709
-17/08/1991,17/08/1991,Thailand,THA,"North and Northeast",,,,Kph,Storm,"Tropical cyclone",--,--,38,1894238,8323,0,,1991-0710
+19/11/1988,27/11/1988,Thailand,THA,"Chumphon, Surat Thani, Nakhon Si Thammarat, Phatthalung, Krabi, Songkhla, Yala, Pattani, Ranong, Narathiwat, Satun, Phuket, Trang, Prachuap Khiri Khan provinces",,,,Km2,Flood,Riverine flood,--,--,664,1114819,169146,0,,1988-0512
+03/11/1989,05/11/1989,Thailand,THA,"Chumphon, Nakkhon Si Thammarat, Phetchaburi, Prachuap Khiri Khan, Ranong, Songkhla, Surat Thani provinces",,,120,Kph,Storm,Tropical cyclone,--,--,458,199000,452000,0,Gay,1989-0131
+08/10/1990,26/10/1990,Thailand,THA,Central and northeastern Provinces,,,,Kph,Storm,Tropical cyclone,--,--,36,0,50000,0,Ira,1990-0409
+/08/1991,/08/1991,Thailand,THA,Mae Salui and surrounding areas (North),,,,Km2,Flood,Riverine flood,--,--,16,2000,0,0,,1991-0530
+26/10/1991,26/10/1991,Thailand,THA,Southern coast,,,70,Km2,Flood,--,--,--,1,14574,1478,0,,1991-0709
+17/08/1991,17/08/1991,Thailand,THA,North and Northeast,,,,Kph,Storm,Tropical cyclone,--,--,38,1894238,8323,0,,1991-0710
 /03/1991,//1991,Thailand,THA,,,,,Km2,Drought,Drought,--,--,0,2500000,0,0,,1991-9078
 19/05/1992,19/05/1992,Thailand,THA,,,,,Kph,Storm,--,--,--,0,0,0,0,,1992-0201
-16/10/1992,16/10/1992,Thailand,THA,"Ko Samui (Surat Thani province)",,,,Kph,Storm,"Tropical cyclone",--,--,3,106109,0,0,Angela,1992-0494
-17/10/1992,17/10/1992,Thailand,THA,"Sisaket province (North)",,,,Kph,Storm,"Tropical cyclone",--,--,0,160550,0,0,Colleen,1992-0495
+16/10/1992,16/10/1992,Thailand,THA,Ko Samui (Surat Thani province),,,,Kph,Storm,Tropical cyclone,--,--,3,106109,0,0,Angela,1992-0494
+17/10/1992,17/10/1992,Thailand,THA,Sisaket province (North),,,,Kph,Storm,Tropical cyclone,--,--,0,160550,0,0,Colleen,1992-0495
 12/11/1992,12/11/1992,Thailand,THA,"Surat Thani, Krabi, Phangnga, Nakhon Si Thammarat provinces",,,,Kph,Storm,--,--,--,3,119787,0,0,Forrest,1992-0496
-27/11/1993,02/12/1993,Thailand,THA,"Surat Thani, Nakhorn Si Thammara, Songkla, Pattani provinces",,,56410,Km2,Flood,"Flash flood",--,--,23,393809,1261000,0,,1993-0222
+27/11/1993,02/12/1993,Thailand,THA,"Surat Thani, Nakhorn Si Thammara, Songkla, Pattani provinces",,,56410,Km2,Flood,Flash flood,--,--,23,393809,1261000,0,,1993-0222
 11/07/1993,11/07/1993,Thailand,THA,"Nakhon Phanom, Sakon Nakhon, Nong Khai provinces",,,,Kph,Storm,--,--,--,4,188448,106900,0,Lewis,1993-0481
 29/09/1993,29/09/1993,Thailand,THA,"Udon Thani, Khon Kaen, Nakhon Panom, Nan, Uttaradit, Phayao, Mae Hong Son",,,,Kph,Storm,--,--,--,0,25468,25070,0,Winona,1993-0482
 31/10/1993,31/10/1993,Thailand,THA,South,,,,Km2,Flood,--,--,--,4,302862,319850,0,,1993-0483
 /12/1993,/12/1993,Thailand,THA,South,,,,Km2,Flood,--,--,--,14,192674,400100,0,,1993-0484
 //1993,//1993,Thailand,THA,"North, Central",,,13000,Km2,Drought,Drought,--,--,0,0,2000,0,,1993-9522
-08/05/1994,08/05/1994,Thailand,THA,Bangkok,,,,Kph,Storm,"Tropical cyclone",--,--,0,5000,0,0,,1994-0120
-25/09/1994,25/09/1994,Thailand,THA,Wang-Takrai,,,,Km2,Flood,"Coastal flood",--,--,31,0,0,0,,1994-0308
+08/05/1994,08/05/1994,Thailand,THA,Bangkok,,,,Kph,Storm,Tropical cyclone,--,--,0,5000,0,0,,1994-0120
+25/09/1994,25/09/1994,Thailand,THA,Wang-Takrai,,,,Km2,Flood,Coastal flood,--,--,31,0,0,0,,1994-0308
 /07/1994,/07/1994,Thailand,THA,,,,7554,Km2,Flood,--,--,--,60,59000,238000,0,,1994-0650
 21/10/1994,21/10/1994,Thailand,THA,South,,,667,Km2,Flood,--,--,--,11,112257,30000,0,,1994-0657
-30/08/1994,07/09/1994,Thailand,THA,"Chiang Rai, Chiang Mai, Phayao, Phitsanulok, Khanchanburi",,,,Kph,Storm,"Tropical cyclone",Flood,--,10,0,12000,0,Harry,1994-0774
-28/07/1994,04/08/1994,Thailand,THA,"Lampang, Nan, Kanchanaburi, Phrae, Chinag Rai, Mae Hong Son, Tak, Phayao, Chiang Mai",,,,Kph,Storm,"Tropical cyclone",Flood,"Slide (land, mud, sn",9,10000,8000,0,Amy,1994-0777
-09/08/1995,09/08/1995,Thailand,THA,Bangkok,,,,Kph,Storm,"Tropical cyclone",--,--,27,0,0,0,,1995-0167
-01/08/1995,09/11/1995,Thailand,THA,"Phayao, Pichit, Pitsanuloke, Nakhon Sawan",,,444500,Km2,Flood,"Riverine flood",--,--,231,4280984,140500,0,,1995-0198
-18/07/1996,21/08/1996,Thailand,THA,"Chumphon, Chiang Rai, Nan, Nong Khai, Udon Thani, Rayong, Ranong",,,,Kph,Storm,"Tropical cyclone",Flood,--,9,343386,150000,0,"Gloria and Frankie",1996-0182
-30/06/1996,22/10/1996,Thailand,THA,,,,7000,Km2,Flood,"Riverine flood",--,--,91,5000000,500,0,,1996-0241
-19/08/1997,01/09/1997,Thailand,THA,"Surat Thani Province",,,,Kph,Storm,"Tropical cyclone",Flood,--,46,50394,39500,0,Zita,1997-0184
-18/09/1997,18/09/1997,Thailand,THA,"North East (4 NE prov. Mekong overflow)",,,,Km2,Flood,"Riverine flood",--,--,14,0,0,0,,1997-0213
-01/10/1997,04/10/1997,Thailand,THA,,,,,Kph,Storm,"Tropical cyclone",--,--,152,0,5000,0,Linda,1997-0267
-/02/1999,/02/1999,Thailand,THA,"Nakorn Srithammarat, Surat Thani, Songkla Provinces",,,960,Km2,Flood,"Flash flood",--,--,3,20000,0,0,,1999-0081
-24/07/1999,05/08/1999,Thailand,THA,"Chantaburi, Trad, and Ubol Ratchathani Provinces",,,162,Km2,Flood,"Flash flood",--,--,7,90700,13000,0,,1999-0269
-/08/1999,/08/1999,Thailand,THA,"Mae Hong Son & Tak Provinces",,,,Km2,Flood,"Flash flood",--,--,0,862,0,0,,1999-0353
-25/10/1999,09/11/1999,Thailand,THA,"Prachuap Khiri Khan, Phetchaburi, Ratchaburi, Kanchanaburi, Lop Buri, Phitsanulok, Phichit, Nakhon Sawan, Satun, Phuket",,,,Km2,Flood,"Coastal flood",--,--,10,170000,0,0,,1999-0427
-23/12/1999,23/12/1999,Thailand,THA,"Surat Thani, Nakhon Si Thammarat, Chumphon Provinces",,,4,Km2,Flood,"Coastal flood",--,--,0,200,267,0,,1999-0599
-04/12/1999,07/12/1999,Thailand,THA,"Yala, Pattani, Narathiwat, Songkhla, Chumphon Provinces",,,,Km2,Flood,"Riverine flood",--,--,2,2000,0,0,,1999-0616
+30/08/1994,07/09/1994,Thailand,THA,"Chiang Rai, Chiang Mai, Phayao, Phitsanulok, Khanchanburi",,,,Kph,Storm,Tropical cyclone,Flood,--,10,0,12000,0,Harry,1994-0774
+28/07/1994,04/08/1994,Thailand,THA,"Lampang, Nan, Kanchanaburi, Phrae, Chinag Rai, Mae Hong Son, Tak, Phayao, Chiang Mai",,,,Kph,Storm,Tropical cyclone,Flood,"Slide (land, mud, sn",9,10000,8000,0,Amy,1994-0777
+09/08/1995,09/08/1995,Thailand,THA,Bangkok,,,,Kph,Storm,Tropical cyclone,--,--,27,0,0,0,,1995-0167
+01/08/1995,09/11/1995,Thailand,THA,"Phayao, Pichit, Pitsanuloke, Nakhon Sawan",,,444500,Km2,Flood,Riverine flood,--,--,231,4280984,140500,0,,1995-0198
+18/07/1996,21/08/1996,Thailand,THA,"Chumphon, Chiang Rai, Nan, Nong Khai, Udon Thani, Rayong, Ranong",,,,Kph,Storm,Tropical cyclone,Flood,--,9,343386,150000,0,Gloria and Frankie,1996-0182
+30/06/1996,22/10/1996,Thailand,THA,,,,7000,Km2,Flood,Riverine flood,--,--,91,5000000,500,0,,1996-0241
+19/08/1997,01/09/1997,Thailand,THA,Surat Thani Province,,,,Kph,Storm,Tropical cyclone,Flood,--,46,50394,39500,0,Zita,1997-0184
+18/09/1997,18/09/1997,Thailand,THA,North East (4 NE prov. Mekong overflow),,,,Km2,Flood,Riverine flood,--,--,14,0,0,0,,1997-0213
+01/10/1997,04/10/1997,Thailand,THA,,,,,Kph,Storm,Tropical cyclone,--,--,152,0,5000,0,Linda,1997-0267
+/02/1999,/02/1999,Thailand,THA,"Nakorn Srithammarat, Surat Thani, Songkla Provinces",,,960,Km2,Flood,Flash flood,--,--,3,20000,0,0,,1999-0081
+24/07/1999,05/08/1999,Thailand,THA,"Chantaburi, Trad, and Ubol Ratchathani Provinces",,,162,Km2,Flood,Flash flood,--,--,7,90700,13000,0,,1999-0269
+/08/1999,/08/1999,Thailand,THA,Mae Hong Son & Tak Provinces,,,,Km2,Flood,Flash flood,--,--,0,862,0,0,,1999-0353
+25/10/1999,09/11/1999,Thailand,THA,"Prachuap Khiri Khan, Phetchaburi, Ratchaburi, Kanchanaburi, Lop Buri, Phitsanulok, Phichit, Nakhon Sawan, Satun, Phuket",,,,Km2,Flood,Coastal flood,--,--,10,170000,0,0,,1999-0427
+23/12/1999,23/12/1999,Thailand,THA,"Surat Thani, Nakhon Si Thammarat, Chumphon Provinces",,,4,Km2,Flood,Coastal flood,--,--,0,200,267,0,,1999-0599
+04/12/1999,07/12/1999,Thailand,THA,"Yala, Pattani, Narathiwat, Songkhla, Chumphon Provinces",,,,Km2,Flood,Riverine flood,--,--,2,2000,0,0,,1999-0616
 /01/1999,//1999,Thailand,THA,,,,,Km2,Drought,Drought,--,--,0,6000000,0,0,,1999-9037
 21/06/2000,21/06/2000,Thailand,THA,"Muang Chiang Rai, Mae Chan districts (Chiang Rai province)",,,,Km2,Flood,--,--,--,0,2500,0,0,,2000-0401
 /07/2000,/07/2000,Thailand,THA,"Phan, Muang Chiang Rai, Khun Tan districts (Chiang Ria province), Loei, Udon Thani, Nakhon Phanom, Sakon Nakhon, Kalasin, Maha Sarakham, Roi Et, Surin, Buriram, Si Saket, Yasothon, Amnat Charoen, Ubon Ratchathani provinces",,,2050,Km2,Flood,--,--,--,47,2500000,51050,0,,2000-0446
-21/08/2000,21/08/2000,Thailand,THA,"Tha Tum, Chom Phra, Samrong Thap, Sikhoraphum, Sangkha, Muang Surin districts (Surin province), Ubon Ratchathani province",,,,Kph,Storm,"Tropical cyclone",--,--,2,41219,0,0,Kaemi,2000-0539
-21/11/2000,21/11/2000,Thailand,THA,"Songkhla, Nakhon Si Thammarat, Surat Thani, Satun, Phatthalung, Chumphon, Narathiwat, Yala, Pattani, Trang provinces",,,630,Km2,Flood,"Riverine flood",--,--,51,808801,57500,0,,2000-0755
-/09/2000,/09/2000,Thailand,THA,"Wang Pong, Chon Daen districts (Phetchabun province)",,,,Km2,Flood,"Riverine flood",--,--,9,12500,506,0,,2000-0777
-04/05/2001,05/05/2001,Thailand,THA,"Phrae, Sukhothai, Lampang provinces",,,19750,Km2,Flood,"Flash flood","Slide (land, mud, sn",--,83,4130,4000,0,,2001-0176
+21/08/2000,21/08/2000,Thailand,THA,"Tha Tum, Chom Phra, Samrong Thap, Sikhoraphum, Sangkha, Muang Surin districts (Surin province), Ubon Ratchathani province",,,,Kph,Storm,Tropical cyclone,--,--,2,41219,0,0,Kaemi,2000-0539
+21/11/2000,21/11/2000,Thailand,THA,"Songkhla, Nakhon Si Thammarat, Surat Thani, Satun, Phatthalung, Chumphon, Narathiwat, Yala, Pattani, Trang provinces",,,630,Km2,Flood,Riverine flood,--,--,51,808801,57500,0,,2000-0755
+/09/2000,/09/2000,Thailand,THA,"Wang Pong, Chon Daen districts (Phetchabun province)",,,,Km2,Flood,Riverine flood,--,--,9,12500,506,0,,2000-0777
+04/05/2001,05/05/2001,Thailand,THA,"Phrae, Sukhothai, Lampang provinces",,,19750,Km2,Flood,Flash flood,"Slide (land, mud, sn",--,83,4130,4000,0,,2001-0176
 11/03/2001,11/03/2001,Thailand,THA,"Pathiu district (Chumphon province), Muang, Bang Saphan, Bang Saphan Noi, Hua Hin, Kui Buri, Pran Buri districts (Prachuap Khirikhan province), Si Satchnalai district (Sukhothai province), Laplae district (Uttaradit province), Khanom, Pak Phanang district (Nakhon Si Thamarat province)",,,,Km2,Flood,--,--,--,2,6000,0,0,,2001-0187
-04/05/2001,04/05/2001,Thailand,THA,"Wang Chin district (Phrae province)",,,,Km2,Flood,"Flash flood",--,--,33,5140,0,0,,2001-0308
+04/05/2001,04/05/2001,Thailand,THA,Wang Chin district (Phrae province),,,,Km2,Flood,Flash flood,--,--,33,5140,0,0,,2001-0308
 27/06/2001,27/06/2001,Thailand,THA,"Muang Satun, Langu, Tha Phae, Khuan Don districts (Satun province)",,,,Kph,Storm,--,--,--,0,150,0,0,,2001-0357
-08/08/2001,06/09/2001,Thailand,THA,"Nam Kor village (Lom Sak District, Phetchabun Province), Udon Thani, Chiang Mai, Chiang Rai, Lamphun, Nong Khai, Phrae, Nan provinces",,,4160,Km2,Flood,"Flash flood",--,--,104,450109,24500,0,,2001-0450
-27/06/2001,27/06/2001,Thailand,THA,"Ranong province",,,,Km2,Flood,"Flash flood",--,--,0,1000,0,0,,2001-0479
+08/08/2001,06/09/2001,Thailand,THA,"Nam Kor village (Lom Sak District, Phetchabun Province), Udon Thani, Chiang Mai, Chiang Rai, Lamphun, Nong Khai, Phrae, Nan provinces",,,4160,Km2,Flood,Flash flood,--,--,104,450109,24500,0,,2001-0450
+27/06/2001,27/06/2001,Thailand,THA,Ranong province,,,,Km2,Flood,Flash flood,--,--,0,1000,0,0,,2001-0479
 31/08/2001,31/08/2001,Thailand,THA,"Ubon Ratchathani, Yasothon provinces",,,,Km2,Flood,--,--,--,0,4000,0,0,,2001-0528
-12/01/2002,12/01/2002,Thailand,THA,"Muang Chang Rai, Chiang Saen, Mae Chan, Wiang Chai, Phan districts (Chiang Rai province)",,,,Kph,Storm,"Convective storm",Hail,--,1,27704,2000,0,,2002-0069
-23/04/2002,23/04/2002,Thailand,THA,"Sam Ngao, Phop Phra districts (Tak province)",,,,Kph,Storm,"Convective storm",--,--,0,2500,0,0,,2002-0286
-29/09/2002,29/09/2002,Thailand,THA,"Kalasin province",,,,Km2,Flood,"Flash flood",--,--,0,1500,0,0,,2002-0629
-/10/2002,/10/2002,Thailand,THA,"Tak, Chiang Mai, Chiang Rai, Lamphun, Sukhothai, Phitsanulok, Mae Hong Son, Uttaradit, Phetchabun, Phichit, Nakhon Sawan, Kampaeng Phet, Uthai Thani, Sakon Nakhon, Khon Kaen, Chaiyaphum, Nong Khai, Kalasin, Nakhon Phanom, Nong Bua Lamphu, Roi Et, Si Saket, Ubon Ratchathani provinces",,,,Km2,Flood,"Flash flood",--,--,154,3289420,35827,0,,2002-0641
+12/01/2002,12/01/2002,Thailand,THA,"Muang Chang Rai, Chiang Saen, Mae Chan, Wiang Chai, Phan districts (Chiang Rai province)",,,,Kph,Storm,Convective storm,Hail,--,1,27704,2000,0,,2002-0069
+23/04/2002,23/04/2002,Thailand,THA,"Sam Ngao, Phop Phra districts (Tak province)",,,,Kph,Storm,Convective storm,--,--,0,2500,0,0,,2002-0286
+29/09/2002,29/09/2002,Thailand,THA,Kalasin province,,,,Km2,Flood,Flash flood,--,--,0,1500,0,0,,2002-0629
+/10/2002,/10/2002,Thailand,THA,"Tak, Chiang Mai, Chiang Rai, Lamphun, Sukhothai, Phitsanulok, Mae Hong Son, Uttaradit, Phetchabun, Phichit, Nakhon Sawan, Kampaeng Phet, Uthai Thani, Sakon Nakhon, Khon Kaen, Chaiyaphum, Nong Khai, Kalasin, Nakhon Phanom, Nong Bua Lamphu, Roi Et, Si Saket, Ubon Ratchathani provinces",,,,Km2,Flood,Flash flood,--,--,154,3289420,35827,0,,2002-0641
 /02/2002,//2002,Thailand,THA,"Nakhon Sawan, Udon Thani, Khon Kaen, Satun, Phrae, Loei, Kalasin, Sukhothai, Nakhon Ratchasima provinces",,,4500,Km2,Drought,Drought,--,--,0,5000000,2300,0,,2002-9158
-11/04/2003,11/04/2003,Thailand,THA,"Muang Chiang Rai, Wiang Chai, Phan, Mae Fa Luang, Mae Suai districts (Chiang Rai province)",,,0,Kph,Storm,"Convective storm",--,--,0,5000,0,0,,2003-0235
-15/10/2003,15/10/2003,Thailand,THA,"Phetchaburi, Ratchaburi, Kanchanaburi, Prachuap Khilikhan provinces",,,,Km2,Flood,"Riverine flood",--,--,3,3000,25000,25000,,2003-0561
-11/12/2003,11/12/2003,Thailand,THA,"Nakhon Si Thammarat, Songkhla, Surat Thani, Yala provinces",,,,Km2,Flood,"Flash flood",--,--,6,104700,1400,0,,2003-0617
-03/10/2003,25/10/2003,Thailand,THA,"Phuket, Phangnga, Satun, Trang provinces",,,,Km2,Flood,"Riverine flood","Slide (land, mud, sn",--,0,0,0,0,,2003-0774
-20/05/2004,23/05/2004,Thailand,THA,"Mae Ramat district (Tak province)",,,,Kph,Storm,--,Flood,"Slide (land, mud, sn",13,5050,0,0,,2004-0244
-04/06/2004,21/06/2004,Thailand,THA,"Phrae, Nakhon Sawan, Sukhothai, Phichit, Mae Hong Son, Tak, Nan, Phayao, Phitsanulok, Loei provinces",,,,Kph,Storm,"Tropical cyclone",Flood,Rain,1,4000,0,0,"Chanthu (Gener/08W)",2004-0258
-06/08/2004,30/08/2004,Thailand,THA,"Na Di, Prachantakham districts (Phachinburi province), Kap Choeng, Prasat, Chom Phra, Tha Tum, Muang Surin districts (Surin province), Satuk district (Buriram province), Muang Ubon Ratchathani district (Ubon Ratchathani province), Phaya Mengrai, Wiang Chai districts (Chiang Rai province), Rasi Salai district (Si Saket province), Yasothon, Roi Et, Nakhon Nayok, Kalasin provinces",,,154400,Km2,Flood,"Riverine flood",--,--,9,500000,0,0,,2004-0441
-15/09/2004,15/09/2004,Thailand,THA,"Chiang Rai, Chiang Mai, Ubon Ratchathani provinces",,,,Km2,Flood,"Flash flood",--,--,2,2000,0,0,,2004-0501
-10/12/2004,18/12/2004,Thailand,THA,"Su Kirin district (Narathiwat province), Muang Nakhon Si Thammarat, Hua Sai, Pak Phanang, Ron Phibun districts (Nakhon Si Thammarat province), Muang Phatthalung, Kong Ra districts (Phatthalung province), Than To district (Yala province)",,,,Km2,Flood,"Riverine flood",--,--,2,5000,175000,0,,2004-0635
+11/04/2003,11/04/2003,Thailand,THA,"Muang Chiang Rai, Wiang Chai, Phan, Mae Fa Luang, Mae Suai districts (Chiang Rai province)",,,0,Kph,Storm,Convective storm,--,--,0,5000,0,0,,2003-0235
+15/10/2003,15/10/2003,Thailand,THA,"Phetchaburi, Ratchaburi, Kanchanaburi, Prachuap Khilikhan provinces",,,,Km2,Flood,Riverine flood,--,--,3,3000,25000,25000,,2003-0561
+11/12/2003,11/12/2003,Thailand,THA,"Nakhon Si Thammarat, Songkhla, Surat Thani, Yala provinces",,,,Km2,Flood,Flash flood,--,--,6,104700,1400,0,,2003-0617
+03/10/2003,25/10/2003,Thailand,THA,"Phuket, Phangnga, Satun, Trang provinces",,,,Km2,Flood,Riverine flood,"Slide (land, mud, sn",--,0,0,0,0,,2003-0774
+20/05/2004,23/05/2004,Thailand,THA,Mae Ramat district (Tak province),,,,Kph,Storm,--,Flood,"Slide (land, mud, sn",13,5050,0,0,,2004-0244
+04/06/2004,21/06/2004,Thailand,THA,"Phrae, Nakhon Sawan, Sukhothai, Phichit, Mae Hong Son, Tak, Nan, Phayao, Phitsanulok, Loei provinces",,,,Kph,Storm,Tropical cyclone,Flood,Rain,1,4000,0,0,Chanthu (Gener/08W),2004-0258
+06/08/2004,30/08/2004,Thailand,THA,"Na Di, Prachantakham districts (Phachinburi province), Kap Choeng, Prasat, Chom Phra, Tha Tum, Muang Surin districts (Surin province), Satuk district (Buriram province), Muang Ubon Ratchathani district (Ubon Ratchathani province), Phaya Mengrai, Wiang Chai districts (Chiang Rai province), Rasi Salai district (Si Saket province), Yasothon, Roi Et, Nakhon Nayok, Kalasin provinces",,,154400,Km2,Flood,Riverine flood,--,--,9,500000,0,0,,2004-0441
+15/09/2004,15/09/2004,Thailand,THA,"Chiang Rai, Chiang Mai, Ubon Ratchathani provinces",,,,Km2,Flood,Flash flood,--,--,2,2000,0,0,,2004-0501
+10/12/2004,18/12/2004,Thailand,THA,"Su Kirin district (Narathiwat province), Muang Nakhon Si Thammarat, Hua Sai, Pak Phanang, Ron Phibun districts (Nakhon Si Thammarat province), Muang Phatthalung, Kong Ra districts (Phatthalung province), Than To district (Yala province)",,,,Km2,Flood,Riverine flood,--,--,2,5000,175000,0,,2004-0635
 21/05/2005,21/05/2005,Thailand,THA,"Lampang, Nan provinces",,,,Kph,Storm,--,Hail,--,0,1500,246,0,,2005-0303
-13/08/2005,31/08/2005,Thailand,THA,"Chiang Mai, Mae Hong Son, Chiang Rai, Phayao, Lampang, Nan, Lamphun, Nakhon Phanom, Tak provinces",,,90160,Km2,Flood,"Riverine flood",--,--,21,119310,121000,0,,2005-0435
-26/09/2005,30/09/2005,Thailand,THA,"Lampang, Chiang Mai, Chiang Rai, Phayao, Mae Hong Son, Phrae, Yasothon, Ubon Ratchathani provinces",,,,Kph,Storm,"Tropical cyclone","Broken Dam/Burst ban",--,10,2000,20000,0,Damrey,2005-0540
-23/11/2005,12/01/2006,Thailand,THA,"Songkhla, Trang, Satun, Nakhon Si Thammarat, Phatthalung, Samut Prakarn, Samut Sakhon, Samut Songkham, Chumphon, Narathiwat, Pattani, Yala provinces",,,,Km2,Flood,"Flash flood","Slide (land, mud, sn",--,55,700000,97000,0,,2005-0690
+13/08/2005,31/08/2005,Thailand,THA,"Chiang Mai, Mae Hong Son, Chiang Rai, Phayao, Lampang, Nan, Lamphun, Nakhon Phanom, Tak provinces",,,90160,Km2,Flood,Riverine flood,--,--,21,119310,121000,0,,2005-0435
+26/09/2005,30/09/2005,Thailand,THA,"Lampang, Chiang Mai, Chiang Rai, Phayao, Mae Hong Son, Phrae, Yasothon, Ubon Ratchathani provinces",,,,Kph,Storm,Tropical cyclone,Broken Dam/Burst ban,--,10,2000,20000,0,Damrey,2005-0540
+23/11/2005,12/01/2006,Thailand,THA,"Songkhla, Trang, Satun, Nakhon Si Thammarat, Phatthalung, Samut Prakarn, Samut Sakhon, Samut Songkham, Chumphon, Narathiwat, Pattani, Yala provinces",,,,Km2,Flood,Flash flood,"Slide (land, mud, sn",--,55,700000,97000,0,,2005-0690
 /01/2005,/03/2005,Thailand,THA,"Ang Thong, Bangkok, Buriram, Chachoengsao, Chainat, Chaiyaphum, Chanthaburi, Chiang Mai, Chiang Rai, Chonburi, Chumphon, Kalasin, Kampaeng Phet, Kanchanaburi, Khon Kaen, Krabi, Lampang, Lamphun, Loei, Lopburi, Mae Hong Son, Maha Sarakham, Mukdahan, Nakhon Nayok, Nakhon Pathom, Nakhon Phanom, Nakhon Ratchasima, Nakhon Sawan, Nakhon Si Thammarat, Nan
 Narathiwat, Nong Khai, Nonthaburi, Pathum Thani, Pattani, Phangnga, Phatthalung, Phayao, Phetchabun, Phetchaburi, Phichit, Phitsanulok, Phra Nakhon Si Ayudhya, Phrae, Phuket, Prachuap Khilikhan, Ranong, Ratchaburi, Rayong, Roi Et, Sakon Nakhon, Samut Prakarn, Samut Sakhon, Samut Songkham, Saraburi, Satun, Si Saket, Singburi, Songkhla, Sukhothai, Suphanburi, Surat Thani, Surin, Tak, Trad, Trang, Uthai Thani, Uttaradit, Yala, Yasothon, Amnat Charoen, Nong Bua Lamphu, Phachinburi, Sa Kaeo, Ubon Ratchathani, Udon Thani provinces",,,21600,Km2,Drought,Drought,--,--,0,0,420000,0,,2005-9153
-10/02/2006,18/02/2006,Thailand,THA,"Narathiwat, Nakhon Si Thammarat, Chumphon, Surat Thani provinces",4.33,102.54,,Km2,Flood,"Riverine flood",--,--,0,2000,0,0,,2006-0113
-22/05/2006,11/06/2006,Thailand,THA,"Nan, Phrae, Lampang, Sukhothai, Uttaradit provinces",18.18,100.15,78280,Km2,Flood,"Flash flood","Slide (land, mud, sn",--,116,342895,25000,0,,2006-0270
-20/08/2006,13/12/2006,Thailand,THA,"Chiang Rai, Chiang Mai, Mae Hong Son, Lamphun, Lampang, Phrae, Phayao, Uttaradit, Phetchabun, Phitsanulok, Sukhothai, Tak, Kampaeng Phet, Nakhon Sawan, Uthai Thani, Phichit, Chainat, Singburi, Ang Thong, Phra Nakhon Si Ayudhya, Lopburi, Saraburi, Pathum Thani, Nonthaburi, Nakhon Nayok, Chachoengsao, Phachinburi, Chonburi, Chanthaburi, Chaiyaphum, Khon Kaen, Surat Thani, Nakhon Si Thammarat, Phangnga provinces",18.76,100.02,175800,Km2,Flood,"Riverine flood","Slide (land, mud, sn",--,164,2212413,9940,0,,2006-0530
-14/04/2007,15/04/2007,Thailand,THA,"Sai Rung, Phrai Sawan areas (Yan Ta Khao district, Trang province)",7.44,99.65,290,Km2,Flood,"Flash flood","Slide (land, mud, sn",--,38,0,0,0,,2007-0142
-11/05/2007,21/05/2007,Thailand,THA,"Phichit, Phrae, Uttaradit, Nakhon Sawan, Nan, Phitsanulok provinces",17.21,100.34,38380,Km2,Flood,"Riverine flood",--,--,0,1000,0,0,,2007-0181
-05/09/2007,10/11/2007,Thailand,THA,"Phetchabun, Loei, Kalasin, Mukdahan, Chiang Rai, Phichit provinces",16.82,102.48,139500,Km2,Flood,"Riverine flood",--,--,10,17000,0,0,"Monsoonal rain",2007-0446
-22/10/2007,29/10/2007,Thailand,THA,"Chumphon, Surat Thani provinces",9.72,99,13140,Km2,Flood,"Riverine flood",--,--,2,100000,1500,0,,2007-0530
-07/12/2007,21/12/2007,Thailand,THA,"Narathiwat, Yala, Songkhla provinces",3.89,102.93,,Km2,Flood,"Riverine flood","Broken Dam/Burst ban",--,3,65000,0,0,,2007-0611
-02/05/2008,03/05/2008,Thailand,THA,"Tak province",,,,Kph,Storm,"Tropical cyclone",Flood,--,0,1000,0,0,"Cyclone Nargis",2008-0184
-11/08/2008,20/08/2008,Thailand,THA,"Chiang Rai, Loei, Nakhon Phanom, Nan, Nong Khai, Phayao, Phitsanulok, Sakon Nakhon, Udon Thani, Uttaradit provinces",17.31,103.66,,Kph,Storm,"Tropical cyclone",Flood,--,0,0,0,0,"Tropical storm ""Kammuri"" (Julian)",2008-0329
-13/09/2008,07/10/2008,Thailand,THA,"Phitsanulok, Lopburi, Phra Nakhon Si Ayudhya",,,,Km2,Flood,"Riverine flood",--,--,18,839573,16000,0,,2008-0430
-20/11/2008,20/12/2008,Thailand,THA,"Nakhon Si Thammarat, Surat Thani, Narathiwat, Phatthalung, Songkhla, Yala, Trang, Chumphon, Pattani provinces",7.55,100.1,15650,Km2,Flood,"Flash flood",--,--,21,700000,11500,0,,2008-0547
-29/12/2008,19/01/2009,Thailand,THA,"Phatthalung, Yala, Narathiwat provinces",6.64,101.1,,Km2,Flood,"Flash flood",--,--,0,32584,344,0,,2008-0634
+10/02/2006,18/02/2006,Thailand,THA,"Narathiwat, Nakhon Si Thammarat, Chumphon, Surat Thani provinces",4.33,102.54,,Km2,Flood,Riverine flood,--,--,0,2000,0,0,,2006-0113
+22/05/2006,11/06/2006,Thailand,THA,"Nan, Phrae, Lampang, Sukhothai, Uttaradit provinces",18.18,100.15,78280,Km2,Flood,Flash flood,"Slide (land, mud, sn",--,116,342895,25000,0,,2006-0270
+20/08/2006,13/12/2006,Thailand,THA,"Chiang Rai, Chiang Mai, Mae Hong Son, Lamphun, Lampang, Phrae, Phayao, Uttaradit, Phetchabun, Phitsanulok, Sukhothai, Tak, Kampaeng Phet, Nakhon Sawan, Uthai Thani, Phichit, Chainat, Singburi, Ang Thong, Phra Nakhon Si Ayudhya, Lopburi, Saraburi, Pathum Thani, Nonthaburi, Nakhon Nayok, Chachoengsao, Phachinburi, Chonburi, Chanthaburi, Chaiyaphum, Khon Kaen, Surat Thani, Nakhon Si Thammarat, Phangnga provinces",18.76,100.02,175800,Km2,Flood,Riverine flood,"Slide (land, mud, sn",--,164,2212413,9940,0,,2006-0530
+14/04/2007,15/04/2007,Thailand,THA,"Sai Rung, Phrai Sawan areas (Yan Ta Khao district, Trang province)",7.44,99.65,290,Km2,Flood,Flash flood,"Slide (land, mud, sn",--,38,0,0,0,,2007-0142
+11/05/2007,21/05/2007,Thailand,THA,"Phichit, Phrae, Uttaradit, Nakhon Sawan, Nan, Phitsanulok provinces",17.21,100.34,38380,Km2,Flood,Riverine flood,--,--,0,1000,0,0,,2007-0181
+05/09/2007,10/11/2007,Thailand,THA,"Phetchabun, Loei, Kalasin, Mukdahan, Chiang Rai, Phichit provinces",16.82,102.48,139500,Km2,Flood,Riverine flood,--,--,10,17000,0,0,Monsoonal rain,2007-0446
+22/10/2007,29/10/2007,Thailand,THA,"Chumphon, Surat Thani provinces",9.72,99,13140,Km2,Flood,Riverine flood,--,--,2,100000,1500,0,,2007-0530
+07/12/2007,21/12/2007,Thailand,THA,"Narathiwat, Yala, Songkhla provinces",3.89,102.93,,Km2,Flood,Riverine flood,Broken Dam/Burst ban,--,3,65000,0,0,,2007-0611
+02/05/2008,03/05/2008,Thailand,THA,Tak province,,,,Kph,Storm,Tropical cyclone,Flood,--,0,1000,0,0,Cyclone Nargis,2008-0184
+11/08/2008,20/08/2008,Thailand,THA,"Chiang Rai, Loei, Nakhon Phanom, Nan, Nong Khai, Phayao, Phitsanulok, Sakon Nakhon, Udon Thani, Uttaradit provinces",17.31,103.66,,Kph,Storm,Tropical cyclone,Flood,--,0,0,0,0,"Tropical storm ""Kammuri"" (Julian)",2008-0329
+13/09/2008,07/10/2008,Thailand,THA,"Phitsanulok, Lopburi, Phra Nakhon Si Ayudhya",,,,Km2,Flood,Riverine flood,--,--,18,839573,16000,0,,2008-0430
+20/11/2008,20/12/2008,Thailand,THA,"Nakhon Si Thammarat, Surat Thani, Narathiwat, Phatthalung, Songkhla, Yala, Trang, Chumphon, Pattani provinces",7.55,100.1,15650,Km2,Flood,Flash flood,--,--,21,700000,11500,0,,2008-0547
+29/12/2008,19/01/2009,Thailand,THA,"Phatthalung, Yala, Narathiwat provinces",6.64,101.1,,Km2,Flood,Flash flood,--,--,0,32584,344,0,,2008-0634
 /04/2008,//2008,Thailand,THA,"Ang Thong, Chainat, Chaiyaphum, Chiang Rai, Kalasin, Kampaeng Phet, Khon Kaen, Lampang, Loei, Lopburi, Maha Sarakham, Mukdahan, Nakhon Phanom, Nakhon Ratchasima, Nakhon Sawan, Nan, Nong Bua Lamphu, Nong Khai, Phayao, Phichit, Phitsanulok, Phra Nakhon Si Ayudhya, Phrae, Sakon Nakhon, Saraburi, Singburi, Sukhothai, Suphanburi, Udon Thani, Uthai Thani, Uttaradit provinces",,,,Km2,Drought,Drought,--,--,0,10000000,0,0,,2008-9154
-07/11/2009,08/11/2009,Thailand,THA,"Songkhla, Narathiwat, Pattani, Yala, Chumphon, Surat Thani, Nakhon Si Thammarat, Phatthalung provinces",18.48,-91.05,35580,Km2,Flood,"Riverine flood",--,--,15,200000,0,0,,2009-0513
-10/10/2010,10/12/2010,Thailand,THA,"Chainat, Singburi, Ang Thong, Suphanburi, Phra Nakhon Si Ayudhya, Lopburi, Nakhon Sawan, Saraburi, Nakhon Nayok, Nonthaburi, Pathum Thani, Nakhon Pathom, Uthai Thani, Samut Prakarn, Chaiyaphum, Si Saket, Surin, Buriram, Khon Kaen, Kalasin, Maha Sarakham, Ubon Ratchathani, Nong Bua Lamphu, Nakhon Ratchasima, Roi Et, Songkhla, Satun, Trang, Narathiwat, Pattani, Phatthalung, Yala, Surat Thani, Nakhon Si Thammarat, Krabi, Chumphon, Ranong provinces",15.03,102.2,3873,Km2,Flood,"Riverine flood",--,--,258,8970653,332000,0,,2010-0552
+07/11/2009,08/11/2009,Thailand,THA,"Songkhla, Narathiwat, Pattani, Yala, Chumphon, Surat Thani, Nakhon Si Thammarat, Phatthalung provinces",18.48,-91.05,35580,Km2,Flood,Riverine flood,--,--,15,200000,0,0,,2009-0513
+10/10/2010,10/12/2010,Thailand,THA,"Chainat, Singburi, Ang Thong, Suphanburi, Phra Nakhon Si Ayudhya, Lopburi, Nakhon Sawan, Saraburi, Nakhon Nayok, Nonthaburi, Pathum Thani, Nakhon Pathom, Uthai Thani, Samut Prakarn, Chaiyaphum, Si Saket, Surin, Buriram, Khon Kaen, Kalasin, Maha Sarakham, Ubon Ratchathani, Nong Bua Lamphu, Nakhon Ratchasima, Roi Et, Songkhla, Satun, Trang, Narathiwat, Pattani, Phatthalung, Yala, Surat Thani, Nakhon Si Thammarat, Krabi, Chumphon, Ranong provinces",15.03,102.2,3873,Km2,Flood,Riverine flood,--,--,258,8970653,332000,0,,2010-0552
 /03/2010,/03/2011,Thailand,THA,"Ang Thong, Chainat, Chaiyaphum, Chiang Rai, Kalasin, Kampaeng Phet, Khon Kaen, Lampang, Loei, Lopburi, Maha Sarakham, Mukdahan, Nakhon Phanom, Nakhon Ratchasima, Nakhon Sawan, Nan, Nong Bua Lamphu, Nong Khai, Phayao, Phichit, Phitsanulok, Phra Nakhon Si Ayudhya, Phrae, Sakon Nakhon, Saraburi, Singburi, Sukhothai, Suphanburi, Udon Thani, Uthai Thani, Uttaradit provinces",,,,Km2,Drought,Drought,--,--,0,6482602,0,0,,2010-9132
-23/03/2011,05/04/2011,Thailand,THA,"Nakhon Si Thammarat, Phatthalung, Surat Thani, Trang, Chumphon, Songkhla, Krabi, Phangnga provinces",8.666,99.28,33575,Km2,Flood,"Flash flood","Slide (land, mud, sn",--,64,716110,317000,0,,2011-0083
-04/08/2011,06/08/2011,Thailand,THA,"Phrae, Chiang Mai, Sukhothai, Nan, Nakhon Phanom, Lamphun, Lampang, Mae Hon Son, Uttaradit, Phichit, Phitsanulok, Udon Thani, Nong Khai, Sakon Nakhon Loei, Phetchabun provinces",,,,Kph,Storm,"Tropical cyclone",Flood,--,18,1000000,0,0,"Topical storm Juaning (Nock-ten)",2011-0272
-05/08/2011,04/01/2012,Thailand,THA,"Phrae, Mae Hong Son, Sukhothai, Chiang Mai, Tak, Nakhon Pathom, Roi Et, Phichit, Udon Thani, Sakon Nakhon, Uttaradit, Phitsanulok, Kampaeng Phet, Nakhon Sawan, Phetchabun, Nakhon Nayok, Phra Nakhon Si Ayudhya, Kalasin, Ubon Ratchathani, Uthai Thani, Chainat, Singburi, Ang Thong, Lopburi, Saraburi, Suphanburi, Pathum Thani, Nonthaburi, Khon Kaen, Si Saket, Surin, Chachoengsao, Phachinburi, Maha Sarakham, Samut Sakhon provinces",17.038,102.82,96785,Km2,Flood,"Riverine flood","Slide (land, mud, sn",--,813,9500000,40000000,10000000,,2011-0326
+23/03/2011,05/04/2011,Thailand,THA,"Nakhon Si Thammarat, Phatthalung, Surat Thani, Trang, Chumphon, Songkhla, Krabi, Phangnga provinces",8.666,99.28,33575,Km2,Flood,Flash flood,"Slide (land, mud, sn",--,64,716110,317000,0,,2011-0083
+04/08/2011,06/08/2011,Thailand,THA,"Phrae, Chiang Mai, Sukhothai, Nan, Nakhon Phanom, Lamphun, Lampang, Mae Hon Son, Uttaradit, Phichit, Phitsanulok, Udon Thani, Nong Khai, Sakon Nakhon Loei, Phetchabun provinces",,,,Kph,Storm,Tropical cyclone,Flood,--,18,1000000,0,0,Topical storm Juaning (Nock-ten),2011-0272
+05/08/2011,04/01/2012,Thailand,THA,"Phrae, Mae Hong Son, Sukhothai, Chiang Mai, Tak, Nakhon Pathom, Roi Et, Phichit, Udon Thani, Sakon Nakhon, Uttaradit, Phitsanulok, Kampaeng Phet, Nakhon Sawan, Phetchabun, Nakhon Nayok, Phra Nakhon Si Ayudhya, Kalasin, Ubon Ratchathani, Uthai Thani, Chainat, Singburi, Ang Thong, Lopburi, Saraburi, Suphanburi, Pathum Thani, Nonthaburi, Khon Kaen, Si Saket, Surin, Chachoengsao, Phachinburi, Maha Sarakham, Samut Sakhon provinces",17.038,102.82,96785,Km2,Flood,Riverine flood,"Slide (land, mud, sn",--,813,9500000,40000000,10000000,,2011-0326
 /06/2011,//2011,Thailand,THA,"Chians Rai, Nan, Phrae, Loei, Nong Khai, Ubon Ratchathani, Mukdahan, Sakon Nakhon, Si Saket, Surin, Chaiyaphum, Amnat Charoen, Kalasin, Nakhon Ratchasima, Buriram, Yasothon provinces (North); Sukhothai, Phetchabun, Phichit provinces (Central); Prachuap Khilikhan, Phetchaburi, Kanchanaburi provinces (West)",,,,Km2,Drought,Drought,--,--,0,0,0,0,,2011-9207
-15/08/2012,30/09/2012,Thailand,THA,"Tak, Sukhothai, Phitsanulok, Phichit, Chainat, Ang Thong, Phra Nakhon Si Ayudhya, Suphanburi, Phachinburi, Sa Kaeo, Nakhon Pathom, Chonburi, Rayong, Chachoengsao, Chaiyaphum provinces",17.09,99.64,44011,Km2,Flood,"Riverine flood",--,--,0,235545,0,0,,2012-0375
+15/08/2012,30/09/2012,Thailand,THA,"Tak, Sukhothai, Phitsanulok, Phichit, Chainat, Ang Thong, Phra Nakhon Si Ayudhya, Suphanburi, Phachinburi, Sa Kaeo, Nakhon Pathom, Chonburi, Rayong, Chachoengsao, Chaiyaphum provinces",17.09,99.64,44011,Km2,Flood,Riverine flood,--,--,0,235545,0,0,,2012-0375
 /04/2012,/08/2012,Thailand,THA,"Lampang, Kamphaeng Phet, Nan, Phayao, Chiang Mai, Sukhothai (Northern provinces); Nong Khai, Si Sa Ket, Khon Kaen, Maha Sarakham, Udon Thani, Chaiyaphum (NorthEast provinces); Phetchaburi, Kanchanaburi, Prachuap Khiri Khan, Chon Buri, Nakhon Nayok, Suphan Buri, Chanthaburi, Chachoengsao, Trat, Phuket provinces. 17 are in the North, 19 in the Northeast, 5 in the central region, 6 in the East and 1 in the South.",,,,Km2,Drought,Drought,--,--,0,12000000,1200,0,,2012-9109
-25/07/2013,27/07/2013,Thailand,THA,"Mae Sot district (Tak province)",,,,Km2,Flood,"Riverine flood",--,--,0,0,97000,0,,2013-0263
-30/09/2013,14/10/2013,Thailand,THA,"Ang Thong, Chachoengsao, Chainat, Chanthaburi, Chian Rai, Nahkon Nayok, Nakhon Ratchasima, Nakhon Sawan, Pathum Thani, Prachinburi, Phangnga, Phetchaburi, Phichit, Phitsanulok, Phra Nakhon Si Ayudhya, Prachuap Khilikhan, Sa Kaeo, Sakon Nakhon, Si Saket, Surin, Tak, Ubon Ratchathani provinces",,101.69,312091,Km2,Flood,"Riverine flood",--,--,61,3500000,482000,0,,2013-0431
-20/11/2013,08/12/2013,Thailand,THA,"Nakhon Si Thammarat, Songkhla, Narathiwat, Phatthalung, Trang provinces",7.2182,100.39,38676,Km2,Flood,"Riverine flood",--,--,23,15254,0,0,,2013-0533
-/01/2014,/01/2014,Thailand,THA,"Loei, Tak, Nan, Chiang Mai, Nakhon Phanom, Nong Bua Lamphu provinces ",,,2,°C,"Extreme temperature ","Cold wave",--,--,63,1000000,0,0,,2014-0089
-01/09/2014,08/09/2014,Thailand,THA,"Sukhothai, Phra Nakhon Si Ayudhya provinces",,,334449.25,Km2,Flood,"Riverine flood",--,--,10,73260,10000,0,,2014-0345
-07/11/2014,16/11/2014,Thailand,THA,"Trang province",,,31653,Km2,Flood,"Flash flood",--,--,0,12000,0,0,,2014-0471
-/12/2014,/12/2014,Thailand,THA,"Nakhon Si Thammarat, Phatthalung, Narathiwat provinces",,,,Km2,Flood,"Riverine flood",--,--,4,27140,0,0,,2014-0493
-13/12/2014,31/12/2014,Thailand,THA,"Krabi, Nakhon Si Thammarat, Narathiwat, Pattani, Phangnga, Phatthalung, Phuket, Satun, Songkhla, Surat Thani, Trang, Yala provinces",,,,Km2,Flood,"Riverine flood",--,--,15,18888,0,0,,2014-0522
-16/03/2014,16/03/2014,Thailand,THA,"Chiang Mai, Chiang Rai, Lampang, Lamphun, Mae Hong Son, Nan, Phayao, Phrae, Sukhothai, Tak, Uttaradit provinces",,,,Kph,Storm,"Convective storm",Hail,--,0,2000,0,0,,2014-0537
+25/07/2013,27/07/2013,Thailand,THA,Mae Sot district (Tak province),,,,Km2,Flood,Riverine flood,--,--,0,0,97000,0,,2013-0263
+30/09/2013,14/10/2013,Thailand,THA,"Ang Thong, Chachoengsao, Chainat, Chanthaburi, Chian Rai, Nahkon Nayok, Nakhon Ratchasima, Nakhon Sawan, Pathum Thani, Prachinburi, Phangnga, Phetchaburi, Phichit, Phitsanulok, Phra Nakhon Si Ayudhya, Prachuap Khilikhan, Sa Kaeo, Sakon Nakhon, Si Saket, Surin, Tak, Ubon Ratchathani provinces",,101.69,312091,Km2,Flood,Riverine flood,--,--,61,3500000,482000,0,,2013-0431
+20/11/2013,08/12/2013,Thailand,THA,"Nakhon Si Thammarat, Songkhla, Narathiwat, Phatthalung, Trang provinces",7.2182,100.39,38676,Km2,Flood,Riverine flood,--,--,23,15254,0,0,,2013-0533
+/01/2014,/01/2014,Thailand,THA,"Loei, Tak, Nan, Chiang Mai, Nakhon Phanom, Nong Bua Lamphu provinces ",,,2,ï¿½C,Extreme temperature ,Cold wave,--,--,63,1000000,0,0,,2014-0089
+01/09/2014,08/09/2014,Thailand,THA,"Sukhothai, Phra Nakhon Si Ayudhya provinces",,,334449.25,Km2,Flood,Riverine flood,--,--,10,73260,10000,0,,2014-0345
+07/11/2014,16/11/2014,Thailand,THA,Trang province,,,31653,Km2,Flood,Flash flood,--,--,0,12000,0,0,,2014-0471
+/12/2014,/12/2014,Thailand,THA,"Nakhon Si Thammarat, Phatthalung, Narathiwat provinces",,,,Km2,Flood,Riverine flood,--,--,4,27140,0,0,,2014-0493
+13/12/2014,31/12/2014,Thailand,THA,"Krabi, Nakhon Si Thammarat, Narathiwat, Pattani, Phangnga, Phatthalung, Phuket, Satun, Songkhla, Surat Thani, Trang, Yala provinces",,,,Km2,Flood,Riverine flood,--,--,15,18888,0,0,,2014-0522
+16/03/2014,16/03/2014,Thailand,THA,"Chiang Mai, Chiang Rai, Lampang, Lamphun, Mae Hong Son, Nan, Phayao, Phrae, Sukhothai, Tak, Uttaradit provinces",,,,Kph,Storm,Convective storm,Hail,--,0,2000,0,0,,2014-0537
 /03/2014,/03/2014,Thailand,THA,"Ang Thong, Bangkok, Buriram, Chachoengsao, Chainat, Chaiyaphum, Chanthaburi, Chiang Mai, Chiang Rai, Chonburi, Chumphon, Kalasin, Kampaeng Phet, Kanchanaburi, Khon Kaen, Krabi, Lampang, Lamphun, Loei, Lopburi, Mae Hong Son, Maha Sarakham, Mukdahan, Nakhon Nayok, Nakhon Pathom, Nakhon Phanom, Nakhon Ratchasima, Nakhon Sawan, Nakhon Si Thammarat, Nan
 Narathiwat, Nong Khai, Nonthaburi, Pathum Thani, Pattani, Phangnga, Phatthalung, Phayao, Phetchabun, Phetchaburi, Phichit, Phitsanulok, Phra Nakhon Si Ayudhya, Phrae, Phuket, Prachuap Khilikhan, Ranong, Ratchaburi, Rayong, Roi Et, Sakon Nakhon, Samut Prakarn, Samut Sakhon, Samut Songkham, Saraburi, Satun, Si Saket, Singburi, Songkhla, Sukhothai, Suphanburi, Surat Thani, Surin, Tak, Trad, Trang, Uthai Thani, Uttaradit, Yala, Yasothon, Amnat Charoen, Nong Bua Lamphu, Phachinburi, Sa Kaeo, Ubon Ratchathani, Udon Thani provinces",,,,Km2,Drought,Drought,--,--,0,0,0,0,,2014-9428
-/01/2015,/05/2017,Thailand,THA,"42 provinces. 28 provinces in the North and Northeast",,,,Km2,Drought,Drought,--,--,0,0,3300000,0,,2015-9574
-20/01/2016,26/01/2016,Thailand,THA,"Chai Nat Province, Bangkok, Chiang Rai, Phetchabum",,,8.6,°C,"Extreme temperature ","Cold wave",--,--,14,0,0,0,,2016-0023
+/01/2015,/05/2017,Thailand,THA,42 provinces. 28 provinces in the North and Northeast,,,,Km2,Drought,Drought,--,--,0,0,3300000,0,,2015-9574
+20/01/2016,26/01/2016,Thailand,THA,"Chai Nat Province, Bangkok, Chiang Rai, Phetchabum",,,8.6,ï¿½C,Extreme temperature ,Cold wave,--,--,14,0,0,0,,2016-0023
 06/10/2016,16/10/2016,Thailand,THA,"Nakhon Sawan province, Ayutthaya (Phra Nakhon Si Ayudhya province)",14.867,100.395,17187.43,Km2,Flood,--,--,--,4,204000,120000,0,,2016-0360
-15/08/2016,16/08/2016,Thailand,THA,"Nan, Phayao, Mae Hong Son, Chiang Rai provinces",,,,Km2,Flood,"Flash flood",--,--,3,22500,0,0,,2016-0378
+15/08/2016,16/08/2016,Thailand,THA,"Nan, Phayao, Mae Hong Son, Chiang Rai provinces",,,,Km2,Flood,Flash flood,--,--,3,22500,0,0,,2016-0378
 01/12/2016,10/12/2016,Thailand,THA,"Nakhon Si Thammarat, Krabi, Surat Thani, Songkhla, Phatthalung, Pattani, Chumphon, Trang, Yala, Narathiwat provinces",14.445,100.753,67395.39,Km2,Flood,--,--,--,14,582343,25000,0,,2016-0472
 01/01/2017,10/01/2017,Thailand,THA,"Pattani, Yala, Narathiwat, Songkhla, Phattalung, Trang, Nakhon Si Thammarat, Krabi, Surat Thani, Chumphon,  Prachaub Khirikhan, Ranong provinces
-",7.305,100.061,50020.11,Km2,Flood,"Riverine flood",--,--,46,1600000,860000,0,,2017-0006
-17/07/2017,19/07/2017,Thailand,THA,"Nan (Mae Charim district)",,,,Kph,Storm,"Tropical cyclone",--,--,0,60,0,0,"Tropical Storm Talas",2017-0281
+",7.305,100.061,50020.11,Km2,Flood,Riverine flood,--,--,46,1600000,860000,0,,2017-0006
+17/07/2017,19/07/2017,Thailand,THA,Nan (Mae Charim district),,,,Kph,Storm,Tropical cyclone,--,--,0,60,0,0,Tropical Storm Talas,2017-0281
 05/07/2017,02/08/2017,Thailand,THA,"Sakon Nakhon, Nakhon Sawan, Lop Buri, Chai Nat, Chanthaburi, Phichit, Phetchabun, Phrae (Den Chai, Song), Uttaradit, Chumphon, Kamphaeng Phet, Nan, Chiang Rai, Chiang Mai, Phayao, Ang Thong, Ranong, Lampang, Nan Yasothan (Pa Tiu), Ayutthaya, Trat, Ubon Ratchathani (Si Muang Mai, Kong Chiam, Nam Yuen), Kalasin, Nakhon Phanom, Chai Nat (Manorom, Han Ka, and Nern Kham)",,,,Km2,Flood,--,"Slide (land, mud, sn",--,23,1000000,0,0,,2017-0316
-10/10/2017,08/11/2017,Thailand,THA,"Central plains provinces",14.594,100.679,101670.34,Km2,Flood,--,--,--,9,605000,0,0,,2017-0465
-25/11/2017,03/12/2017,Thailand,THA,"Nakhon Si Thammarat, Narathiwat, Pattani, Phatthalung, Satun, Songkhla, Surat Thani, Trang, Yala, Satun, Surat Thani provinces",,,,Km2,Flood,"Riverine flood",--,--,22,385498,0,0,,2017-0516
-26/09/1953,26/09/1953,"Viet Nam",VNM,"Southern coast",,,,Kph,Storm,"Tropical cyclone",--,--,1000,0,0,0,,1953-0019
-/11/1956,/11/1956,"Viet Nam",VNM,,,,,Kph,Storm,"Tropical cyclone",--,--,56,0,0,0,,1956-0050
-/09/1964,/11/1964,"Viet Nam",VNM,"China sea coast",,,,Kph,Storm,"Tropical cyclone",--,--,7000,700000,50000,0,"Iris ",1964-0063
-/12/1964,/12/1964,"Viet Nam",VNM,,,,,Km2,Flood,--,--,--,400,0,0,0,,1964-0102
-20/09/1966,20/09/1966,"Viet Nam",VNM,"Near Cambodia border",,,,Km2,Flood,"Riverine flood",--,--,31,195902,10000,0,,1966-0070
-26/10/1970,26/10/1970,"Viet Nam",VNM,North,,,,Km2,Flood,--,--,--,237,204000,0,0,,1970-0059
-01/05/1971,01/05/1971,"Viet Nam",VNM,"Quang Ngai province",,,,Kph,Storm,"Tropical cyclone",--,--,23,50000,0,0,Wanda,1971-0029
-23/10/1971,23/10/1971,"Viet Nam",VNM,North,,,,Kph,Storm,"Tropical cyclone",--,--,89,0,0,0,,1971-0057
-10/11/1973,10/11/1973,"Viet Nam",VNM,"Binh Dinh",,,,Kph,Storm,"Tropical cyclone",--,--,100,150000,0,0,,1973-0047
-22/07/1977,22/07/1977,"Viet Nam",VNM,Haiphong,,,,Kph,Storm,"Tropical cyclone",--,--,0,1000,0,0,Sarah,1977-0088
-/08/1978,/08/1978,"Viet Nam",VNM,"Mekong Delta",,,,Km2,Flood,"Riverine flood",--,--,74,4079000,0,0,,1978-0105
-23/07/1980,23/07/1980,"Viet Nam",VNM,"Ha Bac, Hai Phong, Hai Hung, Guang Ninh provinces",,,,Kph,Storm,"Tropical cyclone",--,--,132,6624710,0,0,"Joe (n°4)",1980-0068
-15/09/1980,15/09/1980,"Viet Nam",VNM,"Thanh Hoa, Nghe Tinh, Ha Ham Ninh provinces",,,144,Kph,Storm,"Tropical cyclone",--,--,176,9027174,0,0,"Ruth (N°6)",1980-0090
-/11/1980,/11/1980,"Viet Nam",VNM,"Quang Nam Da Nang, Nghia Binh, Binh Tri Thien, Phu Khanh  provinces",,,,Km2,Flood,--,--,--,94,628000,0,0,,1980-0106
-18/10/1982,18/10/1982,"Viet Nam",VNM,"Nghe Tinh, Thanh Hoa Provinces",,,,Kph,Storm,"Tropical cyclone",--,--,70,1300290,0,0,"Nancy (N°7)",1982-0112
-/05/1983,/05/1983,"Viet Nam",VNM,Central,,,,Kph,Storm,"Convective storm",--,--,76,0,0,0,,1983-0077
-/09/1983,/09/1983,"Viet Nam",VNM,,,,,Kph,Storm,"Tropical cyclone",--,--,578,845324,0,0,"Herbert (N°7), Kim (N°9), Lex (N°10)",1983-0125
-05/10/1983,05/10/1983,"Viet Nam",VNM,"Ha Nam Ninh, Ha Son Binh, Thai Binh, Nai Hung, Thanh Hoa, Ha Bac, Hanoi, Vinh Phu, Nghe Tinh provinces",,,,Kph,Storm,"Tropical cyclone",--,--,80,336544,0,0,"Georgia (N°6)",1983-0452
-15/04/1984,15/04/1984,"Viet Nam",VNM,"100 km East from Hanoi",,,,Kph,Storm,"Tropical cyclone",--,--,21,1094,0,0,,1984-0035
-/10/1984,/10/1984,"Viet Nam",VNM,Central,,,,Km2,Flood,--,--,--,33,38000,0,0,,1984-0090
-/11/1984,/11/1984,"Viet Nam",VNM,", Nghe Tinh, Nghia Binh, Thanh Hoa, Ha Son Binh, Ha Nam Ninh, Hanoi, Quang Nam, Da Nag Province",,,,Kph,Storm,"Tropical cyclone",--,--,134,650705,0,0,"Agnes (n°9)",1984-0103
-07/09/1985,07/09/1985,"Viet Nam",VNM,"Ha Nam Ninh, Thanh Hoa, Hai Hung, Ha Bac",,,24680,Km2,Flood,"Riverine flood",--,--,93,2800000,0,0,,1985-0106
-23/10/1985,23/10/1985,"Viet Nam",VNM,"Binh Tri Thien, Nghe Tinh provinces",,,,Kph,Storm,"Tropical cyclone",--,--,798,450257,0,0,Cecil,1985-0114
-06/09/1986,06/09/1986,"Viet Nam",VNM,"Ha Nam Ninh, Thai Binh, Hason Binh, Haiphong, Quang Ninh provinces",,,120,Kph,Storm,"Tropical cyclone",--,--,435,2502502,0,0,"Wayne (N°5)",1986-0109
-03/12/1986,03/12/1986,"Viet Nam",VNM,Central,,,,Km2,Flood,"Riverine flood",--,--,165,0,0,0,,1986-0139
-18/11/1987,18/11/1987,"Viet Nam",VNM,"Nghia Binh, Phu Khahu Provinces",,,,Kph,Storm,"Tropical cyclone",--,--,101,937011,0,0,Maury,1987-0200
-/12/1987,/12/1987,"Viet Nam",VNM,,,,,Kph,Storm,--,--,--,22,0,0,0,,1987-0363
-//1987,//1987,"Viet Nam",VNM,"Northern Provinces",,,,Km2,Drought,Drought,--,--,0,0,0,0,,1987-9029
-10/10/1988,10/10/1988,"Viet Nam",VNM,"Nghe Tinh",,,110,Kph,Storm,"Tropical cyclone",--,--,137,600000,0,0,,1988-0460
-06/11/1988,06/11/1988,"Viet Nam",VNM,"Dong Nai, Phu Khanh, Thuan Ha provinces",,,,Kph,Storm,"Tropical cyclone",--,--,20,720000,0,0,,1988-0503
-24/07/1989,24/07/1989,"Viet Nam",VNM,"Thanh Hoa province",,,,Kph,Storm,"Tropical cyclone",--,--,104,1445491,0,0,Irving,1989-0104
-/10/1989,/10/1989,"Viet Nam",VNM,"Nghe Tinh, Binh Tri Thien provinces",,,,Kph,Storm,"Tropical cyclone",--,--,104,4635762,0,0,"Brian, Angela, Dan",1989-0128
-25/05/1989,25/05/1989,"Viet Nam",VNM,"Da Nang city (Quang Nam Danang province)",,,,Kph,Storm,"Tropical cyclone",Flood,--,751,336106,21000,0,Cecil,1989-0178
-20/06/1990,08/07/1990,"Viet Nam",VNM,"Son La, Hoang Lien Son, Ha Tuyen, Binh Dinh, Dac Lac, Lai Chau, Muong Lay provinces",,,13950,Km2,Flood,"Riverine flood",--,--,82,10200,725,0,,1990-0048
-/08/1990,/08/1990,"Viet Nam",VNM,"Ky Anh, Quang Trach, Quang Binh district + Son (Ha Nam Ninh province), Tra Ling (Thai Binh province)",,,,Kph,Storm,"Tropical cyclone",--,--,19,500108,0,0,Becky,1990-0069
-15/11/1990,15/11/1990,"Viet Nam",VNM,"Nghe Tinh",,,,Kph,Storm,"Tropical cyclone",--,--,68,0,0,0,,1990-0418
-23/10/1990,23/10/1990,"Viet Nam",VNM,"Central Eastern Coast",,,,Kph,Storm,"Tropical cyclone",--,--,15,2000,0,0,,1990-0608
-17/08/1991,17/08/1991,"Viet Nam",VNM,"Quanq Bin, Ha Tinh, Than Hoa, Nghe provinces",,,,Kph,Storm,"Tropical cyclone",--,--,17,455921,9500,0,Fred,1991-0210
-/08/1991,/08/1991,"Viet Nam",VNM,"An Giang, Long An, Dong Thap, Kien Giang provinces",,,1000,Km2,Flood,"Riverine flood",--,--,21,270600,5000,0,,1991-0229
-28/07/1991,31/07/1991,"Viet Nam",VNM,"Son La, Lai Chau provinces",,,30960,Km2,Flood,"Riverine flood","Broken Dam/Burst ban",--,38,4014,3200,0,,1991-0315
-28/12/1991,28/12/1991,"Viet Nam",VNM,"Quang Ngai, Quang Nam-Da, Thua Thien-Hue provinces",,,70,Kph,Storm,--,--,--,251,10200,1000,0,,1991-0444
-19/09/1991,25/09/1991,"Viet Nam",VNM,"An Giang, Dong Thap, Long An, Tien Giang, Kien Giang provinces (Mekong Delta)",,,,Km2,Flood,"Riverine flood",--,--,136,21000,38500,0,,1991-0538
-15/03/1991,15/03/1991,"Viet Nam",VNM,"Khanh Hoa",,,,Kph,Storm,--,--,--,8,10708,0,0,,1991-0711
-13/07/1991,13/07/1991,"Viet Nam",VNM,"Quang Ninh Hai Phong",,,,Kph,Storm,"Tropical cyclone",--,--,21,776,0,0,Zeke,1991-0713
-29/06/1992,29/06/1992,"Viet Nam",VNM,"Haiphong, Quang Ninh provinces",,,,Kph,Storm,"Tropical cyclone",--,--,14,47186,400,0,Chuck,1992-0061
-23/10/1992,23/10/1992,"Viet Nam",VNM,"Between Thua Thien Hue and Khanh Hoa provinces",,,,Kph,Storm,"Tropical cyclone",--,--,17,32172,18000,0,Angela,1992-0143
-05/10/1992,09/10/1992,"Viet Nam",VNM,"Nghe An, Ha Tinh, Quang Binh, Quang Tri, Thua Thien-Hue, Quang Nam-Da Nang provinces",,,569,Km2,Flood,"Riverine flood",--,--,55,51698,47700,0,,1992-0144
-28/10/1992,31/10/1992,"Viet Nam",VNM,"Quang Binh, Quang Tri provinces",,,,Km2,Flood,"Coastal flood",--,--,1,58000,0,0,,1992-0145
-23/11/1993,23/11/1993,"Viet Nam",VNM,"Phu Yen, Khanh Hoa, Binh Dinh, Dal Lac provinces",,,,Kph,Storm,"Tropical cyclone",--,--,130,11506,15000,0,Kyle,1993-0088
-16/03/1993,16/03/1993,"Viet Nam",VNM,"Tuyen Quang province",,,,Kph,Storm,"Convective storm",--,--,3,2016,0,0,,1993-0133
-02/10/1993,12/10/1993,"Viet Nam",VNM,"Phu Yen, Lam Dong, Quang Tri, Da Nang, Khanh Hoa, Binh Dinh, Darlac and Binh Thuan provinces",,,29440,Km2,Flood,"Flash flood",--,--,64,15000,10000,0,,1993-0213
-08/12/1993,08/12/1993,"Viet Nam",VNM,"Ninh Hai, Cam Ranh districts (Khanh Hoa province)",,,130,Kph,Storm,"Tropical cyclone",--,--,73,25235,50000,0,Lola,1993-0231
-04/09/1994,18/12/1994,"Viet Nam",VNM,"Dong Thap, An Giang, Long An, Tien Giang, Kien Giang, Can Tho, Nghe An, Thanh Hoa provinces",,,65260,Km2,Flood,"Riverine flood",--,--,310,382000,206000,0,,1994-0341
-17/09/1994,17/09/1994,"Viet Nam",VNM,"Thanh Hoa, Ninh Binh, Nam Ha, Ha Tay",,,,Kph,Storm,"Tropical cyclone",--,--,30,11000,45000,0,Luke,1994-0658
-21/09/1995,19/10/1995,"Viet Nam",VNM,"Quang Binh, Quang Tri, Kegalle, Da Nang, Dong Thap, Dong Thap, Kien Gang, An Giang, Tien Giang, Vinh Long, Can Tho provinces",,,123000,Km2,Flood,"Riverine flood",--,--,253,400000,86000,0,,1995-0236
-01/11/1995,01/11/1995,"Viet Nam",VNM,"Quang Ngai, Binh Dinh, Quang Nam-Danang, Quang Tri, Quang Binh",,,,Kph,Storm,"Tropical cyclone",Flood,--,16,23051,21200,0,Zack,1995-0274
-24/07/1996,24/07/1996,"Viet Nam",VNM,"Thai Binh, Nam Ha, Ninh Binh, Thanh Hoa, Hoa Binh",,,102,Kph,Storm,"Tropical cyclone",--,--,585,387091,362000,0,"Frankie ",1996-0110
-09/09/1996,10/09/1996,"Viet Nam",VNM,,,,,Kph,Storm,"Tropical cyclone",--,--,1,0,20,0,Sally,1996-0202
-21/09/1996,22/09/1996,"Viet Nam",VNM,"Nghe An, Ha Tinh provinces",,,101,Kph,Storm,"Tropical cyclone",--,--,9,280000,11000,0,Willie,1996-0227
-01/10/1996,13/11/1996,"Viet Nam",VNM,"An Giang, Dong Thap, Tay Minh,  Long An, Tien Giang, Kien Giang, Can Tho, Vinh Long provinces",,,22610,Km2,Flood,"Riverine flood",--,--,162,375000,138000,0,,1996-0248
-14/09/1996,19/09/1996,"Viet Nam",VNM,"Thua Thien-Hue, Quang Nam-Da Nang, Quang Tri, Quang Ngai, Binh Dinh, Kon Tum",,,,Km2,Flood,--,--,--,60,0,13400,0,,1996-0447
-14/08/1996,26/08/1996,"Viet Nam",VNM,"Thanh Hoa, Golfe du Tonkin",,,,Kph,Storm,"Tropical cyclone","Slide (land, mud, sn",--,194,0,227000,0,,1996-0500
-22/08/1997,27/08/1997,"Viet Nam",VNM,,,,,Kph,Storm,"Tropical cyclone",--,--,0,0,5000,0,Zita,1997-0186
-02/11/1997,04/11/1997,"Viet Nam",VNM,"Ca Mau, Soc Trang, Ben Tre, Tien Giang, Ba Ria, Binh Thuan, Tra Vinh, Bac Lieu, Dong Thap, Ho Chi Minh City, Can Tho, Kien Giang,  Binh Dinh Provinces",,,102,Kph,Storm,"Tropical cyclone",--,--,3682,1081127,470000,5000,Linda,1997-0267
-20/09/1997,29/09/1997,"Viet Nam",VNM,"Danang, Quang Ngai, Quang Nam-Da, Nghe An",,,,Kph,Storm,"Tropical cyclone",Flood,"Slide (land, mud, sn",10,50,5000,0,Fritz,1997-0358
-/12/1997,/06/1998,"Viet Nam",VNM,"Quang Tri, Quang Binh, Quang Ngai, Quang Nam, Ha Tinh, Nghe An, Binh Dinh, Gia Lai, Kon Tun provinces",,,,Km2,Drought,Drought,"Food shortage",--,0,3000000,407000,0,,1997-9525
-08/05/1998,08/05/1998,"Viet Nam",VNM,"Thanh Hoa province",,,,Kph,Storm,"Convective storm",--,--,42,500,0,0,,1998-0159
-16/10/1998,23/10/1998,"Viet Nam",VNM,"Khan Hoa, Binh Dinh, Quang Ngai, Phu Yen, Ninh Thuan",,,110,Km2,Flood,"Riverine flood",--,--,45,32505,13700,0,,1998-0316
-13/11/1998,29/11/1998,"Viet Nam",VNM,"Quang Binh, Khanh Hoa, Quang Tri, Thua Thien Hue, Quang Nam, Da Nang, Guang Ngai, Bin Dinh, Phu Yen, Ninh Thuan, Binh Thuan, Dac Lac, Kon Tum, Lam Dong, Giai Lai provinces",,,,Kph,Storm,"Tropical cyclone",Flood,--,283,2440092,93200,0,"Chip, Elvis , Dawn",1998-0374
-16/12/1998,16/12/1998,"Viet Nam",VNM,"Khanh Hoa, Phu Yen, Quang Nam, Ninh Thuan, Quang Ngai, Ben Tre, Bihn Thuan, Ca Mau provinces",,,150,Kph,Storm,"Tropical cyclone",--,--,43,84645,15000,0,"Faith & Gil",1998-0434
-24/07/1999,05/08/1999,"Viet Nam",VNM,"Binh Thuan, Lam Dong, Dac Lac and Dong Nai ",,,500,Km2,Flood,"Flash flood","Slide (land, mud, sn",--,40,115175,19500,0,,1999-0244
-25/10/1999,09/11/1999,"Viet Nam",VNM,"Da Nang, Quang Nam, Thanh Hoa, Nghe An, Ha Tinh, Quang Binh, Quang Tri, Thua Thien Hue, Quang Ngai, Binh Dinh",,,947,Km2,Flood,"Coastal flood",--,--,622,3504412,237000,0,,1999-0428
-02/12/1999,10/12/1999,"Viet Nam",VNM,"Thua Thien Hue, Khanh Hoa, Phu Yen, Binh Dinh, Quang Ngai, Quang Nam, Danang and Khanh Hoa.",,,288,Km2,Flood,"Riverine flood",--,--,127,2163694,53000,0,,1999-0574
-06/06/1999,06/06/1999,"Viet Nam",VNM,"Baie d'Halong - Quang Ninh Province",,,,Kph,Storm,"Convective storm",--,--,10,0,0,0,,1999-0637
-/01/1999,//1999,"Viet Nam",VNM,"Central - North regions",,,1650,Km2,Drought,Drought,--,--,0,1400000,0,0,,1999-9084
-12/06/2000,12/06/2000,"Viet Nam",VNM,"Binh Hoa, Giao Ha villages (Giao Thuy district, Nam Dinh province)",,,,Kph,Storm,--,--,--,3,129,0,0,,2000-0361
-/07/2000,/11/2000,"Viet Nam",VNM,"Long An, Dong Thap, An Giang, Kien Giang, Can Tho city, Vinh Long, Tien Giang provinces",,,1400,Km2,Flood,"Riverine flood",--,--,460,5000004,250000,0,,2000-0408
-10/07/2000,10/07/2000,"Viet Nam",VNM,"Can Tho city province",,,,Kph,Storm,--,--,--,0,2005,0,0,,2000-0448
-20/08/2000,20/08/2000,"Viet Nam",VNM,"Quang Binh, Quang Tri, Thua Thien - Hue, Quang Nam, Quang Ngai, Binh Dinh, Da Nang City provinces",,,,Kph,Storm,"Tropical cyclone",--,--,15,4,5000,0,Kaemi,2000-0518
-24/08/2000,24/08/2000,"Viet Nam",VNM,"My Tho City, Go Cong Township districts (Tien Giang province)",,,,Kph,Storm,--,--,--,0,5730,0,0,,2000-0540
-24/08/2000,24/08/2000,"Viet Nam",VNM,"Rach Gia Township district (Kien Giang province)",,,,Kph,Storm,--,--,--,0,503,35,0,,2000-0541
-24/08/2000,24/08/2000,"Viet Nam",VNM,"Khanh Binh Tay village (Tran Van Thoi district, Ca Mau province)",,,,Kph,Storm,"Convective storm",--,--,0,134,0,0,,2000-0542
-10/09/2000,10/09/2000,"Viet Nam",VNM,"Thach Ha, Cam Xuyen, Ky Anh districts (Ha Tinh province)",,,120,Kph,Storm,"Tropical cyclone",--,--,5,6029,21000,0,Wukong,2000-0582
-18/11/2000,26/11/2000,"Viet Nam",VNM,"Quang Nam, Khanh Hoa, Phu Yen, Ninh Thuan, Binh Thuan, Quang Ngai, Binh Dinh, Quang Tri, Thua Thien-Hue provinces",,,49140,Km2,Flood,"Riverine flood",--,--,36,25003,15000,0,,2000-0748
-04/07/2001,04/07/2001,"Viet Nam",VNM,"Thai Nguyen, Tuyen Quang, Vinh Phuc provinces",,,,Kph,Storm,"Tropical cyclone",--,--,30,117453,25000,0,Durian,2001-0318
-30/06/2001,30/06/2001,"Viet Nam",VNM,"Tien Yen, Dong Trieu, Hoanh Bo districts (Quang Ninh province)",,,,Km2,Flood,--,--,--,9,175,0,0,,2001-0361
-11/08/2001,11/08/2001,"Viet Nam",VNM,"Ha Tinh, Nghe An, Quang Binh, Thanh Hoa provinces",,,196,Kph,Storm,"Tropical cyclone",--,--,3,10003,3200,0,Usagi,2001-0436
-15/08/2001,19/11/2001,"Viet Nam",VNM,"Long An, Dong Thap, An Giang, Can Tho city, Phu Tho, Kien Giang, Tien Giang, Vinh Long, Soc Trang, Tra Vinh, Ben Tre provinces",,,745,Km2,Flood,"Riverine flood",--,--,310,1570270,84000,0,,2001-0492
-20/10/2001,24/10/2001,"Viet Nam",VNM,"Quang Nam, Quang Ngai, Ha Tinh, Nghe An, Quang Tri, Phu Yen provinces",,,72000,Km2,Flood,"Flash flood",--,--,20,35006,4700,0,,2001-0587
-12/11/2001,12/11/2001,"Viet Nam",VNM,"Phu Yen, Binh Dinh, Quang Ngai, Quang Tri provinces",,,,Kph,Storm,"Tropical cyclone",--,--,20,73183,55000,0,"Lingling (Nanang)",2001-0624
-04/11/2001,04/11/2001,"Viet Nam",VNM,"Thu Duc district (Ho Chi Minh City province)",,,,Km2,Flood,"Coastal flood",--,--,0,3000,0,0,,2001-0654
-31/07/2002,06/08/2002,"Viet Nam",VNM,"Lai Chau, Lao Cai, Ha Giang, Tuyen Quang, Bac Kan, Son La, Lam Dong provinces",,,27820,Km2,Flood,"Riverine flood",--,--,10,2000,2200,0,,2002-0470
-/09/2002,/09/2002,"Viet Nam",VNM,"Long An, Dong Thap, An Giang provinces",,,,Km2,Flood,"Riverine flood",--,--,82,1138200,23900,0,,2002-0580
-20/09/2002,30/09/2002,"Viet Nam",VNM,"Ha Tinh, Nghe An provinces",,,19980,Km2,Flood,"Riverine flood",--,--,55,291616,58000,0,,2002-0610
-/10/2002,/10/2002,"Viet Nam",VNM,"Long An province",,,0,Kph,Storm,"Convective storm",--,--,0,1800,100,0,,2002-0725
-/05/2002,//2002,"Viet Nam",VNM,"An Giang, Kien Giang, Long An provinces ",,,,Km2,Drought,Drought,--,--,0,1300000,200000,0,,2002-9132
-23/07/2003,23/07/2003,"Viet Nam",VNM,"Bac Giang, Bac Kan, Bac Ninh, Cao Bang, Dien Bien, Ha Giang, Ha Nam, Ha Noi City, Ha Tay, Hai Duong, Hai Phong City, Hoa Binh, Hung Yen, Lai Chau, Lang Son, Lao Cai, Nam Dinh, Ninh Binh, Phu Tho, Quang Ninh, Son La, Thai Binh, Thai Nguyen, Thanh Hoa, Tuyen Quang, Vinh Phuc, Yen Bai provinces",,,90,Kph,Storm,"Tropical cyclone",Rain,--,0,5018,0,0,Koni,2003-0437
-15/10/2003,22/10/2003,"Viet Nam",VNM,"Quang Ngai, Quang Nam, Binh Dinh, Quang Tri, Phu Yen, Thua Thien Hue provinces",,,10630,Km2,Flood,"Coastal flood",--,--,52,221774,32000,0,,2003-0505
-11/11/2003,14/11/2003,"Viet Nam",VNM,"Ninh Thuan, Binh Dinh, Phu Yen, Khanh Hoa, Quang Nam, Dak Lak provinces",,,362,Km2,Flood,"Riverine flood","Slide (land, mud, sn",--,61,194049,35000,0,,2003-0557
-10/09/2003,14/09/2003,"Viet Nam",VNM,"Nghe An, Thai Binh, Nam Dinh, Lao Cai, Ha Tinh provinces",,,31350,Km2,Flood,"Riverine flood",--,--,15,1000,38000,38000,,2003-0672
-07/06/2004,11/06/2004,"Viet Nam",VNM,"BinH Dinh, Da Nang City, Quang Ngai provinces",,,65,Kph,Storm,"Tropical cyclone",--,--,14,905,7000,0,"Chanthu (Gener/08W)",2004-0258
-16/04/2004,17/04/2004,"Viet Nam",VNM,"Mai Son, Bac Yen, Song Ma districts (Son La province)",,,3300,Km2,Flood,"Riverine flood",--,--,9,5000,0,0,,2004-0328
-18/07/2004,28/07/2004,"Viet Nam",VNM,"Du Tien, Du Gia villages (Yen Minh district, Ha Giang province), Bao Lam district (Cao Bang province)",,,12020,Km2,Flood,"Flash flood","Slide (land, mud, sn",--,53,18,8000,0,,2004-0354
-26/11/2004,26/11/2004,"Viet Nam",VNM,"Quang Ngai, Quang Nam, Thua Thien - Hue, Quang Tri, Quang Binh provinces",,,,Kph,Storm,"Tropical cyclone",Flood,"Slide (land, mud, sn",56,500000,23000,0,"Muifa (Unding/29W)",2004-0580
-24/08/2004,21/10/2004,"Viet Nam",VNM,"An Giang, Vinh Long, Dong Thap, Long An, Can Tho city, Kien Giang provinces",,,47760,Km2,Flood,"Riverine flood",Rain,--,34,30000,0,0,,2004-0735
-26/05/2005,26/05/2005,"Viet Nam",VNM,"Vinh Thuan district (Kien Giang province)",,,,Km2,Flood,"Riverine flood",Rain,--,0,593,0,0,,2005-0315
-13/08/2005,16/08/2005,"Viet Nam",VNM,"Nghe An province",,,,Kph,Storm,--,Flood,--,13,6500,0,0,,2005-0476
-08/09/2005,29/09/2005,"Viet Nam",VNM,"Tan Hung, Vinh Hung, Moc Hoa districts (Long An province), Dong Thap, An Giang provinces
-",,,54540,Km2,Flood,"Riverine flood",--,--,39,30000,0,0,,2005-0515
-18/09/2005,19/09/2005,"Viet Nam",VNM,"Thanh Hoa, Nghe An, Ha Tinh provinces",,,,Kph,Storm,"Tropical cyclone",Rain,--,8,8500,20000,0,Vicente,2005-0536
-27/09/2005,30/09/2005,"Viet Nam",VNM,"Yen Bai, Tram Tau, Nghia Lo districts (Yen Bai province), Nghe An, Phu Tho, Hoa Binh, Lao Cai, Thanh Hoa, Nam Dinh, Quang Ninh, Quang Nam, Da Nang City provinces ",,,133,Kph,Storm,"Tropical cyclone",Flood,"Slide (land, mud, sn",75,337660,219250,0,Damrey,2005-0540
-07/10/2005,10/10/2005,"Viet Nam",VNM,"Quang Binh, Quang Tri, Thua Thien Hue, Quang Ngai provinces",,,8370,Km2,Flood,"Riverine flood",--,--,17,10000,15000,0,,2005-0584
-02/11/2005,04/11/2005,"Viet Nam",VNM,"Son Ha district (Quang Ngai province), Phong Dien district (Thua Thien - Hue province), Quang Nam, Quang Tri provinces",,,,Kph,Storm,"Tropical cyclone",--,--,20,15000,11000,0,"Kai Tak (21)",2005-0611
-20/10/2005,28/10/2005,"Viet Nam",VNM,"Binh Dinh, Quang Ngai, Phu Yen, Khanh Hoa, Gia Lai, Quang Tri provinces",,,28850,Km2,Flood,"Flash flood",--,--,67,33800,12000,0,,2005-0628
-04/12/2005,24/12/2005,"Viet Nam",VNM,"Khanh Hoa, Dak Lak, Phu Yen, Quang Ngai, Binh Dinh, Quang Nam, Binh Thuan, Ninh Thuan, Dak Lak provinces",,,63090,Km2,Flood,"Riverine flood","Slide (land, mud, sn",--,69,18000,27000,0,,2005-0694
-/05/2005,//2005,"Viet Nam",VNM,"Ben Tre province",,,,Km2,Drought,Drought,--,--,0,410000,42120,0,,2005-9277
-07/04/2006,07/04/2006,"Viet Nam",VNM,"Yen Chau district (Son La province)",,,,Kph,Storm,--,Hail,--,1,1005,0,0,,2006-0211
-17/05/2006,17/05/2006,"Viet Nam",VNM,"Quang Nam province",,,,Kph,Storm,"Tropical cyclone",--,--,204,600000,0,0,"Chanchu (Caloy)",2006-0251
-11/07/2006,19/07/2006,"Viet Nam",VNM,"Bac Kan, Lang Son, Vinh Phuc, Cao Bang, Thai Nguyen, Ha Giang provinces",24,112.11,,Kph,Storm,"Tropical cyclone",Flood,"Slide (land, mud, sn",17,2000,0,0,Bilis,2006-0362
-09/07/2006,11/07/2006,"Viet Nam",VNM,"Bac Me district (Ha Giang province)",,,560,Km2,Flood,"Flash flood",--,--,4,100,1000,0,,2006-0366
-18/07/2006,18/07/2006,"Viet Nam",VNM,"Bac Kan, Vinh Phuc, Lang Son provinces",,,,Km2,Flood,"Flash flood","Slide (land, mud, sn",--,12,2000,0,0,,2006-0429
-12/08/2006,30/08/2006,"Viet Nam",VNM,"Binh Thuan, Nghe An, Quang Binh, Quang Tri, Dak Lak, Dong Nai, Lam Dong, Cao Bang, Ha Tinh, Thua Thien Hue, Dak Lak, Dak Nong, Yen Bai, Thanh Hoa, Phu Tho provinces",17.76,106.15,119500,Km2,Flood,"Riverine flood","Slide (land, mud, sn",--,42,50020,8000,0,,2006-0446
-10/08/2006,01/11/2006,"Viet Nam",VNM,"An Giang, Dong Thap provinces",11.06,104.68,,Km2,Flood,"Riverine flood",--,--,60,0,0,0,,2006-0451
-27/09/2006,06/10/2006,"Viet Nam",VNM,"Ha Tinh, Thua Thien - Hue, Da Nang City, Quang Nam, Quang Ngai provinces",16.68,107.21,148,Kph,Storm,"Tropical cyclone",--,--,71,1467925,624000,0,"Xangsane (Milenyo)",2006-0517
-30/11/2006,08/12/2006,"Viet Nam",VNM,"Ba Ria-Vung Tau, Ben Tre, Binh Thuan, Vinh Long, Tien Giang, Khanh Hao, An Giang, Tra Vinh, Long An, Dong Thap, Ho Chi Ming City, Can Tho City provinces",10.33,106.74,,Kph,Storm,"Tropical cyclone",Flood,--,95,1226360,456000,0,"Durian (Reming)",2006-0648
-20/11/2006,20/11/2006,"Viet Nam",VNM,"Quang Ninh province",,,,Kph,Storm,"Convective storm",Hail,--,13,0,10000,0,,2006-0659
-12/10/2006,17/10/2006,"Viet Nam",VNM,"Binh Dinh, Da Nang City, Gia Lai, Ha Tinh, Kon Tum, Nghe An, Quang Binh, Quang Nam, Quang Ngai, Quang Tri, Thua Thien - Hue, An Giang, Ba Ria-Vung Tau, Bac Lieu, Ben Tre, Binh Duong, Binh Phuoc, Binh Thuan, Ca Mau, Can Tho City, Dak Lak, Dak Nong, Dong Nai, Dong Thap, Hau Giang, Ho Chi Minh City, Khanh Hoa, Kien Giang, Lam Dong, Long An, Ninh Thuan, Phu Yen, Soc Trang, Tay Ninh, Tien Giang, Tra Vinh, Vinh Long, Bac Giang, Bac Kan, Bac Ninh, Cao Bang, Dien Bien, Ha Giang, Ha Nam, Ha Noi City, Ha Tay, Hai Duong, Hai Phong City, Hoa Binh, Hung Yen, Lai Chau, Lang Son, Lao Cai, Nam Dinh, Ninh Binh, Phu Tho, Quang Ninh, Son La, Thai Binh, Thai Nguyen, Thanh Hoa, Tuyen Quang, Vinh Phuc, Yen Bai provinces",,,,Km2,Flood,"Riverine flood",--,--,60,0,0,0,,2006-0736
-05/08/2007,07/08/2007,"Viet Nam",VNM,"Dak Lak, Lam Dong, Ha Tinh provinces",,,,Km2,Flood,"Coastal flood",--,--,74,416130,130000,0,,2007-0323
-29/09/2007,12/10/2007,"Viet Nam",VNM,"Quang Binh, Ha Tinh, Quang Tri, Quang Ngai, Quang Nam, Son La, Yen Bai, Hoa Binh, Thai Binh, Thanh Hoa, Nghe An, Ninh Binh provinces",17.07,106.9,117,Kph,Storm,"Tropical cyclone",Flood,--,96,685430,191000,0,Lekima,2007-0463
-14/10/2007,24/10/2007,"Viet Nam",VNM,"Thua Thien - Hue, Quang Ngai, Quang Tri, Quang Nam provinces",15.87,107.78,24810,Km2,Flood,"Riverine flood",--,--,15,22000,10000,0,,2007-0512
-28/10/2007,09/11/2007,"Viet Nam",VNM,"Thua Thien-Hue, Quang Ngai, Quang Nam, Quan Binh provinces",16.32,107.36,35110,Km2,Flood,"Riverine flood",--,--,83,94042,300000,0,,2007-0522
-20/10/2007,02/11/2007,"Viet Nam",VNM,"Dong Thap, An Giang, Kien Giang provinces",11.01,105.51,46470,Km2,Flood,--,--,--,3,280000,0,0,,2007-0531
-10/11/2007,21/11/2007,"Viet Nam",VNM,"Khanh Hoa, Quang Ngai, Binh Dinh, Quang Nam, Thua Thien-Hue, Ninh Thuan, Quang Tri, Da Nang City provinces",15.3,108.44,36820,Km2,Flood,"Coastal flood",--,--,55,150000,350000,0,,2007-0558
-11/05/2008,12/05/2008,"Viet Nam",VNM,"Dac Ngo village (Tuy Duc area, Dak R'Lap district, Dak Nong province)",12.14,107.83,5300,Km2,Flood,"Flash flood",--,--,4,500,0,0,,2008-0262
-08/08/2008,11/08/2008,"Viet Nam",VNM,"Lao Cai, Yen Bai, Phu Tho, Bac Kan, Quang Ninh, Ha Giang, Tuyen Quang, Lai Chau, Son La provinces",22.05,105.21,,Kph,Storm,"Tropical cyclone",Flood,"Slide (land, mud, sn",162,57630,120000,0,"Tropical storm ""Kammuri"" (Julian)",2008-0329
-26/08/2008,28/08/2008,"Viet Nam",VNM,"Ha Giang province",,,,Km2,Flood,"Riverine flood","Slide (land, mud, sn",--,16,0,0,0,,2008-0373
-25/09/2008,28/09/2008,"Viet Nam",VNM,"Lang Son, Son La, Bac Giang, Lao Cai, Quang Ninh, Vinh Phuc provinces",21.9,104.59,,Kph,Storm,"Tropical cyclone",Flood,"Slide (land, mud, sn",46,58511,63000,0,"Typhoon ""Hagupit"" (Nina)",2008-0426
-30/09/2008,30/09/2008,"Viet Nam",VNM,"Quang Binh, Ha Tinh provinces",,,102,Kph,Storm,"Tropical cyclone",Flood,--,18,31680,6500,0,"Typhoon ""Mekkhala""",2008-0437
-19/10/2008,20/10/2008,"Viet Nam",VNM,"Nghe An, Thua Thien-Hue, Quang Tri, Quang Nam, Quang Ngai, Thanh Hoa provinces",14.9,107.46,39090,Km2,Flood,"Flash flood","Slide (land, mud, sn",--,29,12004,4000,0,,2008-0481
-27/10/2008,04/11/2008,"Viet Nam",VNM,"Thai Nguyen, Vinh Phuc, Hoa Binh, Ninh Binh, Thanh Hoa, Nghe An, Ha Tinh, Quang Binh, Ha Nam, Ha Noi City provinces",20.74,106.32,74590,Km2,Flood,"Riverine flood","Slide (land, mud, sn",--,99,600000,479000,0,,2008-0501
-05/11/2008,05/11/2008,"Viet Nam",VNM,"Ho Chi Minh City province",,,,Kph,Storm,"Tropical cyclone",Flood,--,11,0,0,0,"Tropical Storm ""Maysak"" (Quinta-Sony)",2008-0540
-17/11/2008,20/11/2008,"Viet Nam",VNM,"Phu Yen, Khanh Hoa, Binh Dinh, Lam Dong, Ninh Thuan, Quang Nam provinces",15.7,107.71,,Kph,Storm,"Tropical cyclone",Flood,--,17,8828,1000,0,"Tropical storm ""Noul""",2008-0552
-25/12/2008,05/01/2009,"Viet Nam",VNM,"Phu Yen, Binh Dinh, Quang Binh, Quang Nam provinces",18.89,107.06,29580,Km2,Flood,"Riverine flood",--,--,9,20000,0,0,,2008-0607
-03/07/2009,06/07/2009,"Viet Nam",VNM,"Bac Kan, Cao Bang, Ha Giang, Lai Chau provinces",20.67,104.3,69860,Km2,Flood,"Riverine flood",--,--,20,700000,0,0,,2009-0247
-28/09/2009,29/09/2009,"Viet Nam",VNM,"Binh Dinh, Da Nang City, Dak Lak, Gia Lai, Ha Tinh, Thua Thien - Hue, Kon Tum, Lam Dong, Phu Yen, Quang Binh, Quang Nam, Quang Ngai, Quang Tri provinces",,,170,Kph,Storm,"Tropical cyclone",Flood,--,182,2477315,785000,0,"Tropical storm ""Ondoy"" (Ketsana)",2009-0414
-14/10/2009,14/10/2009,"Viet Nam",VNM,"Bac Giang, Bac Kan, Bac Ninh, Cao Bang, Dien Bien, Ha Giang, Ha Nam, Ha Noi City, Ha Tay, Hai Duong, Hai Phong City, Hoa Binh, Hung Yen, Lai Chau, Lang Son, Lao Cai, Nam Dinh, Ninh Binh, Phu Tho, Quang Ninh, Son La, Thai Binh, Thai Nguyen, Thanh Hoa, Tuyen Quang, Vinh Phuc, Yen Bai provinces",,,,Kph,Storm,"Tropical cyclone",--,--,0,0,200,0,"Typhoon ""Pepeng"" (Parma)",2009-0422
-02/11/2009,02/11/2009,"Viet Nam",VNM,"Binh Dinh, Phu Yen, Khanh Hoa, Ninh Thuan, Dak Lak, Quang Nam, Quang Ngai, Kon Tum, Gia Lai provinces",,,140,Kph,Storm,"Tropical cyclone",Flood,--,124,500145,280000,0,"Tropical storm ""Mirinae"" (Santi)",2009-0478
-25/09/2009,28/09/2009,"Viet Nam",VNM,"Binh Dinh, Da Nang City, Gia Lai, Ha Tinh, Kon Tum, Nghe An, Quang Binh, Quang Nam, Quang Ngai, Quang Tri, Thua Thien - Hue provinces",15.19,108.02,47600,Km2,Flood,"Riverine flood",--,--,17,40000,0,0,,2009-0611
-17/07/2010,17/07/2010,"Viet Nam",VNM,"Thanh Hoa, Quang Ngai, Quang Ninh provinces",,,,Kph,Storm,"Tropical cyclone",--,--,11,1500,500,0,"Typhoon Conson (Basyang)",2010-0308
-23/07/2010,25/07/2010,"Viet Nam",VNM,"Cao Bang, Ha Giang, Lao Cai provinces",22.11,105.95,,Kph,Storm,"Tropical cyclone","Slide (land, mud, sn",--,10,12400,0,0,"Typhoon Chanthu",2010-0332
-24/08/2010,25/08/2010,"Viet Nam",VNM,"Nghe An, Thanh Hoa, Ha Tinh provinces",,,230,Kph,Storm,"Tropical cyclone",--,--,14,20700,44000,0,"Typhoon Mindulle",2010-0432
-01/10/2010,06/10/2010,"Viet Nam",VNM,"Ha Tinh, Quang Binh, Quang Tri, Nghe An, Thua Thien - Hue provinces",,,,Km2,Flood,"Flash flood",--,--,84,679825,142500,0,,2010-0515
-14/10/2010,18/10/2010,"Viet Nam",VNM,"Nghe An, Ha Tinh, Quang Binh provinces",,,,Km2,Flood,"Riverine flood",--,--,21,761000,154000,0,,2010-0539
-29/10/2010,10/11/2010,"Viet Nam",VNM,"Ninh Thuan, Khanh Hoa, Phu Yen, Binh Dinh, Quang Ngai, Dak Lak provinces",12.52,108.9,33659,Km2,Flood,"Riverine flood",--,--,31,39008,107700,0,,2010-0573
-12/11/2010,17/11/2010,"Viet Nam",VNM,"Thua Thien-Hue, Quang Ngai, Quang Nam provinces",15.1821,108.8,45583.59,Km2,Flood,"Riverine flood",--,--,50,10000,256000,0,,2010-0597
-22/06/2011,26/06/2011,"Viet Nam",VNM,"Bac Giang, Bac Kan, Bac Ninh, Cao Bang, Dien Bien, Ha Giang, Ha Nam, Ha Noi City, Ha Tay, Hai Duong, Hai Phong City, Hoa Binh, Hung Yen, Lai Chau, Lang Son, Lao Cai, Nam Dinh, Ninh Binh, Phu Tho, Quang Ninh, Son La, Thai Binh, Thai Nguyen, Thanh Hoa, Tuyen Quang, Vinh Phuc, Yen Bai provinces",,,,Kph,Storm,"Convective storm",Flood,--,16,63,0,0,,2011-0232
-14/09/2011,14/09/2011,"Viet Nam",VNM,"Lao Cai province",,,,Km2,Flood,"Riverine flood",--,--,24,300000,44000,0,,2011-0359
-/09/2011,/12/2011,"Viet Nam",VNM,"An Giang, Dong Thap, Long An, Can Tho city, Vinh Long, Hau Giang, Kien Giang provinces",,,,Km2,Flood,"Riverine flood",--,--,85,600000,175002,0,,2011-0394
-21/10/2011,21/10/2011,"Viet Nam",VNM,"Quang Tri, Quang Binh, Thua Thien-Hue, Quang Nam provinces",,,,Km2,Flood,"Riverine flood",--,--,13,461584,0,0,,2011-0396
-19/06/2011,24/06/2011,"Viet Nam",VNM,"Bac Giang, Bac Kan, Bac Ninh, Cao Bang, Dien Bien, Ha Giang, Ha Nam, Ha Noi City, Ha Tay, Hai Duong, Hai Phong City, Hoa Binh, Hung Yen, Lai Chau, Lang Son, Lao Cai, Nam Dinh, Ninh Binh, Phu Tho, Quang Ninh, Son La, Thai Binh, Thai Nguyen, Thanh Hoa, Tuyen Quang, Vinh Phuc, Yen Bai, Binh Dinh, Da Nang City, Gia Lai, Ha Tinh, Kon Tum, Nghe An, Quang Binh, Quang Nam, Quang Ngai, Quang Tri, Thua Thien - Hue provinces",,,,Kph,Storm,"Tropical cyclone",--,--,0,0,0,0,"Tropical Storm Haima (Egay)",2011-0576
-26/07/2012,27/07/2012,"Viet Nam",VNM,"Bac Kan, Cao Bang, Ha Giang, Lang Son, Tuyen Quang provinces",,,,Kph,Storm,"Tropical cyclone",Flood,"Slide (land, mud, sn",10,3,0,0,"Typhoon Vicente",2012-0259
-17/08/2012,17/08/2012,"Viet Nam",VNM,"Yen Bai, Vinh Phuc, Quang Ninh, Hai Phong City provinces",,,,Kph,Storm,"Tropical cyclone","Slide (land, mud, sn",--,17,60479,6800,0,"TYphoon Kai-Tak",2012-0294
-02/09/2012,11/09/2012,"Viet Nam",VNM,"Ninh Binh, Ha Tinh, Thanh Hoa, Nghe An provinces",38.19,126.24,24179,Km2,Flood,"Riverine flood",--,--,34,17540,30000,2000,,2012-0351
-28/10/2012,28/10/2012,"Viet Nam",VNM,"Nghe An, Thanh Hoa, Ninh Binh, Nam Dinh, Thai Binh, Hai Phong City provinces",,,,Kph,Storm,"Tropical cyclone",Flood,--,11,278490,336000,0,"Typhoon Son Tinh (Ofel)",2012-0406
-28/07/2013,30/07/2013,"Viet Nam",VNM,"Lao Cai, Son La, Quang Ninh, Tuyen Quang provinces",,,,Km2,Flood,"Riverine flood",--,--,5,5000,6500,0,,2013-0266
-/09/2013,/09/2013,"Viet Nam",VNM,"Lao Cai, Ha Giang, Lai Chau provinces",,,,Km2,Flood,"Riverine flood","Slide (land, mud, sn",--,23,0,0,0,,2013-0333
-02/08/2013,03/08/2013,"Viet Nam",VNM,"Bac Giang, Bac Kan, Bac Ninh, Cao Bang, Dien Bien, Ha Giang, Ha Nam, Ha Noi City, Ha Tay, Hai Duong, Hai Phong City, Hoa Binh, Hung Yen, Lai Chau, Lang Son, Lao Cai, Nam Dinh, Ninh Binh, Phu Tho, Quang Ninh, Son La, Thai Binh, Thai Nguyen, Thanh Hoa, Tuyen Quang, Vinh Phuc, Yen Bai provinces",,,,Kph,Storm,"Tropical cyclone",--,--,7,5011,1000,0,"Tropical storm Jebi",2013-0341
-24/09/2013,24/09/2013,"Viet Nam",VNM,"An Giang, Ba Ria-Vung Tau, Bac Lieu, Ben Tre, Binh Dinh, Binh Duong, Binh Phuoc, Binh Thuan, Ca Mau, Can Tho City, Da Nang City, Dak Lak, Dak Nong, Dong Nai, Dong Thap, Gia Lai, Ha Tinh, Hau Giang, Ho Chi Minh City, Khanh Hoa, Kien Giang, Kon Tum, Lam Dong, Long An, Ninh Thuan, Phu Yen, Quang Binh, Quang Nam, Quang Ngai, Quang Tri, Soc Trang, Tay Ninh, Thua Thien - Hue, Tien Giang, Tra Vinh, Vinh Long provinces",,,,Km2,Flood,"Riverine flood",--,--,30,0,0,0,,2013-0380
-03/09/2013,04/09/2013,"Viet Nam",VNM,"Bac Giang, Bac Kan, Bac Ninh, Cao Bang, Da Nang City, Dien Bien, Ha Giang, Ha Nam, Ha Noi City, Ha Tay, Ha Tinh, Hai Duong, Hai Phong City, Hoa Binh, Hung Yen, Lai Chau, Lang Son, Lao Cai, Nam Dinh, Nghe An, Ninh Binh, Phu Tho, Quang Binh, Quang Nam, Quang Ninh, Quang Tri, Son La, Thai Binh, Thai Nguyen, Thanh Hoa, Thua Thien - Hue, Tuyen Quang, Vinh Phuc, Yen Bai provinces",,,,Km2,Flood,"Riverine flood","Slide (land, mud, sn",--,29,1000,0,0,,2013-0412
-16/09/2013,18/09/2013,"Viet Nam",VNM,"Dak Lak, Quang Tri, Quang Ngai, Quang Nam, Kon Tum provinces",,,,Km2,Flood,"Riverine flood",--,--,7,25000,0,0,,2013-0417
-30/09/2013,15/10/2013,"Viet Nam",VNM,"Binh Dinh, Quang Binh, Quang Nam, Quang Ngai, Ha Tinh, Quang Tri, Thua Thien - Hue, Khanh Hoa, Nghe An, Da Nang City, Phu Yen, Thanh Hoa provinces",,,194,Kph,Storm,"Tropical cyclone",--,--,36,1835585,663230,0,"Typhoon Wutip ",2013-0419
-10/10/2013,15/10/2013,"Viet Nam",VNM,"Da Nang City, Quang Nam, Thua Thien - Hue, Quang Ngai provinces",,,133,Kph,Storm,"Tropical cyclone",--,--,20,109754,76000,0,"Tropical storm Nari (SAnti)",2013-0430
-11/11/2013,11/11/2013,"Viet Nam",VNM,"Quang Ninh, Hai Phong City, Bac Giang, Quang Ngai, Thanh Hoa, Nghe An, Ha Tinh, Quang Tri, Thua Thien - Hue, Da Nang City, Quang Nam provinces",,,102,Kph,Storm,"Tropical cyclone",--,--,16,13094,734000,0,"Typhoon Haiyan (Yolanda)",2013-0433
-14/11/2013,20/11/2013,"Viet Nam",VNM,"Quang Ngai, Binh Dinh, Quang Nam, Da Nang City, Phu Yen, Gia Lai, Kon Tum provinces",15.58,107.7,48985,Km2,Flood,"Riverine flood",--,--,47,2130001,72000,0,,2013-0443
-19/07/2014,20/07/2014,"Viet Nam",VNM,"Mong Cai Township district (Quang Ninh province)",,,,Kph,Storm,"Tropical cyclone",Flood,"Slide (land, mud, sn",27,36000,6200,0,"Typhoon Rammasun (Glenda)",2014-0227
-16/09/2014,16/09/2014,"Viet Nam",VNM,"Bac Giang, Bac Kan, Bac Ninh, Cao Bang, Dien Bien, Ha Giang, Ha Nam, Ha Noi City, Ha Tay, Ha Tinh, Hai Duong, Hai Phong City, Hoa Binh, Hung Yen, Lai Chau, Lang Son, Lao Cai, Nam Dinh, Nghe An, Ninh Binh, Phu Tho, Quang Ninh, Son La, Thai Binh, Thai Nguyen, Thanh Hoa, Tuyen Quang, Vinh Phuc, Yen Bai provinces",,,130,Kph,Storm,"Tropical cyclone",--,--,11,11325,4500,0,"Typhoon Kalmaegi (Luis)",2014-0390
-30/11/2014,30/11/2014,"Viet Nam",VNM,"Phu Yen, Binh Dinh provinces",,,,Kph,Storm,"Tropical cyclone",--,--,0,750,0,0,"Tropical storm 'Sinlaku' (Queenie)",2014-0474
-24/06/2015,29/06/2015,"Viet Nam",VNM,"Son La province",,,,Kph,Storm,"Tropical cyclone",--,--,7,115,0,0,"Tropical storm Kujira",2015-0252
-25/07/2015,05/08/2015,"Viet Nam",VNM,"Quang Ninh province",20.8137,106.86,24336.74,Km2,Flood,"Flash flood","Slide (land, mud, sn",--,32,15000,204000,0,,2015-0292
-07/09/2015,11/09/2015,"Viet Nam",VNM,"Minh Tien village (Vi Xuyen district, Ha Giang province), Khanh Hoa, Cao Bang, Lai Chau, Dong Na, Lam Dong, Binh Thuan, An Giang, Dong Thap provinces",205.669,104.76,192886.73,Km2,Flood,--,--,--,2,100,0,0,,2015-0460
-/12/2015,/02/2017,"Viet Nam",VNM,"An Giang, Ba Ria-Vung Tau, Ben Tre, Binh Dinh, Binh Duong, Binh Phuoc, Binh Thuan, Can Tho city, Dak Lak, Dak Nong, Dong Nai, Dong Thap, Gia Lai, Hau Giang, Ho Chi Minh City, Khanh Hoa, Kon Tum, Lam Dong, Long An, Ninh Thuan, Phu Yen, Quang Nam, Quang Ngai, Soc Trang, Tay Ninh, Tien Giang, Tra Vinh, Vinh Long provinces",,,,Km2,Drought,Drought,--,--,0,1750000,6750000,0,,2015-9617
-28/07/2016,28/07/2016,"Viet Nam",VNM,"Nam Dinh, Thai Binh and Ninh Binh provinces",,,88,Kph,Storm,"Tropical cyclone",--,--,1,191750,191000,0,"Storm Mirinae",2016-0268
-13/10/2016,15/10/2016,"Viet Nam",VNM,"Thua Thien-Hue, Quang Tri, Quang Binh, Ha Tinh, Nghe An provinces",,,,Kph,Storm,"Tropical cyclone",Flood,--,34,610000,350000,0,"Tropical storm Aere",2016-0362
-02/08/2016,02/08/2016,"Viet Nam",VNM,"Muong Kuon, Bao Xat, Bao Thang, Sa Pa",,,,Kph,Storm,--,Flood,--,25,182500,144000,0,"Typhoon Carina (Nida)",2016-0371
-18/08/2016,21/08/2016,"Viet Nam",VNM,"Hai Phong City, Quang Ninh, Yen Bai, Phu Tho, Lai Chau, Dien Bien, Son La, Hoa Binh, Than Hoa, Lao Cai, Bac Giang, Nghe An provinces",,,,Kph,Storm,"Tropical cyclone",Flood,"Slide (land, mud, sn",11,11090,157,0,"Tropical storm Dianmu",2016-0379
-09/10/2016,16/10/2016,"Viet Nam",VNM,"Quang Binh (Minh Hoa, Tuyen Hoa), Ha Tinh (Huong Khe), Nghe An, Quang Tri  (Vinh Linh, Hai Lang, Trieu Phong), Thua Thien Hue provinces",16.004,107.68,63641.54,Km2,Flood,"Riverine flood",--,--,35,659615,104280,0,,2016-0400
-12/12/2016,20/12/2016,"Viet Nam",VNM,"Thua Thien - Hue, Quang Nam, Quang Ngai, Binh Dinh provinces",,,44341.22,Km2,Flood,--,--,--,27,562121,35000,0,,2016-0497
-30/10/2016,05/11/2016,"Viet Nam",VNM,"Ha Tinh (Huong Khe, Huong Son, Vu Quang, Cam Xuyen, Duc Tho), Quang Binh (Bo Trach, Quang Trach (Ba Don), Tuyen Hoan, Le Thuy, Minh Hoa), Quang Tri (Vinh Linh, Hai Lang, Trieu Phong, Cam Lo); Quang Ngai, Gia Lai, Dak Lak, Binh Dinh, Phu Yen, Khanh Hoa, Ninh Thuan",,,,Km2,Flood,--,--,--,21,206340,22000,0,,2016-0517
-12/08/2016,14/08/2016,"Viet Nam",VNM,"Thanh Hóa, Lào Cai, Yên Bái, Bac Kan, Dien Bien,  Ha Thin, Son La, Thai Nguyen",,,,Km2,Flood,--,"Slide (land, mud, sn",--,8,509,0,0,,2016-0573
-27/06/2017,05/07/2017,"Viet Nam",VNM,"Ha Giang, Lao Cai, Dien Bien, Yen Bai, Tuyen Quang, Thai Nguyen, Lai Chau, Bac Kan, Cao Bang, Binh Thuan, An Giang, and Cà Mau Provinces
+10/10/2017,08/11/2017,Thailand,THA,Central plains provinces,14.594,100.679,101670.34,Km2,Flood,--,--,--,9,605000,0,0,,2017-0465
+25/11/2017,03/12/2017,Thailand,THA,"Nakhon Si Thammarat, Narathiwat, Pattani, Phatthalung, Satun, Songkhla, Surat Thani, Trang, Yala, Satun, Surat Thani provinces",,,,Km2,Flood,Riverine flood,--,--,22,385498,0,0,,2017-0516
+26/09/1953,26/09/1953,Viet Nam,VNM,Southern coast,,,,Kph,Storm,Tropical cyclone,--,--,1000,0,0,0,,1953-0019
+/11/1956,/11/1956,Viet Nam,VNM,,,,,Kph,Storm,Tropical cyclone,--,--,56,0,0,0,,1956-0050
+/09/1964,/11/1964,Viet Nam,VNM,China sea coast,,,,Kph,Storm,Tropical cyclone,--,--,7000,700000,50000,0,Iris ,1964-0063
+/12/1964,/12/1964,Viet Nam,VNM,,,,,Km2,Flood,--,--,--,400,0,0,0,,1964-0102
+20/09/1966,20/09/1966,Viet Nam,VNM,Near Cambodia border,,,,Km2,Flood,Riverine flood,--,--,31,195902,10000,0,,1966-0070
+26/10/1970,26/10/1970,Viet Nam,VNM,North,,,,Km2,Flood,--,--,--,237,204000,0,0,,1970-0059
+01/05/1971,01/05/1971,Viet Nam,VNM,Quang Ngai province,,,,Kph,Storm,Tropical cyclone,--,--,23,50000,0,0,Wanda,1971-0029
+23/10/1971,23/10/1971,Viet Nam,VNM,North,,,,Kph,Storm,Tropical cyclone,--,--,89,0,0,0,,1971-0057
+10/11/1973,10/11/1973,Viet Nam,VNM,Binh Dinh,,,,Kph,Storm,Tropical cyclone,--,--,100,150000,0,0,,1973-0047
+22/07/1977,22/07/1977,Viet Nam,VNM,Haiphong,,,,Kph,Storm,Tropical cyclone,--,--,0,1000,0,0,Sarah,1977-0088
+/08/1978,/08/1978,Viet Nam,VNM,Mekong Delta,,,,Km2,Flood,Riverine flood,--,--,74,4079000,0,0,,1978-0105
+23/07/1980,23/07/1980,Viet Nam,VNM,"Ha Bac, Hai Phong, Hai Hung, Guang Ninh provinces",,,,Kph,Storm,Tropical cyclone,--,--,132,6624710,0,0,Joe (nï¿½4),1980-0068
+15/09/1980,15/09/1980,Viet Nam,VNM,"Thanh Hoa, Nghe Tinh, Ha Ham Ninh provinces",,,144,Kph,Storm,Tropical cyclone,--,--,176,9027174,0,0,Ruth (Nï¿½6),1980-0090
+/11/1980,/11/1980,Viet Nam,VNM,"Quang Nam Da Nang, Nghia Binh, Binh Tri Thien, Phu Khanh  provinces",,,,Km2,Flood,--,--,--,94,628000,0,0,,1980-0106
+18/10/1982,18/10/1982,Viet Nam,VNM,"Nghe Tinh, Thanh Hoa Provinces",,,,Kph,Storm,Tropical cyclone,--,--,70,1300290,0,0,Nancy (Nï¿½7),1982-0112
+/05/1983,/05/1983,Viet Nam,VNM,Central,,,,Kph,Storm,Convective storm,--,--,76,0,0,0,,1983-0077
+/09/1983,/09/1983,Viet Nam,VNM,,,,,Kph,Storm,Tropical cyclone,--,--,578,845324,0,0,"Herbert (Nï¿½7), Kim (Nï¿½9), Lex (Nï¿½10)",1983-0125
+05/10/1983,05/10/1983,Viet Nam,VNM,"Ha Nam Ninh, Ha Son Binh, Thai Binh, Nai Hung, Thanh Hoa, Ha Bac, Hanoi, Vinh Phu, Nghe Tinh provinces",,,,Kph,Storm,Tropical cyclone,--,--,80,336544,0,0,Georgia (Nï¿½6),1983-0452
+15/04/1984,15/04/1984,Viet Nam,VNM,100 km East from Hanoi,,,,Kph,Storm,Tropical cyclone,--,--,21,1094,0,0,,1984-0035
+/10/1984,/10/1984,Viet Nam,VNM,Central,,,,Km2,Flood,--,--,--,33,38000,0,0,,1984-0090
+/11/1984,/11/1984,Viet Nam,VNM,", Nghe Tinh, Nghia Binh, Thanh Hoa, Ha Son Binh, Ha Nam Ninh, Hanoi, Quang Nam, Da Nag Province",,,,Kph,Storm,Tropical cyclone,--,--,134,650705,0,0,Agnes (nï¿½9),1984-0103
+07/09/1985,07/09/1985,Viet Nam,VNM,"Ha Nam Ninh, Thanh Hoa, Hai Hung, Ha Bac",,,24680,Km2,Flood,Riverine flood,--,--,93,2800000,0,0,,1985-0106
+23/10/1985,23/10/1985,Viet Nam,VNM,"Binh Tri Thien, Nghe Tinh provinces",,,,Kph,Storm,Tropical cyclone,--,--,798,450257,0,0,Cecil,1985-0114
+06/09/1986,06/09/1986,Viet Nam,VNM,"Ha Nam Ninh, Thai Binh, Hason Binh, Haiphong, Quang Ninh provinces",,,120,Kph,Storm,Tropical cyclone,--,--,435,2502502,0,0,Wayne (Nï¿½5),1986-0109
+03/12/1986,03/12/1986,Viet Nam,VNM,Central,,,,Km2,Flood,Riverine flood,--,--,165,0,0,0,,1986-0139
+18/11/1987,18/11/1987,Viet Nam,VNM,"Nghia Binh, Phu Khahu Provinces",,,,Kph,Storm,Tropical cyclone,--,--,101,937011,0,0,Maury,1987-0200
+/12/1987,/12/1987,Viet Nam,VNM,,,,,Kph,Storm,--,--,--,22,0,0,0,,1987-0363
+//1987,//1987,Viet Nam,VNM,Northern Provinces,,,,Km2,Drought,Drought,--,--,0,0,0,0,,1987-9029
+10/10/1988,10/10/1988,Viet Nam,VNM,Nghe Tinh,,,110,Kph,Storm,Tropical cyclone,--,--,137,600000,0,0,,1988-0460
+06/11/1988,06/11/1988,Viet Nam,VNM,"Dong Nai, Phu Khanh, Thuan Ha provinces",,,,Kph,Storm,Tropical cyclone,--,--,20,720000,0,0,,1988-0503
+24/07/1989,24/07/1989,Viet Nam,VNM,Thanh Hoa province,,,,Kph,Storm,Tropical cyclone,--,--,104,1445491,0,0,Irving,1989-0104
+/10/1989,/10/1989,Viet Nam,VNM,"Nghe Tinh, Binh Tri Thien provinces",,,,Kph,Storm,Tropical cyclone,--,--,104,4635762,0,0,"Brian, Angela, Dan",1989-0128
+25/05/1989,25/05/1989,Viet Nam,VNM,Da Nang city (Quang Nam Danang province),,,,Kph,Storm,Tropical cyclone,Flood,--,751,336106,21000,0,Cecil,1989-0178
+20/06/1990,08/07/1990,Viet Nam,VNM,"Son La, Hoang Lien Son, Ha Tuyen, Binh Dinh, Dac Lac, Lai Chau, Muong Lay provinces",,,13950,Km2,Flood,Riverine flood,--,--,82,10200,725,0,,1990-0048
+/08/1990,/08/1990,Viet Nam,VNM,"Ky Anh, Quang Trach, Quang Binh district + Son (Ha Nam Ninh province), Tra Ling (Thai Binh province)",,,,Kph,Storm,Tropical cyclone,--,--,19,500108,0,0,Becky,1990-0069
+15/11/1990,15/11/1990,Viet Nam,VNM,Nghe Tinh,,,,Kph,Storm,Tropical cyclone,--,--,68,0,0,0,,1990-0418
+23/10/1990,23/10/1990,Viet Nam,VNM,Central Eastern Coast,,,,Kph,Storm,Tropical cyclone,--,--,15,2000,0,0,,1990-0608
+17/08/1991,17/08/1991,Viet Nam,VNM,"Quanq Bin, Ha Tinh, Than Hoa, Nghe provinces",,,,Kph,Storm,Tropical cyclone,--,--,17,455921,9500,0,Fred,1991-0210
+/08/1991,/08/1991,Viet Nam,VNM,"An Giang, Long An, Dong Thap, Kien Giang provinces",,,1000,Km2,Flood,Riverine flood,--,--,21,270600,5000,0,,1991-0229
+28/07/1991,31/07/1991,Viet Nam,VNM,"Son La, Lai Chau provinces",,,30960,Km2,Flood,Riverine flood,Broken Dam/Burst ban,--,38,4014,3200,0,,1991-0315
+28/12/1991,28/12/1991,Viet Nam,VNM,"Quang Ngai, Quang Nam-Da, Thua Thien-Hue provinces",,,70,Kph,Storm,--,--,--,251,10200,1000,0,,1991-0444
+19/09/1991,25/09/1991,Viet Nam,VNM,"An Giang, Dong Thap, Long An, Tien Giang, Kien Giang provinces (Mekong Delta)",,,,Km2,Flood,Riverine flood,--,--,136,21000,38500,0,,1991-0538
+15/03/1991,15/03/1991,Viet Nam,VNM,Khanh Hoa,,,,Kph,Storm,--,--,--,8,10708,0,0,,1991-0711
+13/07/1991,13/07/1991,Viet Nam,VNM,Quang Ninh Hai Phong,,,,Kph,Storm,Tropical cyclone,--,--,21,776,0,0,Zeke,1991-0713
+29/06/1992,29/06/1992,Viet Nam,VNM,"Haiphong, Quang Ninh provinces",,,,Kph,Storm,Tropical cyclone,--,--,14,47186,400,0,Chuck,1992-0061
+23/10/1992,23/10/1992,Viet Nam,VNM,Between Thua Thien Hue and Khanh Hoa provinces,,,,Kph,Storm,Tropical cyclone,--,--,17,32172,18000,0,Angela,1992-0143
+05/10/1992,09/10/1992,Viet Nam,VNM,"Nghe An, Ha Tinh, Quang Binh, Quang Tri, Thua Thien-Hue, Quang Nam-Da Nang provinces",,,569,Km2,Flood,Riverine flood,--,--,55,51698,47700,0,,1992-0144
+28/10/1992,31/10/1992,Viet Nam,VNM,"Quang Binh, Quang Tri provinces",,,,Km2,Flood,Coastal flood,--,--,1,58000,0,0,,1992-0145
+23/11/1993,23/11/1993,Viet Nam,VNM,"Phu Yen, Khanh Hoa, Binh Dinh, Dal Lac provinces",,,,Kph,Storm,Tropical cyclone,--,--,130,11506,15000,0,Kyle,1993-0088
+16/03/1993,16/03/1993,Viet Nam,VNM,Tuyen Quang province,,,,Kph,Storm,Convective storm,--,--,3,2016,0,0,,1993-0133
+02/10/1993,12/10/1993,Viet Nam,VNM,"Phu Yen, Lam Dong, Quang Tri, Da Nang, Khanh Hoa, Binh Dinh, Darlac and Binh Thuan provinces",,,29440,Km2,Flood,Flash flood,--,--,64,15000,10000,0,,1993-0213
+08/12/1993,08/12/1993,Viet Nam,VNM,"Ninh Hai, Cam Ranh districts (Khanh Hoa province)",,,130,Kph,Storm,Tropical cyclone,--,--,73,25235,50000,0,Lola,1993-0231
+04/09/1994,18/12/1994,Viet Nam,VNM,"Dong Thap, An Giang, Long An, Tien Giang, Kien Giang, Can Tho, Nghe An, Thanh Hoa provinces",,,65260,Km2,Flood,Riverine flood,--,--,310,382000,206000,0,,1994-0341
+17/09/1994,17/09/1994,Viet Nam,VNM,"Thanh Hoa, Ninh Binh, Nam Ha, Ha Tay",,,,Kph,Storm,Tropical cyclone,--,--,30,11000,45000,0,Luke,1994-0658
+21/09/1995,19/10/1995,Viet Nam,VNM,"Quang Binh, Quang Tri, Kegalle, Da Nang, Dong Thap, Dong Thap, Kien Gang, An Giang, Tien Giang, Vinh Long, Can Tho provinces",,,123000,Km2,Flood,Riverine flood,--,--,253,400000,86000,0,,1995-0236
+01/11/1995,01/11/1995,Viet Nam,VNM,"Quang Ngai, Binh Dinh, Quang Nam-Danang, Quang Tri, Quang Binh",,,,Kph,Storm,Tropical cyclone,Flood,--,16,23051,21200,0,Zack,1995-0274
+24/07/1996,24/07/1996,Viet Nam,VNM,"Thai Binh, Nam Ha, Ninh Binh, Thanh Hoa, Hoa Binh",,,102,Kph,Storm,Tropical cyclone,--,--,585,387091,362000,0,Frankie ,1996-0110
+09/09/1996,10/09/1996,Viet Nam,VNM,,,,,Kph,Storm,Tropical cyclone,--,--,1,0,20,0,Sally,1996-0202
+21/09/1996,22/09/1996,Viet Nam,VNM,"Nghe An, Ha Tinh provinces",,,101,Kph,Storm,Tropical cyclone,--,--,9,280000,11000,0,Willie,1996-0227
+01/10/1996,13/11/1996,Viet Nam,VNM,"An Giang, Dong Thap, Tay Minh,  Long An, Tien Giang, Kien Giang, Can Tho, Vinh Long provinces",,,22610,Km2,Flood,Riverine flood,--,--,162,375000,138000,0,,1996-0248
+14/09/1996,19/09/1996,Viet Nam,VNM,"Thua Thien-Hue, Quang Nam-Da Nang, Quang Tri, Quang Ngai, Binh Dinh, Kon Tum",,,,Km2,Flood,--,--,--,60,0,13400,0,,1996-0447
+14/08/1996,26/08/1996,Viet Nam,VNM,"Thanh Hoa, Golfe du Tonkin",,,,Kph,Storm,Tropical cyclone,"Slide (land, mud, sn",--,194,0,227000,0,,1996-0500
+22/08/1997,27/08/1997,Viet Nam,VNM,,,,,Kph,Storm,Tropical cyclone,--,--,0,0,5000,0,Zita,1997-0186
+02/11/1997,04/11/1997,Viet Nam,VNM,"Ca Mau, Soc Trang, Ben Tre, Tien Giang, Ba Ria, Binh Thuan, Tra Vinh, Bac Lieu, Dong Thap, Ho Chi Minh City, Can Tho, Kien Giang,  Binh Dinh Provinces",,,102,Kph,Storm,Tropical cyclone,--,--,3682,1081127,470000,5000,Linda,1997-0267
+20/09/1997,29/09/1997,Viet Nam,VNM,"Danang, Quang Ngai, Quang Nam-Da, Nghe An",,,,Kph,Storm,Tropical cyclone,Flood,"Slide (land, mud, sn",10,50,5000,0,Fritz,1997-0358
+/12/1997,/06/1998,Viet Nam,VNM,"Quang Tri, Quang Binh, Quang Ngai, Quang Nam, Ha Tinh, Nghe An, Binh Dinh, Gia Lai, Kon Tun provinces",,,,Km2,Drought,Drought,Food shortage,--,0,3000000,407000,0,,1997-9525
+08/05/1998,08/05/1998,Viet Nam,VNM,Thanh Hoa province,,,,Kph,Storm,Convective storm,--,--,42,500,0,0,,1998-0159
+16/10/1998,23/10/1998,Viet Nam,VNM,"Khan Hoa, Binh Dinh, Quang Ngai, Phu Yen, Ninh Thuan",,,110,Km2,Flood,Riverine flood,--,--,45,32505,13700,0,,1998-0316
+13/11/1998,29/11/1998,Viet Nam,VNM,"Quang Binh, Khanh Hoa, Quang Tri, Thua Thien Hue, Quang Nam, Da Nang, Guang Ngai, Bin Dinh, Phu Yen, Ninh Thuan, Binh Thuan, Dac Lac, Kon Tum, Lam Dong, Giai Lai provinces",,,,Kph,Storm,Tropical cyclone,Flood,--,283,2440092,93200,0,"Chip, Elvis , Dawn",1998-0374
+16/12/1998,16/12/1998,Viet Nam,VNM,"Khanh Hoa, Phu Yen, Quang Nam, Ninh Thuan, Quang Ngai, Ben Tre, Bihn Thuan, Ca Mau provinces",,,150,Kph,Storm,Tropical cyclone,--,--,43,84645,15000,0,Faith & Gil,1998-0434
+24/07/1999,05/08/1999,Viet Nam,VNM,"Binh Thuan, Lam Dong, Dac Lac and Dong Nai ",,,500,Km2,Flood,Flash flood,"Slide (land, mud, sn",--,40,115175,19500,0,,1999-0244
+25/10/1999,09/11/1999,Viet Nam,VNM,"Da Nang, Quang Nam, Thanh Hoa, Nghe An, Ha Tinh, Quang Binh, Quang Tri, Thua Thien Hue, Quang Ngai, Binh Dinh",,,947,Km2,Flood,Coastal flood,--,--,622,3504412,237000,0,,1999-0428
+02/12/1999,10/12/1999,Viet Nam,VNM,"Thua Thien Hue, Khanh Hoa, Phu Yen, Binh Dinh, Quang Ngai, Quang Nam, Danang and Khanh Hoa.",,,288,Km2,Flood,Riverine flood,--,--,127,2163694,53000,0,,1999-0574
+06/06/1999,06/06/1999,Viet Nam,VNM,Baie d'Halong - Quang Ninh Province,,,,Kph,Storm,Convective storm,--,--,10,0,0,0,,1999-0637
+/01/1999,//1999,Viet Nam,VNM,Central - North regions,,,1650,Km2,Drought,Drought,--,--,0,1400000,0,0,,1999-9084
+12/06/2000,12/06/2000,Viet Nam,VNM,"Binh Hoa, Giao Ha villages (Giao Thuy district, Nam Dinh province)",,,,Kph,Storm,--,--,--,3,129,0,0,,2000-0361
+/07/2000,/11/2000,Viet Nam,VNM,"Long An, Dong Thap, An Giang, Kien Giang, Can Tho city, Vinh Long, Tien Giang provinces",,,1400,Km2,Flood,Riverine flood,--,--,460,5000004,250000,0,,2000-0408
+10/07/2000,10/07/2000,Viet Nam,VNM,Can Tho city province,,,,Kph,Storm,--,--,--,0,2005,0,0,,2000-0448
+20/08/2000,20/08/2000,Viet Nam,VNM,"Quang Binh, Quang Tri, Thua Thien - Hue, Quang Nam, Quang Ngai, Binh Dinh, Da Nang City provinces",,,,Kph,Storm,Tropical cyclone,--,--,15,4,5000,0,Kaemi,2000-0518
+24/08/2000,24/08/2000,Viet Nam,VNM,"My Tho City, Go Cong Township districts (Tien Giang province)",,,,Kph,Storm,--,--,--,0,5730,0,0,,2000-0540
+24/08/2000,24/08/2000,Viet Nam,VNM,Rach Gia Township district (Kien Giang province),,,,Kph,Storm,--,--,--,0,503,35,0,,2000-0541
+24/08/2000,24/08/2000,Viet Nam,VNM,"Khanh Binh Tay village (Tran Van Thoi district, Ca Mau province)",,,,Kph,Storm,Convective storm,--,--,0,134,0,0,,2000-0542
+10/09/2000,10/09/2000,Viet Nam,VNM,"Thach Ha, Cam Xuyen, Ky Anh districts (Ha Tinh province)",,,120,Kph,Storm,Tropical cyclone,--,--,5,6029,21000,0,Wukong,2000-0582
+18/11/2000,26/11/2000,Viet Nam,VNM,"Quang Nam, Khanh Hoa, Phu Yen, Ninh Thuan, Binh Thuan, Quang Ngai, Binh Dinh, Quang Tri, Thua Thien-Hue provinces",,,49140,Km2,Flood,Riverine flood,--,--,36,25003,15000,0,,2000-0748
+04/07/2001,04/07/2001,Viet Nam,VNM,"Thai Nguyen, Tuyen Quang, Vinh Phuc provinces",,,,Kph,Storm,Tropical cyclone,--,--,30,117453,25000,0,Durian,2001-0318
+30/06/2001,30/06/2001,Viet Nam,VNM,"Tien Yen, Dong Trieu, Hoanh Bo districts (Quang Ninh province)",,,,Km2,Flood,--,--,--,9,175,0,0,,2001-0361
+11/08/2001,11/08/2001,Viet Nam,VNM,"Ha Tinh, Nghe An, Quang Binh, Thanh Hoa provinces",,,196,Kph,Storm,Tropical cyclone,--,--,3,10003,3200,0,Usagi,2001-0436
+15/08/2001,19/11/2001,Viet Nam,VNM,"Long An, Dong Thap, An Giang, Can Tho city, Phu Tho, Kien Giang, Tien Giang, Vinh Long, Soc Trang, Tra Vinh, Ben Tre provinces",,,745,Km2,Flood,Riverine flood,--,--,310,1570270,84000,0,,2001-0492
+20/10/2001,24/10/2001,Viet Nam,VNM,"Quang Nam, Quang Ngai, Ha Tinh, Nghe An, Quang Tri, Phu Yen provinces",,,72000,Km2,Flood,Flash flood,--,--,20,35006,4700,0,,2001-0587
+12/11/2001,12/11/2001,Viet Nam,VNM,"Phu Yen, Binh Dinh, Quang Ngai, Quang Tri provinces",,,,Kph,Storm,Tropical cyclone,--,--,20,73183,55000,0,Lingling (Nanang),2001-0624
+04/11/2001,04/11/2001,Viet Nam,VNM,Thu Duc district (Ho Chi Minh City province),,,,Km2,Flood,Coastal flood,--,--,0,3000,0,0,,2001-0654
+31/07/2002,06/08/2002,Viet Nam,VNM,"Lai Chau, Lao Cai, Ha Giang, Tuyen Quang, Bac Kan, Son La, Lam Dong provinces",,,27820,Km2,Flood,Riverine flood,--,--,10,2000,2200,0,,2002-0470
+/09/2002,/09/2002,Viet Nam,VNM,"Long An, Dong Thap, An Giang provinces",,,,Km2,Flood,Riverine flood,--,--,82,1138200,23900,0,,2002-0580
+20/09/2002,30/09/2002,Viet Nam,VNM,"Ha Tinh, Nghe An provinces",,,19980,Km2,Flood,Riverine flood,--,--,55,291616,58000,0,,2002-0610
+/10/2002,/10/2002,Viet Nam,VNM,Long An province,,,0,Kph,Storm,Convective storm,--,--,0,1800,100,0,,2002-0725
+/05/2002,//2002,Viet Nam,VNM,"An Giang, Kien Giang, Long An provinces ",,,,Km2,Drought,Drought,--,--,0,1300000,200000,0,,2002-9132
+23/07/2003,23/07/2003,Viet Nam,VNM,"Bac Giang, Bac Kan, Bac Ninh, Cao Bang, Dien Bien, Ha Giang, Ha Nam, Ha Noi City, Ha Tay, Hai Duong, Hai Phong City, Hoa Binh, Hung Yen, Lai Chau, Lang Son, Lao Cai, Nam Dinh, Ninh Binh, Phu Tho, Quang Ninh, Son La, Thai Binh, Thai Nguyen, Thanh Hoa, Tuyen Quang, Vinh Phuc, Yen Bai provinces",,,90,Kph,Storm,Tropical cyclone,Rain,--,0,5018,0,0,Koni,2003-0437
+15/10/2003,22/10/2003,Viet Nam,VNM,"Quang Ngai, Quang Nam, Binh Dinh, Quang Tri, Phu Yen, Thua Thien Hue provinces",,,10630,Km2,Flood,Coastal flood,--,--,52,221774,32000,0,,2003-0505
+11/11/2003,14/11/2003,Viet Nam,VNM,"Ninh Thuan, Binh Dinh, Phu Yen, Khanh Hoa, Quang Nam, Dak Lak provinces",,,362,Km2,Flood,Riverine flood,"Slide (land, mud, sn",--,61,194049,35000,0,,2003-0557
+10/09/2003,14/09/2003,Viet Nam,VNM,"Nghe An, Thai Binh, Nam Dinh, Lao Cai, Ha Tinh provinces",,,31350,Km2,Flood,Riverine flood,--,--,15,1000,38000,38000,,2003-0672
+07/06/2004,11/06/2004,Viet Nam,VNM,"BinH Dinh, Da Nang City, Quang Ngai provinces",,,65,Kph,Storm,Tropical cyclone,--,--,14,905,7000,0,Chanthu (Gener/08W),2004-0258
+16/04/2004,17/04/2004,Viet Nam,VNM,"Mai Son, Bac Yen, Song Ma districts (Son La province)",,,3300,Km2,Flood,Riverine flood,--,--,9,5000,0,0,,2004-0328
+18/07/2004,28/07/2004,Viet Nam,VNM,"Du Tien, Du Gia villages (Yen Minh district, Ha Giang province), Bao Lam district (Cao Bang province)",,,12020,Km2,Flood,Flash flood,"Slide (land, mud, sn",--,53,18,8000,0,,2004-0354
+26/11/2004,26/11/2004,Viet Nam,VNM,"Quang Ngai, Quang Nam, Thua Thien - Hue, Quang Tri, Quang Binh provinces",,,,Kph,Storm,Tropical cyclone,Flood,"Slide (land, mud, sn",56,500000,23000,0,Muifa (Unding/29W),2004-0580
+24/08/2004,21/10/2004,Viet Nam,VNM,"An Giang, Vinh Long, Dong Thap, Long An, Can Tho city, Kien Giang provinces",,,47760,Km2,Flood,Riverine flood,Rain,--,34,30000,0,0,,2004-0735
+26/05/2005,26/05/2005,Viet Nam,VNM,Vinh Thuan district (Kien Giang province),,,,Km2,Flood,Riverine flood,Rain,--,0,593,0,0,,2005-0315
+13/08/2005,16/08/2005,Viet Nam,VNM,Nghe An province,,,,Kph,Storm,--,Flood,--,13,6500,0,0,,2005-0476
+08/09/2005,29/09/2005,Viet Nam,VNM,"Tan Hung, Vinh Hung, Moc Hoa districts (Long An province), Dong Thap, An Giang provinces
+",,,54540,Km2,Flood,Riverine flood,--,--,39,30000,0,0,,2005-0515
+18/09/2005,19/09/2005,Viet Nam,VNM,"Thanh Hoa, Nghe An, Ha Tinh provinces",,,,Kph,Storm,Tropical cyclone,Rain,--,8,8500,20000,0,Vicente,2005-0536
+27/09/2005,30/09/2005,Viet Nam,VNM,"Yen Bai, Tram Tau, Nghia Lo districts (Yen Bai province), Nghe An, Phu Tho, Hoa Binh, Lao Cai, Thanh Hoa, Nam Dinh, Quang Ninh, Quang Nam, Da Nang City provinces ",,,133,Kph,Storm,Tropical cyclone,Flood,"Slide (land, mud, sn",75,337660,219250,0,Damrey,2005-0540
+07/10/2005,10/10/2005,Viet Nam,VNM,"Quang Binh, Quang Tri, Thua Thien Hue, Quang Ngai provinces",,,8370,Km2,Flood,Riverine flood,--,--,17,10000,15000,0,,2005-0584
+02/11/2005,04/11/2005,Viet Nam,VNM,"Son Ha district (Quang Ngai province), Phong Dien district (Thua Thien - Hue province), Quang Nam, Quang Tri provinces",,,,Kph,Storm,Tropical cyclone,--,--,20,15000,11000,0,Kai Tak (21),2005-0611
+20/10/2005,28/10/2005,Viet Nam,VNM,"Binh Dinh, Quang Ngai, Phu Yen, Khanh Hoa, Gia Lai, Quang Tri provinces",,,28850,Km2,Flood,Flash flood,--,--,67,33800,12000,0,,2005-0628
+04/12/2005,24/12/2005,Viet Nam,VNM,"Khanh Hoa, Dak Lak, Phu Yen, Quang Ngai, Binh Dinh, Quang Nam, Binh Thuan, Ninh Thuan, Dak Lak provinces",,,63090,Km2,Flood,Riverine flood,"Slide (land, mud, sn",--,69,18000,27000,0,,2005-0694
+/05/2005,//2005,Viet Nam,VNM,Ben Tre province,,,,Km2,Drought,Drought,--,--,0,410000,42120,0,,2005-9277
+07/04/2006,07/04/2006,Viet Nam,VNM,Yen Chau district (Son La province),,,,Kph,Storm,--,Hail,--,1,1005,0,0,,2006-0211
+17/05/2006,17/05/2006,Viet Nam,VNM,Quang Nam province,,,,Kph,Storm,Tropical cyclone,--,--,204,600000,0,0,Chanchu (Caloy),2006-0251
+11/07/2006,19/07/2006,Viet Nam,VNM,"Bac Kan, Lang Son, Vinh Phuc, Cao Bang, Thai Nguyen, Ha Giang provinces",24,112.11,,Kph,Storm,Tropical cyclone,Flood,"Slide (land, mud, sn",17,2000,0,0,Bilis,2006-0362
+09/07/2006,11/07/2006,Viet Nam,VNM,Bac Me district (Ha Giang province),,,560,Km2,Flood,Flash flood,--,--,4,100,1000,0,,2006-0366
+18/07/2006,18/07/2006,Viet Nam,VNM,"Bac Kan, Vinh Phuc, Lang Son provinces",,,,Km2,Flood,Flash flood,"Slide (land, mud, sn",--,12,2000,0,0,,2006-0429
+12/08/2006,30/08/2006,Viet Nam,VNM,"Binh Thuan, Nghe An, Quang Binh, Quang Tri, Dak Lak, Dong Nai, Lam Dong, Cao Bang, Ha Tinh, Thua Thien Hue, Dak Lak, Dak Nong, Yen Bai, Thanh Hoa, Phu Tho provinces",17.76,106.15,119500,Km2,Flood,Riverine flood,"Slide (land, mud, sn",--,42,50020,8000,0,,2006-0446
+10/08/2006,01/11/2006,Viet Nam,VNM,"An Giang, Dong Thap provinces",11.06,104.68,,Km2,Flood,Riverine flood,--,--,60,0,0,0,,2006-0451
+27/09/2006,06/10/2006,Viet Nam,VNM,"Ha Tinh, Thua Thien - Hue, Da Nang City, Quang Nam, Quang Ngai provinces",16.68,107.21,148,Kph,Storm,Tropical cyclone,--,--,71,1467925,624000,0,Xangsane (Milenyo),2006-0517
+30/11/2006,08/12/2006,Viet Nam,VNM,"Ba Ria-Vung Tau, Ben Tre, Binh Thuan, Vinh Long, Tien Giang, Khanh Hao, An Giang, Tra Vinh, Long An, Dong Thap, Ho Chi Ming City, Can Tho City provinces",10.33,106.74,,Kph,Storm,Tropical cyclone,Flood,--,95,1226360,456000,0,Durian (Reming),2006-0648
+20/11/2006,20/11/2006,Viet Nam,VNM,Quang Ninh province,,,,Kph,Storm,Convective storm,Hail,--,13,0,10000,0,,2006-0659
+12/10/2006,17/10/2006,Viet Nam,VNM,"Binh Dinh, Da Nang City, Gia Lai, Ha Tinh, Kon Tum, Nghe An, Quang Binh, Quang Nam, Quang Ngai, Quang Tri, Thua Thien - Hue, An Giang, Ba Ria-Vung Tau, Bac Lieu, Ben Tre, Binh Duong, Binh Phuoc, Binh Thuan, Ca Mau, Can Tho City, Dak Lak, Dak Nong, Dong Nai, Dong Thap, Hau Giang, Ho Chi Minh City, Khanh Hoa, Kien Giang, Lam Dong, Long An, Ninh Thuan, Phu Yen, Soc Trang, Tay Ninh, Tien Giang, Tra Vinh, Vinh Long, Bac Giang, Bac Kan, Bac Ninh, Cao Bang, Dien Bien, Ha Giang, Ha Nam, Ha Noi City, Ha Tay, Hai Duong, Hai Phong City, Hoa Binh, Hung Yen, Lai Chau, Lang Son, Lao Cai, Nam Dinh, Ninh Binh, Phu Tho, Quang Ninh, Son La, Thai Binh, Thai Nguyen, Thanh Hoa, Tuyen Quang, Vinh Phuc, Yen Bai provinces",,,,Km2,Flood,Riverine flood,--,--,60,0,0,0,,2006-0736
+05/08/2007,07/08/2007,Viet Nam,VNM,"Dak Lak, Lam Dong, Ha Tinh provinces",,,,Km2,Flood,Coastal flood,--,--,74,416130,130000,0,,2007-0323
+29/09/2007,12/10/2007,Viet Nam,VNM,"Quang Binh, Ha Tinh, Quang Tri, Quang Ngai, Quang Nam, Son La, Yen Bai, Hoa Binh, Thai Binh, Thanh Hoa, Nghe An, Ninh Binh provinces",17.07,106.9,117,Kph,Storm,Tropical cyclone,Flood,--,96,685430,191000,0,Lekima,2007-0463
+14/10/2007,24/10/2007,Viet Nam,VNM,"Thua Thien - Hue, Quang Ngai, Quang Tri, Quang Nam provinces",15.87,107.78,24810,Km2,Flood,Riverine flood,--,--,15,22000,10000,0,,2007-0512
+28/10/2007,09/11/2007,Viet Nam,VNM,"Thua Thien-Hue, Quang Ngai, Quang Nam, Quan Binh provinces",16.32,107.36,35110,Km2,Flood,Riverine flood,--,--,83,94042,300000,0,,2007-0522
+20/10/2007,02/11/2007,Viet Nam,VNM,"Dong Thap, An Giang, Kien Giang provinces",11.01,105.51,46470,Km2,Flood,--,--,--,3,280000,0,0,,2007-0531
+10/11/2007,21/11/2007,Viet Nam,VNM,"Khanh Hoa, Quang Ngai, Binh Dinh, Quang Nam, Thua Thien-Hue, Ninh Thuan, Quang Tri, Da Nang City provinces",15.3,108.44,36820,Km2,Flood,Coastal flood,--,--,55,150000,350000,0,,2007-0558
+11/05/2008,12/05/2008,Viet Nam,VNM,"Dac Ngo village (Tuy Duc area, Dak R'Lap district, Dak Nong province)",12.14,107.83,5300,Km2,Flood,Flash flood,--,--,4,500,0,0,,2008-0262
+08/08/2008,11/08/2008,Viet Nam,VNM,"Lao Cai, Yen Bai, Phu Tho, Bac Kan, Quang Ninh, Ha Giang, Tuyen Quang, Lai Chau, Son La provinces",22.05,105.21,,Kph,Storm,Tropical cyclone,Flood,"Slide (land, mud, sn",162,57630,120000,0,"Tropical storm ""Kammuri"" (Julian)",2008-0329
+26/08/2008,28/08/2008,Viet Nam,VNM,Ha Giang province,,,,Km2,Flood,Riverine flood,"Slide (land, mud, sn",--,16,0,0,0,,2008-0373
+25/09/2008,28/09/2008,Viet Nam,VNM,"Lang Son, Son La, Bac Giang, Lao Cai, Quang Ninh, Vinh Phuc provinces",21.9,104.59,,Kph,Storm,Tropical cyclone,Flood,"Slide (land, mud, sn",46,58511,63000,0,"Typhoon ""Hagupit"" (Nina)",2008-0426
+30/09/2008,30/09/2008,Viet Nam,VNM,"Quang Binh, Ha Tinh provinces",,,102,Kph,Storm,Tropical cyclone,Flood,--,18,31680,6500,0,"Typhoon ""Mekkhala""",2008-0437
+19/10/2008,20/10/2008,Viet Nam,VNM,"Nghe An, Thua Thien-Hue, Quang Tri, Quang Nam, Quang Ngai, Thanh Hoa provinces",14.9,107.46,39090,Km2,Flood,Flash flood,"Slide (land, mud, sn",--,29,12004,4000,0,,2008-0481
+27/10/2008,04/11/2008,Viet Nam,VNM,"Thai Nguyen, Vinh Phuc, Hoa Binh, Ninh Binh, Thanh Hoa, Nghe An, Ha Tinh, Quang Binh, Ha Nam, Ha Noi City provinces",20.74,106.32,74590,Km2,Flood,Riverine flood,"Slide (land, mud, sn",--,99,600000,479000,0,,2008-0501
+05/11/2008,05/11/2008,Viet Nam,VNM,Ho Chi Minh City province,,,,Kph,Storm,Tropical cyclone,Flood,--,11,0,0,0,"Tropical Storm ""Maysak"" (Quinta-Sony)",2008-0540
+17/11/2008,20/11/2008,Viet Nam,VNM,"Phu Yen, Khanh Hoa, Binh Dinh, Lam Dong, Ninh Thuan, Quang Nam provinces",15.7,107.71,,Kph,Storm,Tropical cyclone,Flood,--,17,8828,1000,0,"Tropical storm ""Noul""",2008-0552
+25/12/2008,05/01/2009,Viet Nam,VNM,"Phu Yen, Binh Dinh, Quang Binh, Quang Nam provinces",18.89,107.06,29580,Km2,Flood,Riverine flood,--,--,9,20000,0,0,,2008-0607
+03/07/2009,06/07/2009,Viet Nam,VNM,"Bac Kan, Cao Bang, Ha Giang, Lai Chau provinces",20.67,104.3,69860,Km2,Flood,Riverine flood,--,--,20,700000,0,0,,2009-0247
+28/09/2009,29/09/2009,Viet Nam,VNM,"Binh Dinh, Da Nang City, Dak Lak, Gia Lai, Ha Tinh, Thua Thien - Hue, Kon Tum, Lam Dong, Phu Yen, Quang Binh, Quang Nam, Quang Ngai, Quang Tri provinces",,,170,Kph,Storm,Tropical cyclone,Flood,--,182,2477315,785000,0,"Tropical storm ""Ondoy"" (Ketsana)",2009-0414
+14/10/2009,14/10/2009,Viet Nam,VNM,"Bac Giang, Bac Kan, Bac Ninh, Cao Bang, Dien Bien, Ha Giang, Ha Nam, Ha Noi City, Ha Tay, Hai Duong, Hai Phong City, Hoa Binh, Hung Yen, Lai Chau, Lang Son, Lao Cai, Nam Dinh, Ninh Binh, Phu Tho, Quang Ninh, Son La, Thai Binh, Thai Nguyen, Thanh Hoa, Tuyen Quang, Vinh Phuc, Yen Bai provinces",,,,Kph,Storm,Tropical cyclone,--,--,0,0,200,0,"Typhoon ""Pepeng"" (Parma)",2009-0422
+02/11/2009,02/11/2009,Viet Nam,VNM,"Binh Dinh, Phu Yen, Khanh Hoa, Ninh Thuan, Dak Lak, Quang Nam, Quang Ngai, Kon Tum, Gia Lai provinces",,,140,Kph,Storm,Tropical cyclone,Flood,--,124,500145,280000,0,"Tropical storm ""Mirinae"" (Santi)",2009-0478
+25/09/2009,28/09/2009,Viet Nam,VNM,"Binh Dinh, Da Nang City, Gia Lai, Ha Tinh, Kon Tum, Nghe An, Quang Binh, Quang Nam, Quang Ngai, Quang Tri, Thua Thien - Hue provinces",15.19,108.02,47600,Km2,Flood,Riverine flood,--,--,17,40000,0,0,,2009-0611
+17/07/2010,17/07/2010,Viet Nam,VNM,"Thanh Hoa, Quang Ngai, Quang Ninh provinces",,,,Kph,Storm,Tropical cyclone,--,--,11,1500,500,0,Typhoon Conson (Basyang),2010-0308
+23/07/2010,25/07/2010,Viet Nam,VNM,"Cao Bang, Ha Giang, Lao Cai provinces",22.11,105.95,,Kph,Storm,Tropical cyclone,"Slide (land, mud, sn",--,10,12400,0,0,Typhoon Chanthu,2010-0332
+24/08/2010,25/08/2010,Viet Nam,VNM,"Nghe An, Thanh Hoa, Ha Tinh provinces",,,230,Kph,Storm,Tropical cyclone,--,--,14,20700,44000,0,Typhoon Mindulle,2010-0432
+01/10/2010,06/10/2010,Viet Nam,VNM,"Ha Tinh, Quang Binh, Quang Tri, Nghe An, Thua Thien - Hue provinces",,,,Km2,Flood,Flash flood,--,--,84,679825,142500,0,,2010-0515
+14/10/2010,18/10/2010,Viet Nam,VNM,"Nghe An, Ha Tinh, Quang Binh provinces",,,,Km2,Flood,Riverine flood,--,--,21,761000,154000,0,,2010-0539
+29/10/2010,10/11/2010,Viet Nam,VNM,"Ninh Thuan, Khanh Hoa, Phu Yen, Binh Dinh, Quang Ngai, Dak Lak provinces",12.52,108.9,33659,Km2,Flood,Riverine flood,--,--,31,39008,107700,0,,2010-0573
+12/11/2010,17/11/2010,Viet Nam,VNM,"Thua Thien-Hue, Quang Ngai, Quang Nam provinces",15.1821,108.8,45583.59,Km2,Flood,Riverine flood,--,--,50,10000,256000,0,,2010-0597
+22/06/2011,26/06/2011,Viet Nam,VNM,"Bac Giang, Bac Kan, Bac Ninh, Cao Bang, Dien Bien, Ha Giang, Ha Nam, Ha Noi City, Ha Tay, Hai Duong, Hai Phong City, Hoa Binh, Hung Yen, Lai Chau, Lang Son, Lao Cai, Nam Dinh, Ninh Binh, Phu Tho, Quang Ninh, Son La, Thai Binh, Thai Nguyen, Thanh Hoa, Tuyen Quang, Vinh Phuc, Yen Bai provinces",,,,Kph,Storm,Convective storm,Flood,--,16,63,0,0,,2011-0232
+14/09/2011,14/09/2011,Viet Nam,VNM,Lao Cai province,,,,Km2,Flood,Riverine flood,--,--,24,300000,44000,0,,2011-0359
+/09/2011,/12/2011,Viet Nam,VNM,"An Giang, Dong Thap, Long An, Can Tho city, Vinh Long, Hau Giang, Kien Giang provinces",,,,Km2,Flood,Riverine flood,--,--,85,600000,175002,0,,2011-0394
+21/10/2011,21/10/2011,Viet Nam,VNM,"Quang Tri, Quang Binh, Thua Thien-Hue, Quang Nam provinces",,,,Km2,Flood,Riverine flood,--,--,13,461584,0,0,,2011-0396
+19/06/2011,24/06/2011,Viet Nam,VNM,"Bac Giang, Bac Kan, Bac Ninh, Cao Bang, Dien Bien, Ha Giang, Ha Nam, Ha Noi City, Ha Tay, Hai Duong, Hai Phong City, Hoa Binh, Hung Yen, Lai Chau, Lang Son, Lao Cai, Nam Dinh, Ninh Binh, Phu Tho, Quang Ninh, Son La, Thai Binh, Thai Nguyen, Thanh Hoa, Tuyen Quang, Vinh Phuc, Yen Bai, Binh Dinh, Da Nang City, Gia Lai, Ha Tinh, Kon Tum, Nghe An, Quang Binh, Quang Nam, Quang Ngai, Quang Tri, Thua Thien - Hue provinces",,,,Kph,Storm,Tropical cyclone,--,--,0,0,0,0,Tropical Storm Haima (Egay),2011-0576
+26/07/2012,27/07/2012,Viet Nam,VNM,"Bac Kan, Cao Bang, Ha Giang, Lang Son, Tuyen Quang provinces",,,,Kph,Storm,Tropical cyclone,Flood,"Slide (land, mud, sn",10,3,0,0,Typhoon Vicente,2012-0259
+17/08/2012,17/08/2012,Viet Nam,VNM,"Yen Bai, Vinh Phuc, Quang Ninh, Hai Phong City provinces",,,,Kph,Storm,Tropical cyclone,"Slide (land, mud, sn",--,17,60479,6800,0,TYphoon Kai-Tak,2012-0294
+02/09/2012,11/09/2012,Viet Nam,VNM,"Ninh Binh, Ha Tinh, Thanh Hoa, Nghe An provinces",38.19,126.24,24179,Km2,Flood,Riverine flood,--,--,34,17540,30000,2000,,2012-0351
+28/10/2012,28/10/2012,Viet Nam,VNM,"Nghe An, Thanh Hoa, Ninh Binh, Nam Dinh, Thai Binh, Hai Phong City provinces",,,,Kph,Storm,Tropical cyclone,Flood,--,11,278490,336000,0,Typhoon Son Tinh (Ofel),2012-0406
+28/07/2013,30/07/2013,Viet Nam,VNM,"Lao Cai, Son La, Quang Ninh, Tuyen Quang provinces",,,,Km2,Flood,Riverine flood,--,--,5,5000,6500,0,,2013-0266
+/09/2013,/09/2013,Viet Nam,VNM,"Lao Cai, Ha Giang, Lai Chau provinces",,,,Km2,Flood,Riverine flood,"Slide (land, mud, sn",--,23,0,0,0,,2013-0333
+02/08/2013,03/08/2013,Viet Nam,VNM,"Bac Giang, Bac Kan, Bac Ninh, Cao Bang, Dien Bien, Ha Giang, Ha Nam, Ha Noi City, Ha Tay, Hai Duong, Hai Phong City, Hoa Binh, Hung Yen, Lai Chau, Lang Son, Lao Cai, Nam Dinh, Ninh Binh, Phu Tho, Quang Ninh, Son La, Thai Binh, Thai Nguyen, Thanh Hoa, Tuyen Quang, Vinh Phuc, Yen Bai provinces",,,,Kph,Storm,Tropical cyclone,--,--,7,5011,1000,0,Tropical storm Jebi,2013-0341
+24/09/2013,24/09/2013,Viet Nam,VNM,"An Giang, Ba Ria-Vung Tau, Bac Lieu, Ben Tre, Binh Dinh, Binh Duong, Binh Phuoc, Binh Thuan, Ca Mau, Can Tho City, Da Nang City, Dak Lak, Dak Nong, Dong Nai, Dong Thap, Gia Lai, Ha Tinh, Hau Giang, Ho Chi Minh City, Khanh Hoa, Kien Giang, Kon Tum, Lam Dong, Long An, Ninh Thuan, Phu Yen, Quang Binh, Quang Nam, Quang Ngai, Quang Tri, Soc Trang, Tay Ninh, Thua Thien - Hue, Tien Giang, Tra Vinh, Vinh Long provinces",,,,Km2,Flood,Riverine flood,--,--,30,0,0,0,,2013-0380
+03/09/2013,04/09/2013,Viet Nam,VNM,"Bac Giang, Bac Kan, Bac Ninh, Cao Bang, Da Nang City, Dien Bien, Ha Giang, Ha Nam, Ha Noi City, Ha Tay, Ha Tinh, Hai Duong, Hai Phong City, Hoa Binh, Hung Yen, Lai Chau, Lang Son, Lao Cai, Nam Dinh, Nghe An, Ninh Binh, Phu Tho, Quang Binh, Quang Nam, Quang Ninh, Quang Tri, Son La, Thai Binh, Thai Nguyen, Thanh Hoa, Thua Thien - Hue, Tuyen Quang, Vinh Phuc, Yen Bai provinces",,,,Km2,Flood,Riverine flood,"Slide (land, mud, sn",--,29,1000,0,0,,2013-0412
+16/09/2013,18/09/2013,Viet Nam,VNM,"Dak Lak, Quang Tri, Quang Ngai, Quang Nam, Kon Tum provinces",,,,Km2,Flood,Riverine flood,--,--,7,25000,0,0,,2013-0417
+30/09/2013,15/10/2013,Viet Nam,VNM,"Binh Dinh, Quang Binh, Quang Nam, Quang Ngai, Ha Tinh, Quang Tri, Thua Thien - Hue, Khanh Hoa, Nghe An, Da Nang City, Phu Yen, Thanh Hoa provinces",,,194,Kph,Storm,Tropical cyclone,--,--,36,1835585,663230,0,Typhoon Wutip ,2013-0419
+10/10/2013,15/10/2013,Viet Nam,VNM,"Da Nang City, Quang Nam, Thua Thien - Hue, Quang Ngai provinces",,,133,Kph,Storm,Tropical cyclone,--,--,20,109754,76000,0,Tropical storm Nari (SAnti),2013-0430
+11/11/2013,11/11/2013,Viet Nam,VNM,"Quang Ninh, Hai Phong City, Bac Giang, Quang Ngai, Thanh Hoa, Nghe An, Ha Tinh, Quang Tri, Thua Thien - Hue, Da Nang City, Quang Nam provinces",,,102,Kph,Storm,Tropical cyclone,--,--,16,13094,734000,0,Typhoon Haiyan (Yolanda),2013-0433
+14/11/2013,20/11/2013,Viet Nam,VNM,"Quang Ngai, Binh Dinh, Quang Nam, Da Nang City, Phu Yen, Gia Lai, Kon Tum provinces",15.58,107.7,48985,Km2,Flood,Riverine flood,--,--,47,2130001,72000,0,,2013-0443
+19/07/2014,20/07/2014,Viet Nam,VNM,Mong Cai Township district (Quang Ninh province),,,,Kph,Storm,Tropical cyclone,Flood,"Slide (land, mud, sn",27,36000,6200,0,Typhoon Rammasun (Glenda),2014-0227
+16/09/2014,16/09/2014,Viet Nam,VNM,"Bac Giang, Bac Kan, Bac Ninh, Cao Bang, Dien Bien, Ha Giang, Ha Nam, Ha Noi City, Ha Tay, Ha Tinh, Hai Duong, Hai Phong City, Hoa Binh, Hung Yen, Lai Chau, Lang Son, Lao Cai, Nam Dinh, Nghe An, Ninh Binh, Phu Tho, Quang Ninh, Son La, Thai Binh, Thai Nguyen, Thanh Hoa, Tuyen Quang, Vinh Phuc, Yen Bai provinces",,,130,Kph,Storm,Tropical cyclone,--,--,11,11325,4500,0,Typhoon Kalmaegi (Luis),2014-0390
+30/11/2014,30/11/2014,Viet Nam,VNM,"Phu Yen, Binh Dinh provinces",,,,Kph,Storm,Tropical cyclone,--,--,0,750,0,0,Tropical storm 'Sinlaku' (Queenie),2014-0474
+24/06/2015,29/06/2015,Viet Nam,VNM,Son La province,,,,Kph,Storm,Tropical cyclone,--,--,7,115,0,0,Tropical storm Kujira,2015-0252
+25/07/2015,05/08/2015,Viet Nam,VNM,Quang Ninh province,20.8137,106.86,24336.74,Km2,Flood,Flash flood,"Slide (land, mud, sn",--,32,15000,204000,0,,2015-0292
+07/09/2015,11/09/2015,Viet Nam,VNM,"Minh Tien village (Vi Xuyen district, Ha Giang province), Khanh Hoa, Cao Bang, Lai Chau, Dong Na, Lam Dong, Binh Thuan, An Giang, Dong Thap provinces",205.669,104.76,192886.73,Km2,Flood,--,--,--,2,100,0,0,,2015-0460
+/12/2015,/02/2017,Viet Nam,VNM,"An Giang, Ba Ria-Vung Tau, Ben Tre, Binh Dinh, Binh Duong, Binh Phuoc, Binh Thuan, Can Tho city, Dak Lak, Dak Nong, Dong Nai, Dong Thap, Gia Lai, Hau Giang, Ho Chi Minh City, Khanh Hoa, Kon Tum, Lam Dong, Long An, Ninh Thuan, Phu Yen, Quang Nam, Quang Ngai, Soc Trang, Tay Ninh, Tien Giang, Tra Vinh, Vinh Long provinces",,,,Km2,Drought,Drought,--,--,0,1750000,6750000,0,,2015-9617
+28/07/2016,28/07/2016,Viet Nam,VNM,"Nam Dinh, Thai Binh and Ninh Binh provinces",,,88,Kph,Storm,Tropical cyclone,--,--,1,191750,191000,0,Storm Mirinae,2016-0268
+13/10/2016,15/10/2016,Viet Nam,VNM,"Thua Thien-Hue, Quang Tri, Quang Binh, Ha Tinh, Nghe An provinces",,,,Kph,Storm,Tropical cyclone,Flood,--,34,610000,350000,0,Tropical storm Aere,2016-0362
+02/08/2016,02/08/2016,Viet Nam,VNM,"Muong Kuon, Bao Xat, Bao Thang, Sa Pa",,,,Kph,Storm,--,Flood,--,25,182500,144000,0,Typhoon Carina (Nida),2016-0371
+18/08/2016,21/08/2016,Viet Nam,VNM,"Hai Phong City, Quang Ninh, Yen Bai, Phu Tho, Lai Chau, Dien Bien, Son La, Hoa Binh, Than Hoa, Lao Cai, Bac Giang, Nghe An provinces",,,,Kph,Storm,Tropical cyclone,Flood,"Slide (land, mud, sn",11,11090,157,0,Tropical storm Dianmu,2016-0379
+09/10/2016,16/10/2016,Viet Nam,VNM,"Quang Binh (Minh Hoa, Tuyen Hoa), Ha Tinh (Huong Khe), Nghe An, Quang Tri  (Vinh Linh, Hai Lang, Trieu Phong), Thua Thien Hue provinces",16.004,107.68,63641.54,Km2,Flood,Riverine flood,--,--,35,659615,104280,0,,2016-0400
+12/12/2016,20/12/2016,Viet Nam,VNM,"Thua Thien - Hue, Quang Nam, Quang Ngai, Binh Dinh provinces",,,44341.22,Km2,Flood,--,--,--,27,562121,35000,0,,2016-0497
+30/10/2016,05/11/2016,Viet Nam,VNM,"Ha Tinh (Huong Khe, Huong Son, Vu Quang, Cam Xuyen, Duc Tho), Quang Binh (Bo Trach, Quang Trach (Ba Don), Tuyen Hoan, Le Thuy, Minh Hoa), Quang Tri (Vinh Linh, Hai Lang, Trieu Phong, Cam Lo); Quang Ngai, Gia Lai, Dak Lak, Binh Dinh, Phu Yen, Khanh Hoa, Ninh Thuan",,,,Km2,Flood,--,--,--,21,206340,22000,0,,2016-0517
+12/08/2016,14/08/2016,Viet Nam,VNM,"Thanh Hï¿½a, Lï¿½o Cai, Yï¿½n Bï¿½i, Bac Kan, Dien Bien,  Ha Thin, Son La, Thai Nguyen",,,,Km2,Flood,--,"Slide (land, mud, sn",--,8,509,0,0,,2016-0573
+27/06/2017,05/07/2017,Viet Nam,VNM,"Ha Giang, Lao Cai, Dien Bien, Yen Bai, Tuyen Quang, Thai Nguyen, Lai Chau, Bac Kan, Cao Bang, Binh Thuan, An Giang, and Cï¿½ Mau Provinces
 
 ",,,,Km2,Flood,--,"Slide (land, mud, sn",--,1,4104,355,0,,2017-0259
-07/07/2017,10/07/2017,"Viet Nam",VNM,"Thai Nguyen, Ha Giang, Dien Bien, Hoa Binh, Cao Bang",,,,Km2,Flood,--,"Slide (land, mud, sn",--,14,400,1300,0,,2017-0270
-17/07/2017,18/07/2017,"Viet Nam",VNM,"Thanh Hoa, Nghe An (Hon Ngu beach, Cua Lo district), Ha Tinh, Ha Noi city (Nhà
-Xanh Market in Câu Giây District)",,,95,Kph,Storm,"Tropical cyclone",--,--,9,21000,0,0,"Tropical Storm Talas",2017-0281
-03/08/2017,03/08/2017,"Viet Nam",VNM,"Yen Bai (Mu Cang Chai Town), Son La (Muong La), Bac Kan, Lai Chau, Dien Bien",,,,Km2,Flood,"Flash flood",--,--,39,4161,88000,0,,2017-0337
-15/09/2017,16/09/2017,"Viet Nam",VNM,"Nghe An, Ha Tinh, Thnah Hoa,  Qunag Binh, Qunag Tri, Thua Thien-Hue, Hoa Binh",,,165,Kph,Storm,"Tropical cyclone",--,--,18,615112,484000,0,"TYphoon 'Doksuri'",2017-0406
-04/11/2017,05/11/2017,"Viet Nam",VNM,"Khanh Hoa, Phu Yên, Binh Dinh, Dak Lak, Gia Lai, Dak Nông, Lâm Dông, Quang Nam, Quang Ngai, Kom Tum",,,130,Kph,Storm,"Tropical cyclone",Flood,--,123,4330000,1000000,0,"Typhoon 'Damrey'",2017-0422
-08/10/2017,16/10/2017,"Viet Nam",VNM,"Thanh Hoa, Nghe An, Ha Tinh, Hoa Binh, Yen Bai, Son La, Quang Tri, Ha Noi, Phu Tho, Ha Nam",,,,Km2,Flood,--,"Slide (land, mud, sn",--,103,40000,0,0,,2017-0428
-19/11/2017,24/11/2017,"Viet Nam",VNM,"Quang Tr?, Thua Thien-Hue, ?a Nang, Quang Nam, Quang Ngai, and Binh D?nh ",11.664,108.399,27646.32,Km2,Flood,--,--,--,8,41500,0,0,,2017-0492
-
-
-"Created on: December 28, 2017"
-"Source: EM-DAT: The Emergency Events Database - Universite catholique de Louvain (UCL) - CRED, D. Guha-Sapir - www.emdat.be, Brussels, Belgium"
+07/07/2017,10/07/2017,Viet Nam,VNM,"Thai Nguyen, Ha Giang, Dien Bien, Hoa Binh, Cao Bang",,,,Km2,Flood,--,"Slide (land, mud, sn",--,14,400,1300,0,,2017-0270
+17/07/2017,18/07/2017,Viet Nam,VNM,"Thanh Hoa, Nghe An (Hon Ngu beach, Cua Lo district), Ha Tinh, Ha Noi city (Nhï¿½
+Xanh Market in Cï¿½u Giï¿½y District)",,,95,Kph,Storm,Tropical cyclone,--,--,9,21000,0,0,Tropical Storm Talas,2017-0281
+03/08/2017,03/08/2017,Viet Nam,VNM,"Yen Bai (Mu Cang Chai Town), Son La (Muong La), Bac Kan, Lai Chau, Dien Bien",,,,Km2,Flood,Flash flood,--,--,39,4161,88000,0,,2017-0337
+15/09/2017,16/09/2017,Viet Nam,VNM,"Nghe An, Ha Tinh, Thnah Hoa,  Qunag Binh, Qunag Tri, Thua Thien-Hue, Hoa Binh",,,165,Kph,Storm,Tropical cyclone,--,--,18,615112,484000,0,TYphoon 'Doksuri',2017-0406
+04/11/2017,05/11/2017,Viet Nam,VNM,"Khanh Hoa, Phu Yï¿½n, Binh Dinh, Dak Lak, Gia Lai, Dak Nï¿½ng, Lï¿½m Dï¿½ng, Quang Nam, Quang Ngai, Kom Tum",,,130,Kph,Storm,Tropical cyclone,Flood,--,123,4330000,1000000,0,Typhoon 'Damrey',2017-0422
+08/10/2017,16/10/2017,Viet Nam,VNM,"Thanh Hoa, Nghe An, Ha Tinh, Hoa Binh, Yen Bai, Son La, Quang Tri, Ha Noi, Phu Tho, Ha Nam",,,,Km2,Flood,--,"Slide (land, mud, sn",--,103,40000,0,0,,2017-0428
+19/11/2017,24/11/2017,Viet Nam,VNM,"Quang Tri, Thua Thien-Hue, Da Nang, Quang Nam, Quang Ngai, and Binh Dinh ",11.664,108.399,27646.32,Km2,Flood,--,--,--,8,41500,0,0,,2017-0492
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+"Created on: December 28, 2017",,,,,,,,,,,,,,,,,,
+"Source: EM-DAT: The Emergency Events Database - Universite catholique de Louvain (UCL) - CRED, D. Guha-Sapir - www.emdat.be, Brussels, Belgium",,,,,,,,,,,,,,,,,,
