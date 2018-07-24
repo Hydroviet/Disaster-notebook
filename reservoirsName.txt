@@ -1,3 +1,0 @@
-LAO,0,Nam Ngum reservoir
-LAO,2,Houay Ho dam
-
