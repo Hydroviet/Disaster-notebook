@@ -1,3 +1,20 @@
-Draft*
-reservoirsShapefile
+# Shapefile
+*Shapefile
+
+# Image
 DisasterGeometry
+FloodHeatmap
+
+# Draft
+Draft*
+Untitled*
+EMDAT_notebook.ipynb
+Plot_Modis.ipynb
+
+# Others
+reservoirsAndDamsPerRiver.txt
+Flood_Observatory_Historical_DB.csv
+weight_distance.csv
+.ipynb_checkpoints
+
+
